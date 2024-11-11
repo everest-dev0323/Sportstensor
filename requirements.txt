@@ -9,3 +9,5 @@ openpyxl
 wandb
 tabulate
 python-dotenv
+fuzzywuzzy
+tensorflow
