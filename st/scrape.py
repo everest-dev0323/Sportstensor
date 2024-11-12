@@ -72,16 +72,10 @@ def scrape():
                                 odds_element = children[-1].query_selector_all(
                                     "p.default-odds-bg-bgcolor"
                                 )
-                                if len(odds_element) == 0:
-                                    continue
-                                goals_elements = (
-                                    children[-1]
-                                    .query_selector(
-                                        "div:nth-child(1) a:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1)"
-                                    )
-                                    .query_selector_all("div")
+                                goals_elements = children[-1].query_selector_all(
+                                    "div:nth-child(1) a:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1) div"
                                 )
-                                if len(goals_elements) == 0:
+                                if len(goals_elements) == 0 or len(odds_element) == 0:
                                     continue
                                 goal_home = int(goals_elements[0].text_content())
                                 goal_away = int(goals_elements[1].text_content())
