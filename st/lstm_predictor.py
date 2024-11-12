@@ -20,8 +20,8 @@ from common.data import ProbabilityChoice
 # Set TensorFlow logging to only show errors
 tf.get_logger().setLevel("ERROR")
 
-LEAGUES_PATH = "./leagues.json"
-UPCOMMING_MATCHES_PATH = "./data/next_matches"
+LEAGUES_PATH = "./st/leagues.json"
+UPCOMMING_MATCHES_PATH = "./st/data/next_matches"
 
 features1 = [
     "HomeTeam",
@@ -242,6 +242,7 @@ class Predictor:
         ]
         if cur_match.empty:
             return None
+        cur_match = cur_match.iloc[0]
         if can_draw:
             return cur_match[["ODDS1", "ODDSX", "ODDS2"]].values.flatten().tolist()
         else:
@@ -286,7 +287,9 @@ class Predictor:
         )
         if competition is None:
             if sport == 1:
-                le = joblib.load("./models/england-premier-league/label_encoder.joblib")
+                le = joblib.load(
+                    "./st/models/england-premier-league/label_encoder.joblib"
+                )
                 encoded_teams = set(le.classes_)
                 home_match = self.get_best_match(home_team, encoded_teams)
                 away_match = self.get_best_match(away_team, encoded_teams)
@@ -330,8 +333,8 @@ class Predictor:
                 "mismatch",
                 can_draw,
             )
-        model_path = f"./models/{competition['folder_name']}"
-        data_path = f"./match_infos/{competition['folder_name']}"
+        model_path = f"./st/models/{competition['folder_name']}"
+        data_path = f"./st/match_infos/{competition['folder_name']}"
         fbmodel = tf.keras.models.load_model(
             f"{model_path}/model.keras", custom_objects={"TimeStepSlice": TimeStepSlice}
         )

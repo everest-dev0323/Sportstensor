@@ -35,11 +35,9 @@ def scrape():
             league_type = league_info["type"]
             region = league_info["region"]
             league = league_info["league"]
-            filename = f"{region}-{league}"
             total = []
             try:
                 page.goto(f"https://www.oddsportal.com/{league_type}/{region}/{league}")
-                page.wait_for_timeout(10000)
                 page.wait_for_selector("div.eventRow")
                 events = page.query_selector_all("div.eventRow")
 
@@ -54,53 +52,26 @@ def scrape():
                         )
                     if datetime.strptime(date_str, "%Y-%m-%d") > end_date:
                         break
-                    p_element = children[-1].query_selector_all("p")
-
-                    if len(p_element) == 6 and league_info != "football":
-                        p_element.pop(1)
-
-                    if p_element[1].text_content() in [
-                        "canc.",
-                        "award.",
-                        "w.o.",
-                    ]:
-                        continue
-
-                    home_team = (
-                        p_element[2 if len(p_element) > 6 else 1]
-                        .text_content()
-                        .split("(")[0]
-                        .strip()
+                    p_element = children[-1].query_selector_all("p.participant-name")
+                    odds_element = children[-1].query_selector_all(
+                        "p.default-odds-bg-bgcolor"
                     )
-                    away_team = (
-                        p_element[3 if len(p_element) > 6 else 2]
-                        .text_content()
-                        .split("(")[0]
-                        .strip()
-                    )
-
-                    odds = [
-                        odds.text_content()
-                        for odds in p_element[
-                            5 if len(p_element) > 6 else 3 : (
-                                (8 if len(p_element) > 6 else 6)
-                                - (0 if league_type == "football" else 1)
-                            )
-                        ]
-                    ]
-
+                    if len(odds_element) == 0:
+                        odds_element = children[-1].query_selector_all(
+                            "span.default-odds-bg-bgcolor p"
+                        )
                     total.append(
-                        [
-                            date_str,
-                            home_team,
-                            away_team,
+                        [date_str]
+                        + [
+                            names.text_content().split("(")[0].strip()
+                            for names in p_element
                         ]
-                        + odds
+                        + [odds.text_content() for odds in odds_element]
                     )
             except Exception as err:
                 print(f"Error on {league}")
 
-            file_path = f"./data/next_matches/{filename}.csv"
+            file_path = f"./data/next_matches/{region}-{league}.csv"
             with open(file_path, mode="w", newline="", encoding="utf-8") as file:
                 writer = csv.writer(file)
                 header = [

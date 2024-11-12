@@ -1,7 +1,7 @@
 import datetime as dt
 import os
 from common.data import Sport, League, MatchPrediction
-from st.sport_prediction_model import make_match_prediction
+from st.sport_prediction_lstm import make_match_prediction
 
 
 # from sportstensor.predictions import make_match_prediction
@@ -48,6 +48,7 @@ def mlb():
     Prediction: {match_prediction.probabilityChoice} ({match_prediction.get_predicted_team()}) with probability {match_prediction.probability}"
     )
 
+
 def epl():
     matchDate = "2024-09-20"
     match_prediction = MatchPrediction(
@@ -67,6 +68,7 @@ def epl():
         f"Match Prediction for {match_prediction.awayTeamName} at {match_prediction.homeTeamName} on {matchDate}: \
     Prediction: {match_prediction.probabilityChoice} ({match_prediction.get_predicted_team()}) with probability {match_prediction.probability}"
     )
+
 
 def nfl():
     matchDate = "2024-09-20"
@@ -88,6 +90,7 @@ def nfl():
 
     return match_prediction
 
+
 def nba():
     matchDate = "2024-09-20"
     match_prediction = MatchPrediction(
@@ -108,9 +111,10 @@ def nba():
 
     return match_prediction
 
+
 if __name__ == "__main__":
-    #mls()
-    #mlb()
-    #epl()
-    #nfl()
+    # mls()
+    # mlb()
+    # epl()
+    # nfl()
     nba()

@@ -6,11 +6,11 @@ from datetime import datetime, timedelta
 start_year = 2024
 end_year = 2024
 leagues = [
-    {"type": "football", "region": "england", "league": "premier-league"},
+    # {"type": "football", "region": "england", "league": "premier-league"},
     {"type": "football", "region": "usa", "league": "mls", "season_type": 1},
-    {"type": "basketball", "region": "usa", "league": "nba"},
-    {"type": "american-football", "region": "usa", "league": "nfl"},
-    {"type": "baseball", "region": "usa", "league": "mlb", "season_type": 1},
+    # {"type": "basketball", "region": "usa", "league": "nba"},
+    # {"type": "american-football", "region": "usa", "league": "nfl"},
+    # {"type": "baseball", "region": "usa", "league": "mlb", "season_type": 1},
 ]
 
 
@@ -39,12 +39,16 @@ def scrape():
             season_type = league_info.get("season_type", None)
 
             for year in range(start_year, end_year + 1):
-                url = f"https://www.oddsportal.com/{league_type}/{region}/{league}{'-'+str(year) if season_type and year != 2024 else ''}{f'-{year}-{year + 1}' if year != 2024 and not season_type else ''}/results"
+                url = f"https://www.oddsportal.com/{league_type}/{region}/{league}{'-'+str(year) if season_type and year != 2024 else ''}{f'-{year}-{year + 1}' if year != 2024 and not season_type else ''}/results/#/page/1/"
                 print(f"Scraping {url}")
                 try:
                     page.goto(url)
                     total = []
+                    count = 0
                     while True:
+                        # page.wait_for_timeout(20000)
+                        print(count)
+                        page.wait_for_load_state("domcontentloaded")
                         page.wait_for_selector("div.eventRow")
                         events = page.query_selector_all("div.eventRow")
                         date_str = ""
@@ -62,30 +66,14 @@ def scrape():
                                         else ""
                                     )
 
-                                p_element = children[-1].query_selector_all("p")
-                                if len(p_element) == 6 and league_info != "football":
-                                    p_element.pop(1)
-                                if p_element[1].text_content() in [
-                                    "postp.",
-                                    "canc.",
-                                    "award.",
-                                    "w.o.",
-                                ]:
+                                p_element = children[-1].query_selector_all(
+                                    "p.participant-name"
+                                )
+                                odds_element = children[-1].query_selector_all(
+                                    "p.default-odds-bg-bgcolor"
+                                )
+                                if len(odds_element) == 0:
                                     continue
-
-                                home_team = (
-                                    p_element[2 if len(p_element) > 6 else 1]
-                                    .text_content()
-                                    .split("(")[0]
-                                    .strip()
-                                )
-                                away_team = (
-                                    p_element[3 if len(p_element) > 6 else 2]
-                                    .text_content()
-                                    .split("(")[0]
-                                    .strip()
-                                )
-
                                 goals_elements = (
                                     children[-1]
                                     .query_selector(
@@ -93,43 +81,27 @@ def scrape():
                                     )
                                     .query_selector_all("div")
                                 )
-                                goal_home = (
-                                    int(goals_elements[0].text_content())
-                                    if len(goals_elements) > 1
-                                    else -1
-                                )
-                                goal_away = (
-                                    int(goals_elements[1].text_content())
-                                    if len(goals_elements) > 1
-                                    else -1
-                                )
+                                if len(goals_elements) == 0:
+                                    continue
+                                goal_home = int(goals_elements[0].text_content())
+                                goal_away = int(goals_elements[1].text_content())
                                 result = (
                                     "D"
                                     if goal_home == goal_away
                                     else "H" if goal_home > goal_away else "A"
                                 )
-
-                                odds = [
-                                    odds.text_content()
-                                    for odds in p_element[
-                                        5 if len(p_element) > 6 else 3 : (
-                                            (8 if len(p_element) > 6 else 6)
-                                            - (0 if league_type == "football" else 1)
-                                        )
-                                    ]
-                                ]
-
                                 total.append(
-                                    [
-                                        date_str,
-                                        year,
-                                        home_team,
-                                        away_team,
+                                    [date_str, year]
+                                    + [
+                                        names.text_content().split("(")[0].strip()
+                                        for names in p_element
+                                    ]
+                                    + [
                                         goal_home,
                                         goal_away,
                                         result,
                                     ]
-                                    + odds
+                                    + [odds.text_content() for odds in odds_element]
                                 )
 
                             except Exception as e:
@@ -140,6 +112,7 @@ def scrape():
                         )
                         if next_button and next_button.text_content() == "Next":
                             next_button.click()
+                            count += 1
                             page.wait_for_timeout(100)
                         else:
                             break

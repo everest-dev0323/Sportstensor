@@ -1,11 +1,9 @@
 from abc import ABC, abstractmethod
-from typing import List
 from common.data import MatchPrediction
 import pandas as pd
 import os
 import numpy as np
 import bittensor as bt
-import datetime as dt
 
 
 class SportPredictionModel(ABC):
@@ -24,8 +22,7 @@ class SportPredictionModel(ABC):
 
 def make_match_prediction(prediction: MatchPrediction):
     # Lazy import to avoid circular dependency
-    # from st.lstm_predictor import Predictor
-    from st.ml_predictor import Predictor
+    from st.lstm_predictor import Predictor
 
     predictor = Predictor()
     bt.logging.warning(prediction)
@@ -35,8 +32,11 @@ def make_match_prediction(prediction: MatchPrediction):
         prediction
     )
 
-    os.makedirs("./logging", exist_ok=True)
-    file_path = f"./logging/{league}.csv"
+    home_team = prediction.homeTeamName
+    away_team = prediction.awayTeamName
+
+    os.makedirs("./st/logging_lstm", exist_ok=True)
+    file_path = f"./st/logging_lstm/{league}.csv"
     pred_match = pd.DataFrame()
     match_date = prediction.matchDate.strftime("%Y-%m-%d")
     # Check if file exists and is non-empty
@@ -86,39 +86,3 @@ def make_match_prediction(prediction: MatchPrediction):
     prediction.probability = np.max(conf_scores)
 
     return prediction
-
-
-competition = "NFL"
-sport = 2
-home_teams = [
-    "Chicago Bears",
-    "Detroit Lions",
-    "Miami Dolphins",
-    "New England Patriots",
-    "New Orleans Saints",
-    "New York Jets",
-    "Denver Broncos",
-]
-away_teams = [
-    "Green Bay Packers",
-    "Jacksonville Jaguars",
-    "Las Vegas Raiders",
-    "Los Angeles Rams",
-    "Cleveland Browns",
-    "Indianapolis Colts",
-    "Atlanta Falcons",
-]
-date = "2024-11-17"
-
-for home_team, away_team in zip(home_teams, away_teams):
-    prediction = MatchPrediction(
-        matchId=123,
-        matchDate=dt.datetime.strptime(date, "%Y-%m-%d"),
-        sport=sport,
-        league=competition,
-        homeTeamName=home_team,
-        awayTeamName=away_team,
-    )
-    result = make_match_prediction(prediction)
-
-    print(result)
