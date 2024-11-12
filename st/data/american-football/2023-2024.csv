@@ -1,0 +1,336 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2,Season
+2023-08-04,Cleveland Browns,New York Jets,21,16,H,2.08,1.74,2023
+2023-08-11,New England Patriots,Houston Texans,9,20,A,2.36,1.58,2023
+2023-08-11,Seattle Seahawks,Minnesota Vikings,24,13,H,1.53,2.49,2023
+2023-08-12,Tampa Bay Buccaneers,Pittsburgh Steelers,17,27,A,2.32,1.59,2023
+2023-08-12,Miami Dolphins,Atlanta Falcons,3,19,A,1.72,2.1,2023
+2023-08-12,Detroit Lions,New York Giants,21,16,H,1.97,1.82,2023
+2023-08-12,Cincinnati Bengals,Green Bay Packers,19,36,A,2.56,1.5,2023
+2023-08-12,Cleveland Browns,Washington Commanders,15,17,A,1.66,2.19,2023
+2023-08-12,Arizona Cardinals,Denver Broncos,18,17,H,2.95,1.38,2023
+2023-08-13,Chicago Bears,Tennessee Titans,23,17,H,1.51,2.53,2023
+2023-08-13,Buffalo Bills,Indianapolis Colts,23,19,H,2.45,1.54,2023
+2023-08-13,Carolina Panthers,New York Jets,0,27,A,1.62,2.27,2023
+2023-08-13,Dallas Cowboys,Jacksonville Jaguars,23,28,A,2.46,1.53,2023
+2023-08-13,Baltimore Ravens,Philadelphia Eagles,20,19,H,1.33,3.22,2023
+2023-08-13,Los Angeles Rams,Los Angeles Chargers,17,34,A,1.69,2.15,2023
+2023-08-14,New Orleans Saints,Kansas City Chiefs,26,24,H,1.8,1.99,2023
+2023-08-14,Las Vegas Raiders,San Francisco 49ers,34,7,H,2.61,1.48,2023
+2023-08-18,Philadelphia Eagles,Cleveland Browns,18,18,D,1.52,2.5,2023
+2023-08-19,New York Giants,Carolina Panthers,21,19,H,1.57,2.39,2023
+2023-08-19,Atlanta Falcons,Cincinnati Bengals,13,13,D,1.4,2.89,2023
+2023-08-20,Detroit Lions,Jacksonville Jaguars,7,25,A,2.19,1.67,2023
+2023-08-20,Houston Texans,Miami Dolphins,3,28,A,1.83,1.95,2023
+2023-08-20,Pittsburgh Steelers,Buffalo Bills,27,15,H,1.96,1.86,2023
+2023-08-20,Indianapolis Colts,Chicago Bears,24,17,H,1.42,2.79,2023
+2023-08-20,New York Jets,Tampa Bay Buccaneers,6,13,A,1.62,2.29,2023
+2023-08-20,Minnesota Vikings,Tennessee Titans,16,24,A,2.15,1.68,2023
+2023-08-20,Green Bay Packers,New England Patriots,17,21,A,1.69,2.16,2023
+2023-08-20,Arizona Cardinals,Kansas City Chiefs,10,38,A,3.42,1.3,2023
+2023-08-20,San Francisco 49ers,Denver Broncos,21,20,H,2.35,1.58,2023
+2023-08-20,Los Angeles Rams,Las Vegas Raiders,17,34,A,2.68,1.46,2023
+2023-08-20,Seattle Seahawks,Dallas Cowboys,22,14,H,1.35,3.16,2023
+2023-08-21,Los Angeles Chargers,New Orleans Saints,17,22,A,2.33,1.6,2023
+2023-08-22,Washington Commanders,Baltimore Ravens,29,28,H,2.04,1.76,2023
+2023-08-25,Atlanta Falcons,Pittsburgh Steelers,0,24,A,3.0,1.38,2023
+2023-08-25,Philadelphia Eagles,Indianapolis Colts,13,27,A,3.0,1.37,2023
+2023-08-26,Carolina Panthers,Detroit Lions,17,26,A,1.45,2.71,2023
+2023-08-26,Tennessee Titans,New England Patriots,23,7,H,1.68,2.17,2023
+2023-08-26,San Francisco 49ers,Los Angeles Chargers,12,23,A,1.26,3.72,2023
+2023-08-27,Minnesota Vikings,Arizona Cardinals,17,18,A,2.13,1.69,2023
+2023-08-27,Kansas City Chiefs,Cleveland Browns,33,32,H,2.66,1.46,2023
+2023-08-27,Green Bay Packers,Seattle Seahawks,19,15,H,1.59,2.34,2023
+2023-08-27,Chicago Bears,Buffalo Bills,21,24,A,2.55,1.5,2023
+2023-08-27,New York Giants,New York Jets,24,32,A,2.83,1.42,2023
+2023-08-27,Washington Commanders,Cincinnati Bengals,21,19,H,1.58,2.35,2023
+2023-08-27,Tampa Bay Buccaneers,Baltimore Ravens,26,20,H,1.75,2.05,2023
+2023-08-27,Jacksonville Jaguars,Miami Dolphins,31,18,H,1.42,2.81,2023
+2023-08-27,Dallas Cowboys,Las Vegas Raiders,31,16,H,2.71,1.45,2023
+2023-08-27,Denver Broncos,Los Angeles Rams,41,0,H,1.42,2.8,2023
+2023-08-28,New Orleans Saints,Houston Texans,13,17,A,1.85,1.93,2023
+2023-09-08,Kansas City Chiefs,Detroit Lions,20,21,A,1.49,2.71,2023
+2023-09-11,Washington Commanders,Arizona Cardinals,20,16,H,1.32,3.49,2023
+2023-09-11,Pittsburgh Steelers,San Francisco 49ers,7,30,A,2.01,1.83,2023
+2023-09-11,New Orleans Saints,Tennessee Titans,16,15,H,1.67,2.26,2023
+2023-09-11,Minnesota Vikings,Tampa Bay Buccaneers,17,20,A,1.48,2.72,2023
+2023-09-11,Indianapolis Colts,Jacksonville Jaguars,21,31,A,2.6,1.52,2023
+2023-09-11,Cleveland Browns,Cincinnati Bengals,24,3,H,1.91,1.91,2023
+2023-09-11,Baltimore Ravens,Houston Texans,25,9,H,1.21,4.52,2023
+2023-09-11,Atlanta Falcons,Carolina Panthers,24,10,H,1.54,2.56,2023
+2023-09-11,Seattle Seahawks,Los Angeles Rams,13,30,A,1.46,2.76,2023
+2023-09-11,New England Patriots,Philadelphia Eagles,20,25,A,2.54,1.54,2023
+2023-09-11,Los Angeles Chargers,Miami Dolphins,34,36,A,1.61,2.37,2023
+2023-09-11,Denver Broncos,Las Vegas Raiders,16,17,A,1.62,2.36,2023
+2023-09-11,Chicago Bears,Green Bay Packers,20,38,A,1.82,2.02,2023
+2023-09-11,New York Giants,Dallas Cowboys,0,40,A,2.46,1.57,2023
+2023-09-12,New York Jets,Buffalo Bills,22,16,H,2.17,1.71,2023
+2023-09-15,Philadelphia Eagles,Minnesota Vikings,34,28,H,1.38,3.12,2023
+2023-09-18,Tennessee Titans,Los Angeles Chargers,27,24,H,2.24,1.67,2023
+2023-09-18,Tampa Bay Buccaneers,Chicago Bears,27,17,H,1.75,2.12,2023
+2023-09-18,Jacksonville Jaguars,Kansas City Chiefs,9,17,A,2.39,1.6,2023
+2023-09-18,Houston Texans,Indianapolis Colts,20,31,A,1.87,1.96,2023
+2023-09-18,Detroit Lions,Seattle Seahawks,31,37,A,1.45,2.79,2023
+2023-09-18,Cincinnati Bengals,Baltimore Ravens,24,27,A,1.59,2.42,2023
+2023-09-18,Buffalo Bills,Las Vegas Raiders,38,10,H,1.29,3.74,2023
+2023-09-18,Atlanta Falcons,Green Bay Packers,25,24,H,1.65,2.29,2023
+2023-09-18,Los Angeles Rams,San Francisco 49ers,23,30,A,3.62,1.3,2023
+2023-09-18,Arizona Cardinals,New York Giants,28,31,A,2.8,1.45,2023
+2023-09-18,Denver Broncos,Washington Commanders,33,35,A,1.49,2.65,2023
+2023-09-18,Dallas Cowboys,New York Jets,30,10,H,1.25,4.05,2023
+2023-09-18,New England Patriots,Miami Dolphins,17,24,A,2.05,1.79,2023
+2023-09-19,Carolina Panthers,New Orleans Saints,17,20,A,2.48,1.57,2023
+2023-09-19,Pittsburgh Steelers,Cleveland Browns,26,22,H,2.16,1.73,2023
+2023-09-22,San Francisco 49ers,New York Giants,30,12,H,1.17,5.19,2023
+2023-09-25,Washington Commanders,Buffalo Bills,3,37,A,2.83,1.44,2023
+2023-09-25,New York Jets,New England Patriots,10,15,A,2.16,1.72,2023
+2023-09-25,Minnesota Vikings,Los Angeles Chargers,24,28,A,1.9,1.93,2023
+2023-09-25,Miami Dolphins,Denver Broncos,70,20,H,1.38,3.1,2023
+2023-09-25,Jacksonville Jaguars,Houston Texans,17,37,A,1.27,3.88,2023
+2023-09-25,Green Bay Packers,New Orleans Saints,18,17,H,2.07,1.77,2023
+2023-09-25,Detroit Lions,Atlanta Falcons,20,6,H,1.58,2.44,2023
+2023-09-25,Cleveland Browns,Tennessee Titans,27,3,H,1.54,2.56,2023
+2023-09-25,Baltimore Ravens,Indianapolis Colts,19,22,A,1.27,3.89,2023
+2023-09-25,Seattle Seahawks,Carolina Panthers,37,27,H,1.47,2.76,2023
+2023-09-25,Kansas City Chiefs,Chicago Bears,41,10,H,1.13,5.95,2023
+2023-09-25,Arizona Cardinals,Dallas Cowboys,28,16,H,5.41,1.16,2023
+2023-09-25,Las Vegas Raiders,Pittsburgh Steelers,18,23,A,1.62,2.34,2023
+2023-09-26,Tampa Bay Buccaneers,Philadelphia Eagles,11,25,A,3.09,1.39,2023
+2023-09-26,Cincinnati Bengals,Los Angeles Rams,19,16,H,1.6,2.4,2023
+2023-09-29,Green Bay Packers,Detroit Lions,20,34,A,2.15,1.73,2023
+2023-10-01,Jacksonville Jaguars,Atlanta Falcons,23,7,H,1.55,2.5,2023
+2023-10-02,Tennessee Titans,Cincinnati Bengals,27,3,H,2.2,1.7,2023
+2023-10-02,Philadelphia Eagles,Washington Commanders,34,31,H,1.23,4.27,2023
+2023-10-02,New Orleans Saints,Tampa Bay Buccaneers,9,26,A,1.46,2.76,2023
+2023-10-02,Indianapolis Colts,Los Angeles Rams,23,29,A,1.99,1.84,2023
+2023-10-02,Houston Texans,Pittsburgh Steelers,30,6,H,2.28,1.66,2023
+2023-10-02,Cleveland Browns,Baltimore Ravens,3,28,A,2.02,1.82,2023
+2023-10-02,Chicago Bears,Denver Broncos,28,31,A,2.28,1.65,2023
+2023-10-02,Carolina Panthers,Minnesota Vikings,13,21,A,2.69,1.48,2023
+2023-10-02,Buffalo Bills,Miami Dolphins,48,20,H,1.65,2.28,2023
+2023-10-02,Los Angeles Chargers,Las Vegas Raiders,24,17,H,1.36,3.26,2023
+2023-10-02,San Francisco 49ers,Arizona Cardinals,35,16,H,1.09,7.72,2023
+2023-10-02,Dallas Cowboys,New England Patriots,38,3,H,1.38,3.11,2023
+2023-10-02,New York Jets,Kansas City Chiefs,20,23,A,4.26,1.24,2023
+2023-10-03,New York Giants,Seattle Seahawks,3,24,A,2.17,1.71,2023
+2023-10-06,Washington Commanders,Chicago Bears,20,40,A,1.37,3.13,2023
+2023-10-08,Buffalo Bills,Jacksonville Jaguars,20,25,A,1.41,2.93,2023
+2023-10-09,Pittsburgh Steelers,Baltimore Ravens,17,10,H,2.78,1.46,2023
+2023-10-09,New England Patriots,New Orleans Saints,0,34,A,1.78,2.05,2023
+2023-10-09,Miami Dolphins,New York Giants,31,16,H,1.13,6.13,2023
+2023-10-09,Indianapolis Colts,Tennessee Titans,23,16,H,2.15,1.73,2023
+2023-10-09,Detroit Lions,Carolina Panthers,42,24,H,1.22,4.45,2023
+2023-10-09,Atlanta Falcons,Houston Texans,21,19,H,1.73,2.14,2023
+2023-10-09,Los Angeles Rams,Philadelphia Eagles,14,23,A,2.6,1.52,2023
+2023-10-09,Arizona Cardinals,Cincinnati Bengals,20,34,A,2.47,1.57,2023
+2023-10-09,Minnesota Vikings,Kansas City Chiefs,20,27,A,2.55,1.54,2023
+2023-10-09,Denver Broncos,New York Jets,21,31,A,1.73,2.16,2023
+2023-10-09,San Francisco 49ers,Dallas Cowboys,42,10,H,1.53,2.56,2023
+2023-10-10,Las Vegas Raiders,Green Bay Packers,17,13,H,1.83,2.02,2023
+2023-10-13,Kansas City Chiefs,Denver Broncos,19,8,H,1.16,5.37,2023
+2023-10-15,Tennessee Titans,Baltimore Ravens,16,24,A,2.88,1.42,2023
+2023-10-16,Miami Dolphins,Carolina Panthers,42,21,H,1.1,7.15,2023
+2023-10-16,Jacksonville Jaguars,Indianapolis Colts,37,20,H,1.49,2.69,2023
+2023-10-16,Houston Texans,New Orleans Saints,20,13,H,2.09,1.77,2023
+2023-10-16,Cleveland Browns,San Francisco 49ers,19,17,H,4.62,1.21,2023
+2023-10-16,Cincinnati Bengals,Seattle Seahawks,17,13,H,1.63,2.33,2023
+2023-10-16,Chicago Bears,Minnesota Vikings,13,19,A,2.34,1.62,2023
+2023-10-16,Atlanta Falcons,Washington Commanders,16,24,A,1.78,2.07,2023
+2023-10-16,Las Vegas Raiders,New England Patriots,21,17,H,1.65,2.29,2023
+2023-10-16,Tampa Bay Buccaneers,Detroit Lions,6,20,A,2.36,1.62,2023
+2023-10-16,New York Jets,Philadelphia Eagles,20,14,H,3.29,1.35,2023
+2023-10-16,Los Angeles Rams,Arizona Cardinals,26,9,H,1.29,3.64,2023
+2023-10-16,Buffalo Bills,New York Giants,14,9,H,1.09,8.15,2023
+2023-10-17,Los Angeles Chargers,Dallas Cowboys,17,20,A,2.05,1.8,2023
+2023-10-20,New Orleans Saints,Jacksonville Jaguars,24,31,A,1.7,2.17,2023
+2023-10-23,Tampa Bay Buccaneers,Atlanta Falcons,13,16,A,1.67,2.25,2023
+2023-10-23,New York Giants,Washington Commanders,14,7,H,2.33,1.63,2023
+2023-10-23,New England Patriots,Buffalo Bills,29,25,H,4.05,1.25,2023
+2023-10-23,Indianapolis Colts,Cleveland Browns,38,39,A,2.54,1.54,2023
+2023-10-23,Chicago Bears,Las Vegas Raiders,30,12,H,2.15,1.73,2023
+2023-10-23,Baltimore Ravens,Detroit Lions,38,6,H,1.61,2.39,2023
+2023-10-23,Seattle Seahawks,Arizona Cardinals,20,10,H,1.22,4.41,2023
+2023-10-23,Los Angeles Rams,Pittsburgh Steelers,17,24,A,1.56,2.5,2023
+2023-10-23,Kansas City Chiefs,Los Angeles Chargers,31,17,H,1.4,3.05,2023
+2023-10-23,Denver Broncos,Green Bay Packers,19,17,H,1.82,2.02,2023
+2023-10-23,Philadelphia Eagles,Miami Dolphins,31,17,H,1.62,2.35,2023
+2023-10-24,Minnesota Vikings,San Francisco 49ers,22,17,H,3.43,1.32,2023
+2023-10-27,Buffalo Bills,Tampa Bay Buccaneers,24,18,H,1.21,4.61,2023
+2023-10-30,Washington Commanders,Philadelphia Eagles,31,38,A,3.53,1.31,2023
+2023-10-30,Tennessee Titans,Atlanta Falcons,28,23,H,2.15,1.72,2023
+2023-10-30,Pittsburgh Steelers,Jacksonville Jaguars,10,20,A,2.15,1.73,2023
+2023-10-30,New York Giants,New York Jets,10,13,A,2.37,1.61,2023
+2023-10-30,Miami Dolphins,New England Patriots,31,17,H,1.26,3.95,2023
+2023-10-30,Indianapolis Colts,New Orleans Saints,27,38,A,2.13,1.75,2023
+2023-10-30,Green Bay Packers,Minnesota Vikings,10,24,A,1.93,1.89,2023
+2023-10-30,Dallas Cowboys,Los Angeles Rams,43,20,H,1.33,3.38,2023
+2023-10-30,Carolina Panthers,Houston Texans,15,13,H,2.51,1.55,2023
+2023-10-30,Seattle Seahawks,Cleveland Browns,24,20,H,1.48,2.69,2023
+2023-10-30,San Francisco 49ers,Cincinnati Bengals,17,31,A,1.47,2.74,2023
+2023-10-30,Denver Broncos,Kansas City Chiefs,24,9,H,3.57,1.31,2023
+2023-10-30,Arizona Cardinals,Baltimore Ravens,24,31,A,4.47,1.22,2023
+2023-10-30,Los Angeles Chargers,Chicago Bears,30,13,H,1.21,4.59,2023
+2023-10-31,Detroit Lions,Las Vegas Raiders,26,14,H,1.3,3.69,2023
+2023-11-03,Pittsburgh Steelers,Tennessee Titans,20,16,H,1.58,2.43,2023
+2023-11-05,Kansas City Chiefs,Miami Dolphins,21,14,H,1.9,1.93,2023
+2023-11-06,New Orleans Saints,Chicago Bears,24,17,H,1.23,4.3,2023
+2023-11-06,New England Patriots,Washington Commanders,17,20,A,1.66,2.27,2023
+2023-11-06,Houston Texans,Tampa Bay Buccaneers,39,37,H,1.67,2.27,2023
+2023-11-06,Green Bay Packers,Los Angeles Rams,20,3,H,1.5,2.67,2023
+2023-11-06,Cleveland Browns,Arizona Cardinals,27,0,H,1.14,5.96,2023
+2023-11-06,Baltimore Ravens,Seattle Seahawks,37,3,H,1.36,3.23,2023
+2023-11-06,Atlanta Falcons,Minnesota Vikings,28,31,A,1.5,2.65,2023
+2023-11-06,Carolina Panthers,Indianapolis Colts,13,27,A,2.02,1.8,2023
+2023-11-06,Philadelphia Eagles,Dallas Cowboys,28,23,H,1.57,2.45,2023
+2023-11-06,Las Vegas Raiders,New York Giants,30,6,H,1.84,2.0,2023
+2023-11-06,Cincinnati Bengals,Buffalo Bills,24,18,H,1.8,2.04,2023
+2023-11-07,New York Jets,Los Angeles Chargers,6,27,A,2.47,1.57,2023
+2023-11-10,Chicago Bears,Carolina Panthers,16,13,H,1.56,2.5,2023
+2023-11-12,New England Patriots,Indianapolis Colts,6,10,A,2.05,1.8,2023
+2023-11-13,Tampa Bay Buccaneers,Tennessee Titans,20,6,H,1.69,2.21,2023
+2023-11-13,Pittsburgh Steelers,Green Bay Packers,23,19,H,1.58,2.45,2023
+2023-11-13,Minnesota Vikings,New Orleans Saints,27,19,H,2.27,1.66,2023
+2023-11-13,Jacksonville Jaguars,San Francisco 49ers,3,34,A,2.41,1.59,2023
+2023-11-13,Cincinnati Bengals,Houston Texans,27,30,A,1.4,3.01,2023
+2023-11-13,Baltimore Ravens,Cleveland Browns,31,33,A,1.4,3.05,2023
+2023-11-13,Los Angeles Chargers,Detroit Lions,38,41,A,2.14,1.73,2023
+2023-11-13,Arizona Cardinals,Atlanta Falcons,25,23,H,2.1,1.76,2023
+2023-11-13,Seattle Seahawks,Washington Commanders,29,26,H,1.38,3.11,2023
+2023-11-13,Dallas Cowboys,New York Giants,49,17,H,1.05,10.53,2023
+2023-11-13,Las Vegas Raiders,New York Jets,16,12,H,1.93,1.9,2023
+2023-11-14,Buffalo Bills,Denver Broncos,22,24,A,1.27,3.87,2023
+2023-11-17,Baltimore Ravens,Cincinnati Bengals,34,20,H,1.49,2.66,2023
+2023-11-20,Washington Commanders,New York Giants,19,31,A,1.26,3.98,2023
+2023-11-20,Miami Dolphins,Las Vegas Raiders,20,13,H,1.12,6.67,2023
+2023-11-20,Jacksonville Jaguars,Tennessee Titans,34,14,H,1.32,3.47,2023
+2023-11-20,Houston Texans,Arizona Cardinals,21,16,H,1.4,2.98,2023
+2023-11-20,Green Bay Packers,Los Angeles Chargers,23,20,H,2.34,1.63,2023
+2023-11-20,Detroit Lions,Chicago Bears,31,26,H,1.26,4.0,2023
+2023-11-20,Cleveland Browns,Pittsburgh Steelers,13,10,H,1.72,2.17,2023
+2023-11-20,Carolina Panthers,Dallas Cowboys,10,33,A,5.24,1.17,2023
+2023-11-20,San Francisco 49ers,Tampa Bay Buccaneers,27,14,H,1.12,6.49,2023
+2023-11-20,Los Angeles Rams,Seattle Seahawks,17,16,H,1.74,2.13,2023
+2023-11-20,Buffalo Bills,New York Jets,32,6,H,1.24,4.13,2023
+2023-11-20,Denver Broncos,Minnesota Vikings,21,20,H,1.69,2.22,2023
+2023-11-21,Kansas City Chiefs,Philadelphia Eagles,17,21,A,1.68,2.23,2023
+2023-11-24,Detroit Lions,Green Bay Packers,22,29,A,1.24,4.14,2023
+2023-11-24,Dallas Cowboys,Washington Commanders,45,10,H,1.13,6.12,2023
+2023-11-24,Seattle Seahawks,San Francisco 49ers,13,31,A,3.54,1.31,2023
+2023-11-25,New York Jets,Miami Dolphins,13,34,A,4.51,1.21,2023
+2023-11-27,Tennessee Titans,Carolina Panthers,17,10,H,1.54,2.54,2023
+2023-11-27,New York Giants,New England Patriots,10,7,H,2.77,1.46,2023
+2023-11-27,Indianapolis Colts,Tampa Bay Buccaneers,27,20,H,1.68,2.23,2023
+2023-11-27,Houston Texans,Jacksonville Jaguars,21,24,A,1.98,1.85,2023
+2023-11-27,Cincinnati Bengals,Pittsburgh Steelers,10,16,A,2.12,1.75,2023
+2023-11-27,Atlanta Falcons,New Orleans Saints,24,15,H,2.08,1.78,2023
+2023-11-27,Denver Broncos,Cleveland Browns,29,12,H,1.77,2.08,2023
+2023-11-27,Arizona Cardinals,Los Angeles Rams,14,37,A,2.31,1.64,2023
+2023-11-27,Philadelphia Eagles,Buffalo Bills,37,34,H,1.67,2.25,2023
+2023-11-27,Las Vegas Raiders,Kansas City Chiefs,17,31,A,4.56,1.21,2023
+2023-11-27,Los Angeles Chargers,Baltimore Ravens,10,20,A,2.4,1.6,2023
+2023-11-28,Minnesota Vikings,Chicago Bears,10,12,A,1.62,2.37,2023
+2023-12-01,Dallas Cowboys,Seattle Seahawks,41,35,H,1.22,4.51,2023
+2023-12-04,Washington Commanders,Miami Dolphins,15,45,A,4.21,1.25,2023
+2023-12-04,Tennessee Titans,Indianapolis Colts,28,31,A,2.03,1.8,2023
+2023-12-04,Pittsburgh Steelers,Arizona Cardinals,10,24,A,1.36,3.27,2023
+2023-12-04,New York Jets,Atlanta Falcons,8,13,A,2.09,1.77,2023
+2023-12-04,Houston Texans,Denver Broncos,22,17,H,1.58,2.45,2023
+2023-12-04,New Orleans Saints,Detroit Lions,28,33,A,2.64,1.51,2023
+2023-12-04,New England Patriots,Los Angeles Chargers,0,6,A,2.79,1.46,2023
+2023-12-04,Tampa Bay Buccaneers,Carolina Panthers,21,18,H,1.49,2.68,2023
+2023-12-04,Philadelphia Eagles,San Francisco 49ers,19,42,A,2.33,1.63,2023
+2023-12-04,Los Angeles Rams,Cleveland Browns,36,19,H,1.53,2.6,2023
+2023-12-04,Green Bay Packers,Kansas City Chiefs,27,19,H,3.07,1.39,2023
+2023-12-05,Jacksonville Jaguars,Cincinnati Bengals,31,34,A,1.21,4.68,2023
+2023-12-08,Pittsburgh Steelers,New England Patriots,18,21,A,1.4,3.03,2023
+2023-12-11,New York Jets,Houston Texans,30,6,H,2.47,1.56,2023
+2023-12-11,New Orleans Saints,Carolina Panthers,28,6,H,1.4,3.01,2023
+2023-12-11,Cleveland Browns,Jacksonville Jaguars,31,27,H,1.77,2.11,2023
+2023-12-11,Cincinnati Bengals,Indianapolis Colts,34,14,H,1.66,2.29,2023
+2023-12-11,Chicago Bears,Detroit Lions,28,13,H,2.44,1.58,2023
+2023-12-11,Baltimore Ravens,Los Angeles Rams,37,31,H,1.28,3.74,2023
+2023-12-11,Atlanta Falcons,Tampa Bay Buccaneers,25,29,A,1.79,2.06,2023
+2023-12-11,San Francisco 49ers,Seattle Seahawks,28,16,H,1.1,7.19,2023
+2023-12-11,Las Vegas Raiders,Minnesota Vikings,0,3,A,2.3,1.65,2023
+2023-12-11,Los Angeles Chargers,Denver Broncos,7,24,A,1.61,2.38,2023
+2023-12-11,Kansas City Chiefs,Buffalo Bills,17,20,A,1.76,2.1,2023
+2023-12-11,Dallas Cowboys,Philadelphia Eagles,33,13,H,1.56,2.5,2023
+2023-12-12,New York Giants,Green Bay Packers,24,22,H,2.98,1.41,2023
+2023-12-12,Miami Dolphins,Tennessee Titans,27,28,A,1.12,6.58,2023
+2023-12-15,Las Vegas Raiders,Los Angeles Chargers,63,21,H,1.63,2.33,2023
+2023-12-17,Cincinnati Bengals,Minnesota Vikings,27,24,H,1.59,2.42,2023
+2023-12-17,Indianapolis Colts,Pittsburgh Steelers,30,13,H,1.82,2.03,2023
+2023-12-17,Detroit Lions,Denver Broncos,42,17,H,1.42,2.93,2023
+2023-12-18,Tennessee Titans,Houston Texans,16,19,A,1.62,2.36,2023
+2023-12-18,New Orleans Saints,New York Giants,24,6,H,1.37,3.17,2023
+2023-12-18,New England Patriots,Kansas City Chiefs,17,27,A,4.59,1.21,2023
+2023-12-18,Miami Dolphins,New York Jets,30,0,H,1.27,3.88,2023
+2023-12-18,Green Bay Packers,Tampa Bay Buccaneers,20,34,A,1.5,2.65,2023
+2023-12-18,Cleveland Browns,Chicago Bears,20,17,H,1.66,2.26,2023
+2023-12-18,Carolina Panthers,Atlanta Falcons,9,7,H,2.24,1.67,2023
+2023-12-18,Los Angeles Rams,Washington Commanders,28,20,H,1.32,3.45,2023
+2023-12-18,Arizona Cardinals,San Francisco 49ers,29,45,A,6.03,1.14,2023
+2023-12-18,Buffalo Bills,Dallas Cowboys,31,10,H,1.73,2.16,2023
+2023-12-18,Jacksonville Jaguars,Baltimore Ravens,7,23,A,2.69,1.49,2023
+2023-12-19,Seattle Seahawks,Philadelphia Eagles,20,17,H,2.93,1.42,2023
+2023-12-22,Los Angeles Rams,New Orleans Saints,30,22,H,1.48,2.69,2023
+2023-12-24,Pittsburgh Steelers,Cincinnati Bengals,34,11,H,2.25,1.67,2023
+2023-12-24,Los Angeles Chargers,Buffalo Bills,22,24,A,6.21,1.13,2023
+2023-12-25,Tennessee Titans,Seattle Seahawks,17,20,A,2.31,1.64,2023
+2023-12-25,New York Jets,Washington Commanders,30,28,H,1.62,2.36,2023
+2023-12-25,Minnesota Vikings,Detroit Lions,24,30,A,2.21,1.7,2023
+2023-12-25,Houston Texans,Cleveland Browns,22,36,A,2.31,1.64,2023
+2023-12-25,Carolina Panthers,Green Bay Packers,30,33,A,2.62,1.51,2023
+2023-12-25,Atlanta Falcons,Indianapolis Colts,29,10,H,1.66,2.26,2023
+2023-12-25,Tampa Bay Buccaneers,Jacksonville Jaguars,30,12,H,2.07,1.78,2023
+2023-12-25,Miami Dolphins,Dallas Cowboys,22,20,H,1.78,2.05,2023
+2023-12-25,Chicago Bears,Arizona Cardinals,27,16,H,1.46,2.8,2023
+2023-12-25,Denver Broncos,New England Patriots,23,26,A,1.29,3.77,2023
+2023-12-26,Kansas City Chiefs,Las Vegas Raiders,14,20,A,1.17,5.29,2023
+2023-12-26,Philadelphia Eagles,New York Giants,33,25,H,1.12,6.5,2023
+2023-12-26,San Francisco 49ers,Baltimore Ravens,19,33,A,1.35,3.29,2023
+2023-12-29,Cleveland Browns,New York Jets,37,20,H,1.3,3.61,2023
+2023-12-31,Dallas Cowboys,Detroit Lions,20,19,H,1.44,2.87,2023
+2024-01-01,Washington Commanders,San Francisco 49ers,10,27,A,6.9,1.11,2023
+2024-01-01,Tampa Bay Buccaneers,New Orleans Saints,13,23,A,1.67,2.24,2023
+2024-01-01,Philadelphia Eagles,Arizona Cardinals,31,35,A,1.14,5.93,2023
+2024-01-01,New York Giants,Los Angeles Rams,25,26,A,3.22,1.36,2023
+2024-01-01,Jacksonville Jaguars,Carolina Panthers,26,0,H,1.51,2.62,2023
+2024-01-01,Indianapolis Colts,Las Vegas Raiders,23,20,H,1.55,2.51,2023
+2024-01-01,Houston Texans,Tennessee Titans,26,3,H,1.42,2.95,2023
+2024-01-01,Chicago Bears,Atlanta Falcons,37,17,H,1.67,2.23,2023
+2024-01-01,Buffalo Bills,New England Patriots,27,21,H,1.09,7.63,2023
+2024-01-01,Baltimore Ravens,Miami Dolphins,56,19,H,1.58,2.42,2023
+2024-01-01,Seattle Seahawks,Pittsburgh Steelers,23,30,A,1.47,2.76,2023
+2024-01-01,Kansas City Chiefs,Cincinnati Bengals,25,17,H,1.3,3.67,2023
+2024-01-01,Denver Broncos,Los Angeles Chargers,16,9,H,1.54,2.53,2023
+2024-01-01,Minnesota Vikings,Green Bay Packers,10,33,A,1.93,1.9,2023
+2024-01-07,Baltimore Ravens,Pittsburgh Steelers,10,17,A,2.36,1.61,2023
+2024-01-07,Indianapolis Colts,Houston Texans,19,23,A,2.03,1.81,2023
+2024-01-08,Tennessee Titans,Jacksonville Jaguars,28,20,H,2.5,1.54,2023
+2024-01-08,New Orleans Saints,Atlanta Falcons,48,17,H,1.56,2.5,2023
+2024-01-08,New England Patriots,New York Jets,3,17,A,1.7,2.18,2023
+2024-01-08,Detroit Lions,Minnesota Vikings,30,20,H,1.5,2.65,2023
+2024-01-08,Cincinnati Bengals,Cleveland Browns,31,14,H,1.29,3.71,2023
+2024-01-08,Carolina Panthers,Tampa Bay Buccaneers,0,9,A,2.91,1.43,2023
+2024-01-08,Washington Commanders,Dallas Cowboys,10,38,A,6.37,1.13,2023
+2024-01-08,San Francisco 49ers,Los Angeles Rams,20,21,A,1.4,3.02,2023
+2024-01-08,New York Giants,Philadelphia Eagles,27,10,H,2.89,1.43,2023
+2024-01-08,Los Angeles Chargers,Kansas City Chiefs,12,13,A,1.56,2.49,2023
+2024-01-08,Las Vegas Raiders,Denver Broncos,27,14,H,1.56,2.47,2023
+2024-01-08,Green Bay Packers,Chicago Bears,17,9,H,1.67,2.27,2023
+2024-01-08,Arizona Cardinals,Seattle Seahawks,20,21,A,2.27,1.66,2023
+2024-01-08,Miami Dolphins,Buffalo Bills,14,21,A,2.24,1.67,2023
+2024-01-14,Houston Texans,Cleveland Browns,45,14,H,2.15,1.73,2023
+2024-01-14,Kansas City Chiefs,Miami Dolphins,26,7,H,1.43,2.89,2023
+2024-01-15,Dallas Cowboys,Green Bay Packers,32,48,A,1.29,3.75,2023
+2024-01-15,Detroit Lions,Los Angeles Rams,24,23,H,1.59,2.42,2023
+2024-01-16,Buffalo Bills,Pittsburgh Steelers,31,17,H,1.19,4.86,2023
+2024-01-16,Tampa Bay Buccaneers,Philadelphia Eagles,32,9,H,2.32,1.63,2023
+2024-01-21,Baltimore Ravens,Houston Texans,34,10,H,1.2,4.6,2023
+2024-01-21,San Francisco 49ers,Green Bay Packers,24,21,H,1.21,4.6,2023
+2024-01-22,Detroit Lions,Tampa Bay Buccaneers,31,23,H,1.36,3.23,2023
+2024-01-22,Buffalo Bills,Kansas City Chiefs,24,27,A,1.67,2.22,2023
+2024-01-29,Baltimore Ravens,Kansas City Chiefs,10,17,A,1.44,2.86,2023
+2024-01-29,San Francisco 49ers,Detroit Lions,34,31,H,1.27,3.89,2023
+2024-02-05,NFC,AFC,64,59,H,2.0,1.81,2023
+2024-02-12,Kansas City Chiefs,San Francisco 49ers,25,22,H,2.11,1.75,2023

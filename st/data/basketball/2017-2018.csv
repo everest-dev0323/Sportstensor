@@ -1,0 +1,1385 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2,Season
+2017-10-01,Golden State Warriors,Denver Nuggets,102,108,A,1.27,3.85,2017
+2017-10-01,Los Angeles Lakers,Minnesota Timberwolves,99,108,A,2.53,1.55,2017
+2017-10-02,Miami Heat,Atlanta Hawks,96,90,H,1.35,3.26,2017
+2017-10-02,Toronto Raptors,Los Angeles Clippers,121,113,H,1.80,2.03,2017
+2017-10-03,Boston Celtics,Charlotte Hornets,94,82,H,1.30,3.53,2017
+2017-10-03,Memphis Grizzlies,Orlando Magic,92,84,H,1.81,1.99,2017
+2017-10-03,Dallas Mavericks,Milwaukee Bucks,106,104,H,1.49,2.64,2017
+2017-10-03,Sacramento Kings,San Antonio Spurs,106,100,H,2.01,1.80,2017
+2017-10-03,Los Angeles Lakers,Denver Nuggets,107,113,A,2.52,1.53,2017
+2017-10-04,New York Knicks,Brooklyn Nets,107,115,A,1.58,2.42,2017
+2017-10-04,Oklahoma City Thunder,Houston Rockets,97,104,A,3.01,1.38,2017
+2017-10-04,New Orleans Pelicans,Chicago Bulls,109,113,A,1.30,3.52,2017
+2017-10-04,Portland Trail Blazers,Phoenix Suns,112,114,A,1.39,3.03,2017
+2017-10-04,Los Angeles Clippers,Toronto Raptors,98,84,H,2.02,1.77,2017
+2017-10-05,Philadelphia 76ers,Memphis Grizzlies,89,110,A,1.31,3.44,2017
+2017-10-05,Detroit Pistons,Charlotte Hornets,106,108,A,1.65,2.23,2017
+2017-10-05,Cleveland Cavaliers,Atlanta Hawks,93,109,A,1.29,3.60,2017
+2017-10-05,Milwaukee Bucks,Indiana Pacers,86,104,A,1.56,2.44,2017
+2017-10-05,Dallas Mavericks,Chicago Bulls,118,71,H,1.44,2.77,2017
+2017-10-05,Los Angeles Lakers,Denver Nuggets,104,122,A,1.87,1.91,2017
+2017-10-05,Golden State Warriors,Minnesota Timberwolves,95,111,A,1.40,2.94,2017
+2017-10-06,Orlando Magic,Dallas Mavericks,112,89,H,1.41,2.92,2017
+2017-10-06,Brooklyn Nets,Miami Heat,107,88,H,1.80,2.00,2017
+2017-10-06,Portland Trail Blazers,Toronto Raptors,106,101,H,1.58,2.40,2017
+2017-10-07,Washington Wizards,New York Knicks,104,100,H,1.36,3.13,2017
+2017-10-07,Philadelphia 76ers,Boston Celtics,102,110,A,2.54,1.51,2017
+2017-10-07,Detroit Pistons,Atlanta Hawks,109,87,H,1.47,2.67,2017
+2017-10-07,Cleveland Cavaliers,Indiana Pacers,102,106,A,1.52,2.51,2017
+2017-10-07,Oklahoma City Thunder,New Orleans Pelicans,102,91,H,1.42,2.87,2017
+2017-10-07,Chicago Bulls,Milwaukee Bucks,114,101,H,1.94,1.85,2017
+2017-10-07,San Antonio Spurs,Sacramento Kings,113,93,H,1.41,2.87,2017
+2017-10-07,Utah Jazz,Phoenix Suns,112,101,H,1.51,2.56,2017
+2017-10-08,Orlando Magic,Miami Heat,93,90,H,1.75,2.09,2017
+2017-10-08,Minnesota Timberwolves,Golden State Warriors,110,142,A,2.89,1.41,2017
+2017-10-09,Washington Wizards,Cleveland Cavaliers,102,95,H,1.33,3.33,2017
+2017-10-09,Los Angeles Clippers,Portland Trail Blazers,106,134,A,1.68,2.21,2017
+2017-10-09,San Antonio Spurs,Denver Nuggets,122,100,H,1.96,1.85,2017
+2017-10-09,Chicago Bulls,New Orleans Pelicans,95,108,A,2.42,1.57,2017
+2017-10-09,Brooklyn Nets,New York Knicks,117,83,H,1.61,2.34,2017
+2017-10-09,Los Angeles Lakers,Sacramento Kings,75,69,H,2.08,1.76,2017
+2017-10-10,Detroit Pistons,Indiana Pacers,107,97,H,1.37,3.05,2017
+2017-10-10,New York Knicks,Houston Rockets,95,117,A,3.75,1.26,2017
+2017-10-10,Miami Heat,Charlotte Hornets,109,106,H,1.52,2.50,2017
+2017-10-10,Boston Celtics,Philadelphia 76ers,113,96,H,1.50,2.58,2017
+2017-10-10,Atlanta Hawks,Memphis Grizzlies,99,88,H,2.05,1.75,2017
+2017-10-10,Dallas Mavericks,Orlando Magic,99,96,H,1.38,2.98,2017
+2017-10-10,Sacramento Kings,Portland Trail Blazers,83,97,A,3.03,1.37,2017
+2017-10-10,Phoenix Suns,Utah Jazz,102,120,A,1.47,2.65,2017
+2017-10-11,Toronto Raptors,Detroit Pistons,116,94,H,1.39,2.96,2017
+2017-10-11,Cleveland Cavaliers,Chicago Bulls,94,108,A,1.22,4.18,2017
+2017-10-11,San Antonio Spurs,Orlando Magic,98,103,A,1.20,4.43,2017
+2017-10-11,Denver Nuggets,Oklahoma City Thunder,86,96,A,1.62,2.27,2017
+2017-10-11,Los Angeles Lakers,Utah Jazz,99,105,A,1.94,1.85,2017
+2017-10-12,Charlotte Hornets,Boston Celtics,100,108,A,3.64,1.28,2017
+2017-10-12,Miami Heat,Washington Wizards,117,115,H,1.90,1.89,2017
+2017-10-12,Brooklyn Nets,Philadelphia 76ers,114,133,A,1.39,3.01,2017
+2017-10-12,Memphis Grizzlies,Houston Rockets,89,101,A,3.49,1.30,2017
+2017-10-12,Phoenix Suns,Portland Trail Blazers,104,113,A,3.46,1.30,2017
+2017-10-13,Atlanta Hawks,Dallas Mavericks,94,108,A,1.40,2.97,2017
+2017-10-13,Los Angeles Clippers,Sacramento Kings,104,87,H,1.41,2.94,2017
+2017-10-14,Charlotte Hornets,Dallas Mavericks,111,96,H,1.30,3.44,2017
+2017-10-14,Orlando Magic,Cleveland Cavaliers,106,113,A,2.13,1.69,2017
+2017-10-14,New York Knicks,Washington Wizards,103,110,A,3.03,1.37,2017
+2017-10-14,Memphis Grizzlies,New Orleans Pelicans,142,101,H,1.56,2.42,2017
+2017-10-14,Houston Rockets,San Antonio Spurs,97,106,A,1.31,3.35,2017
+2017-10-14,Chicago Bulls,Toronto Raptors,104,125,A,3.22,1.33,2017
+2017-10-14,Philadelphia 76ers,Miami Heat,119,95,H,1.56,2.40,2017
+2017-10-14,Milwaukee Bucks,Detroit Pistons,107,103,H,1.51,2.54,2017
+2017-10-14,Los Angeles Clippers,Los Angeles Lakers,104,111,A,2.81,1.42,2017
+2017-10-14,Golden State Warriors,Sacramento Kings,117,106,H,1.14,5.51,2017
+2017-10-18,Cleveland Cavaliers,Boston Celtics,102,99,H,1.53,2.63,2017
+2017-10-18,Golden State Warriors,Houston Rockets,121,122,A,1.21,4.59,2017
+2017-10-19,Washington Wizards,Philadelphia 76ers,120,115,H,1.36,3.28,2017
+2017-10-19,Orlando Magic,Miami Heat,116,109,H,2.44,1.60,2017
+2017-10-19,Indiana Pacers,Brooklyn Nets,140,131,H,1.66,2.30,2017
+2017-10-19,Detroit Pistons,Charlotte Hornets,102,90,H,1.68,2.27,2017
+2017-10-19,Boston Celtics,Milwaukee Bucks,100,108,A,1.79,2.09,2017
+2017-10-19,Memphis Grizzlies,New Orleans Pelicans,103,91,H,1.77,2.11,2017
+2017-10-19,Dallas Mavericks,Atlanta Hawks,111,117,A,1.46,2.82,2017
+2017-10-19,Utah Jazz,Denver Nuggets,106,96,H,1.72,2.18,2017
+2017-10-19,San Antonio Spurs,Minnesota Timberwolves,107,99,H,1.85,2.00,2017
+2017-10-19,Sacramento Kings,Houston Rockets,100,105,A,3.43,1.34,2017
+2017-10-19,Phoenix Suns,Portland Trail Blazers,76,124,A,2.10,1.77,2017
+2017-10-20,Toronto Raptors,Chicago Bulls,117,100,H,1.08,8.75,2017
+2017-10-20,Oklahoma City Thunder,New York Knicks,105,84,H,1.11,7.10,2017
+2017-10-20,Los Angeles Lakers,Los Angeles Clippers,92,108,A,3.08,1.40,2017
+2017-10-21,Washington Wizards,Detroit Pistons,115,111,H,1.38,3.18,2017
+2017-10-21,Philadelphia 76ers,Boston Celtics,92,102,A,1.67,2.27,2017
+2017-10-21,Milwaukee Bucks,Cleveland Cavaliers,97,116,A,1.92,1.93,2017
+2017-10-21,Indiana Pacers,Portland Trail Blazers,96,114,A,2.79,1.47,2017
+2017-10-21,Charlotte Hornets,Atlanta Hawks,109,91,H,1.54,2.59,2017
+2017-10-21,Brooklyn Nets,Orlando Magic,126,121,H,1.77,2.12,2017
+2017-10-21,Minnesota Timberwolves,Utah Jazz,100,97,H,1.54,2.59,2017
+2017-10-21,Dallas Mavericks,Sacramento Kings,88,93,A,1.45,2.88,2017
+2017-10-21,New Orleans Pelicans,Golden State Warriors,120,128,A,4.47,1.22,2017
+2017-10-21,Phoenix Suns,Los Angeles Lakers,130,132,A,1.61,2.40,2017
+2017-10-22,Toronto Raptors,Philadelphia 76ers,128,94,H,1.23,4.38,2017
+2017-10-22,New York Knicks,Detroit Pistons,107,111,A,2.03,1.83,2017
+2017-10-22,Miami Heat,Indiana Pacers,112,108,H,1.21,4.66,2017
+2017-10-22,Memphis Grizzlies,Golden State Warriors,111,101,H,4.08,1.26,2017
+2017-10-22,Houston Rockets,Dallas Mavericks,107,91,H,1.13,6.60,2017
+2017-10-22,Cleveland Cavaliers,Orlando Magic,93,114,A,1.11,7.09,2017
+2017-10-22,Chicago Bulls,San Antonio Spurs,77,87,A,5.39,1.17,2017
+2017-10-22,Milwaukee Bucks,Portland Trail Blazers,113,110,H,1.65,2.32,2017
+2017-10-22,Utah Jazz,Oklahoma City Thunder,96,87,H,2.62,1.52,2017
+2017-10-22,Denver Nuggets,Sacramento Kings,96,79,H,1.12,6.95,2017
+2017-10-22,Los Angeles Clippers,Phoenix Suns,130,88,H,1.08,9.16,2017
+2017-10-23,Brooklyn Nets,Atlanta Hawks,116,104,H,1.83,2.02,2017
+2017-10-23,Oklahoma City Thunder,Minnesota Timberwolves,113,115,A,1.56,2.55,2017
+2017-10-23,Los Angeles Lakers,New Orleans Pelicans,112,119,A,2.68,1.50,2017
+2017-10-24,Detroit Pistons,Philadelphia 76ers,86,97,A,1.60,2.43,2017
+2017-10-24,Miami Heat,Atlanta Hawks,104,93,H,1.13,6.42,2017
+2017-10-24,Milwaukee Bucks,Charlotte Hornets,103,94,H,1.37,3.23,2017
+2017-10-24,Houston Rockets,Memphis Grizzlies,90,98,A,1.29,3.81,2017
+2017-10-24,San Antonio Spurs,Toronto Raptors,101,97,H,1.69,2.24,2017
+2017-10-24,Dallas Mavericks,Golden State Warriors,103,133,A,8.62,1.08,2017
+2017-10-24,Denver Nuggets,Washington Wizards,104,109,A,1.51,2.68,2017
+2017-10-24,Phoenix Suns,Sacramento Kings,117,115,H,2.18,1.73,2017
+2017-10-25,Orlando Magic,Brooklyn Nets,125,121,H,1.52,2.64,2017
+2017-10-25,Cleveland Cavaliers,Chicago Bulls,119,112,H,1.05,12.31,2017
+2017-10-25,Boston Celtics,New York Knicks,110,89,H,1.34,3.40,2017
+2017-10-25,Minnesota Timberwolves,Indiana Pacers,107,130,A,1.13,6.46,2017
+2017-10-25,Portland Trail Blazers,New Orleans Pelicans,103,93,H,1.50,2.68,2017
+2017-10-25,Los Angeles Clippers,Utah Jazz,102,84,H,1.50,2.68,2017
+2017-10-26,Philadelphia 76ers,Houston Rockets,104,105,A,2.36,1.62,2017
+2017-10-26,Detroit Pistons,Minnesota Timberwolves,122,101,H,1.71,2.20,2017
+2017-10-26,Charlotte Hornets,Denver Nuggets,110,93,H,2.16,1.74,2017
+2017-10-26,Brooklyn Nets,Cleveland Cavaliers,112,107,H,3.60,1.31,2017
+2017-10-26,Oklahoma City Thunder,Indiana Pacers,114,96,H,1.09,8.02,2017
+2017-10-26,Miami Heat,San Antonio Spurs,100,117,A,2.35,1.63,2017
+2017-10-26,Dallas Mavericks,Memphis Grizzlies,103,94,H,2.37,1.62,2017
+2017-10-26,Phoenix Suns,Utah Jazz,97,88,H,3.55,1.32,2017
+2017-10-26,Los Angeles Lakers,Washington Wizards,102,99,H,2.80,1.46,2017
+2017-10-26,Golden State Warriors,Toronto Raptors,117,112,H,1.10,7.76,2017
+2017-10-27,Milwaukee Bucks,Boston Celtics,89,96,A,1.54,2.57,2017
+2017-10-27,Memphis Grizzlies,Dallas Mavericks,96,91,H,1.31,3.64,2017
+2017-10-27,Chicago Bulls,Atlanta Hawks,91,86,H,1.76,2.13,2017
+2017-10-27,Portland Trail Blazers,Los Angeles Clippers,103,104,A,1.78,2.10,2017
+2017-10-27,Sacramento Kings,New Orleans Pelicans,106,114,A,1.90,1.94,2017
+2017-10-28,Orlando Magic,San Antonio Spurs,114,87,H,2.81,1.46,2017
+2017-10-28,Charlotte Hornets,Houston Rockets,93,109,A,2.26,1.68,2017
+2017-10-28,New York Knicks,Brooklyn Nets,107,86,H,1.74,2.16,2017
+2017-10-28,Atlanta Hawks,Denver Nuggets,100,105,A,3.35,1.35,2017
+2017-10-28,Minnesota Timberwolves,Oklahoma City Thunder,119,116,H,2.13,1.76,2017
+2017-10-28,Los Angeles Lakers,Toronto Raptors,92,101,A,3.07,1.40,2017
+2017-10-28,Golden State Warriors,Washington Wizards,120,117,H,1.13,6.57,2017
+2017-10-29,New Orleans Pelicans,Cleveland Cavaliers,123,101,H,2.19,1.71,2017
+2017-10-29,Utah Jazz,Los Angeles Lakers,96,81,H,1.17,5.72,2017
+2017-10-29,Miami Heat,Boston Celtics,90,96,A,-,-,2017
+2017-10-29,Memphis Grizzlies,Houston Rockets,103,89,H,-,-,2017
+2017-10-29,Chicago Bulls,Oklahoma City Thunder,69,101,A,-,-,2017
+2017-10-29,Dallas Mavericks,Philadelphia 76ers,110,112,A,1.95,1.86,2017
+2017-10-29,Portland Trail Blazers,Phoenix Suns,114,107,H,1.12,6.78,2017
+2017-10-29,Los Angeles Clippers,Detroit Pistons,87,95,A,1.29,3.69,2017
+2017-10-30,Atlanta Hawks,Milwaukee Bucks,106,117,A,2.82,1.45,2017
+2017-10-30,Indiana Pacers,San Antonio Spurs,97,94,H,3.26,1.37,2017
+2017-10-30,Sacramento Kings,Washington Wizards,83,110,A,3.49,1.33,2017
+2017-10-30,Charlotte Hornets,Orlando Magic,120,113,H,1.58,2.49,2017
+2017-10-30,Brooklyn Nets,Denver Nuggets,111,124,A,2.79,1.47,2017
+2017-10-30,Cleveland Cavaliers,New York Knicks,95,114,A,1.17,5.46,2017
+2017-10-30,Golden State Warriors,Detroit Pistons,107,115,A,1.06,10.18,2017
+2017-10-31,New York Knicks,Denver Nuggets,116,110,H,2.58,1.54,2017
+2017-10-31,Miami Heat,Minnesota Timberwolves,122,125,A,2.31,1.65,2017
+2017-10-31,Boston Celtics,San Antonio Spurs,108,94,H,1.61,2.41,2017
+2017-10-31,New Orleans Pelicans,Orlando Magic,99,115,A,1.33,3.50,2017
+2017-10-31,Memphis Grizzlies,Charlotte Hornets,99,104,A,1.49,2.73,2017
+2017-10-31,Houston Rockets,Philadelphia 76ers,107,115,A,1.35,3.39,2017
+2017-10-31,Utah Jazz,Dallas Mavericks,104,89,H,1.28,3.88,2017
+2017-10-31,Portland Trail Blazers,Toronto Raptors,85,99,A,1.59,2.44,2017
+2017-10-31,Los Angeles Clippers,Golden State Warriors,113,141,A,2.97,1.42,2017
+2017-11-01,Indiana Pacers,Sacramento Kings,101,83,H,1.46,2.84,2017
+2017-11-01,Brooklyn Nets,Phoenix Suns,114,122,A,1.54,2.59,2017
+2017-11-01,Milwaukee Bucks,Oklahoma City Thunder,91,110,A,2.17,1.73,2017
+2017-11-01,Los Angeles Lakers,Detroit Pistons,113,93,H,2.29,1.67,2017
+2017-11-02,Washington Wizards,Phoenix Suns,116,122,A,1.14,6.17,2017
+2017-11-02,Philadelphia 76ers,Atlanta Hawks,119,109,H,1.31,3.59,2017
+2017-11-02,Cleveland Cavaliers,Indiana Pacers,107,124,A,1.20,4.86,2017
+2017-11-02,Charlotte Hornets,Milwaukee Bucks,126,121,H,1.60,2.44,2017
+2017-11-02,Miami Heat,Chicago Bulls,97,91,H,1.18,5.23,2017
+2017-11-02,Boston Celtics,Sacramento Kings,113,86,H,1.12,7.04,2017
+2017-11-02,New York Knicks,Houston Rockets,97,119,A,2.94,1.43,2017
+2017-11-02,New Orleans Pelicans,Minnesota Timberwolves,98,104,A,1.76,2.12,2017
+2017-11-02,Memphis Grizzlies,Orlando Magic,99,101,A,1.69,2.25,2017
+2017-11-02,Denver Nuggets,Toronto Raptors,129,111,H,1.80,2.07,2017
+2017-11-02,Utah Jazz,Portland Trail Blazers,112,103,H,1.61,2.41,2017
+2017-11-02,Los Angeles Clippers,Dallas Mavericks,119,98,H,1.18,5.20,2017
+2017-11-03,San Antonio Spurs,Golden State Warriors,92,112,A,3.84,1.28,2017
+2017-11-03,Portland Trail Blazers,Los Angeles Lakers,113,110,H,1.41,3.02,2017
+2017-11-04,Washington Wizards,Cleveland Cavaliers,122,130,A,1.67,2.29,2017
+2017-11-04,Philadelphia 76ers,Indiana Pacers,121,110,H,1.53,2.62,2017
+2017-11-04,Orlando Magic,Chicago Bulls,83,105,A,1.30,3.70,2017
+2017-11-04,Detroit Pistons,Milwaukee Bucks,105,96,H,1.81,2.05,2017
+2017-11-04,New York Knicks,Phoenix Suns,120,107,H,1.56,2.53,2017
+2017-11-04,Atlanta Hawks,Houston Rockets,104,119,A,4.25,1.24,2017
+2017-11-04,San Antonio Spurs,Charlotte Hornets,108,101,H,1.53,2.62,2017
+2017-11-04,Dallas Mavericks,New Orleans Pelicans,94,99,A,2.59,1.54,2017
+2017-11-04,Utah Jazz,Toronto Raptors,100,109,A,1.81,2.06,2017
+2017-11-04,Denver Nuggets,Miami Heat,95,94,H,1.44,2.88,2017
+2017-11-04,Oklahoma City Thunder,Boston Celtics,94,101,A,1.39,3.14,2017
+2017-11-04,Los Angeles Lakers,Brooklyn Nets,124,112,H,1.69,2.24,2017
+2017-11-05,Los Angeles Clippers,Memphis Grizzlies,104,113,A,1.50,2.70,2017
+2017-11-05,Detroit Pistons,Sacramento Kings,108,99,H,1.24,4.25,2017
+2017-11-05,Minnesota Timberwolves,Dallas Mavericks,112,99,H,1.12,6.83,2017
+2017-11-05,Chicago Bulls,New Orleans Pelicans,90,96,A,2.80,1.46,2017
+2017-11-05,Denver Nuggets,Golden State Warriors,108,127,A,4.19,1.24,2017
+2017-11-06,Cleveland Cavaliers,Atlanta Hawks,115,117,A,1.12,6.97,2017
+2017-11-06,Los Angeles Clippers,Miami Heat,101,104,A,1.47,2.78,2017
+2017-11-06,Toronto Raptors,Washington Wizards,96,107,A,1.38,3.18,2017
+2017-11-06,Orlando Magic,Boston Celtics,88,104,A,2.35,1.63,2017
+2017-11-06,San Antonio Spurs,Phoenix Suns,112,95,H,1.20,4.83,2017
+2017-11-06,Houston Rockets,Utah Jazz,137,110,H,1.41,3.03,2017
+2017-11-06,New York Knicks,Indiana Pacers,108,101,H,1.96,1.88,2017
+2017-11-06,Minnesota Timberwolves,Charlotte Hornets,112,94,H,1.52,2.65,2017
+2017-11-06,Portland Trail Blazers,Oklahoma City Thunder,103,99,H,2.27,1.67,2017
+2017-11-06,Los Angeles Lakers,Memphis Grizzlies,107,102,H,2.20,1.72,2017
+2017-11-07,Atlanta Hawks,Boston Celtics,107,110,A,3.76,1.29,2017
+2017-11-07,Phoenix Suns,Brooklyn Nets,92,98,A,1.95,1.89,2017
+2017-11-07,Golden State Warriors,Miami Heat,97,80,H,1.07,9.49,2017
+2017-11-08,Washington Wizards,Dallas Mavericks,99,113,A,1.18,5.10,2017
+2017-11-08,Indiana Pacers,New Orleans Pelicans,112,117,A,2.02,1.83,2017
+2017-11-08,Cleveland Cavaliers,Milwaukee Bucks,124,119,H,1.48,2.74,2017
+2017-11-08,Toronto Raptors,Chicago Bulls,119,114,H,1.14,6.12,2017
+2017-11-08,New York Knicks,Charlotte Hornets,118,113,H,2.15,1.74,2017
+2017-11-08,San Antonio Spurs,Los Angeles Clippers,120,107,H,1.58,2.48,2017
+2017-11-08,Utah Jazz,Philadelphia 76ers,97,104,A,1.38,3.17,2017
+2017-11-08,Denver Nuggets,Brooklyn Nets,112,104,H,1.12,7.02,2017
+2017-11-08,Sacramento Kings,Oklahoma City Thunder,94,86,H,5.55,1.16,2017
+2017-11-08,Portland Trail Blazers,Memphis Grizzlies,97,98,A,1.71,2.20,2017
+2017-11-09,Orlando Magic,New York Knicks,112,99,H,1.26,4.04,2017
+2017-11-09,Detroit Pistons,Indiana Pacers,114,97,H,1.39,3.15,2017
+2017-11-09,Boston Celtics,Los Angeles Lakers,107,96,H,1.36,3.30,2017
+2017-11-09,Phoenix Suns,Miami Heat,115,126,A,3.04,1.41,2017
+2017-11-09,Golden State Warriors,Minnesota Timberwolves,125,101,H,1.28,3.86,2017
+2017-11-10,Washington Wizards,Los Angeles Lakers,111,95,H,1.19,5.03,2017
+2017-11-10,Toronto Raptors,New Orleans Pelicans,122,118,H,1.47,2.78,2017
+2017-11-10,Houston Rockets,Cleveland Cavaliers,117,113,H,1.46,2.85,2017
+2017-11-10,Sacramento Kings,Philadelphia 76ers,109,108,H,3.02,1.41,2017
+2017-11-10,Denver Nuggets,Oklahoma City Thunder,102,94,H,2.10,1.78,2017
+2017-11-11,Detroit Pistons,Atlanta Hawks,111,104,H,1.30,3.73,2017
+2017-11-11,Boston Celtics,Charlotte Hornets,90,87,H,1.68,2.27,2017
+2017-11-11,Chicago Bulls,Indiana Pacers,87,105,A,2.30,1.66,2017
+2017-11-11,Utah Jazz,Miami Heat,74,84,A,1.68,2.26,2017
+2017-11-11,San Antonio Spurs,Milwaukee Bucks,87,94,A,1.51,2.65,2017
+2017-11-11,Phoenix Suns,Orlando Magic,112,128,A,2.41,1.61,2017
+2017-11-11,Oklahoma City Thunder,Los Angeles Clippers,120,111,H,1.46,2.83,2017
+2017-11-11,Portland Trail Blazers,Brooklyn Nets,97,101,A,1.25,4.11,2017
+2017-11-12,Washington Wizards,Atlanta Hawks,113,94,H,1.19,5.05,2017
+2017-11-12,New Orleans Pelicans,Los Angeles Clippers,111,103,H,1.44,2.91,2017
+2017-11-12,New York Knicks,Sacramento Kings,118,91,H,1.39,3.16,2017
+2017-11-12,Houston Rockets,Memphis Grizzlies,111,96,H,1.36,3.32,2017
+2017-11-12,San Antonio Spurs,Chicago Bulls,133,94,H,1.18,5.27,2017
+2017-11-12,Milwaukee Bucks,Los Angeles Lakers,98,90,H,1.40,3.08,2017
+2017-11-12,Golden State Warriors,Philadelphia 76ers,135,114,H,1.10,7.98,2017
+2017-11-12,Dallas Mavericks,Cleveland Cavaliers,104,111,A,3.03,1.41,2017
+2017-11-12,Utah Jazz,Brooklyn Nets,114,106,H,1.35,3.37,2017
+2017-11-12,Phoenix Suns,Minnesota Timberwolves,118,110,H,4.79,1.20,2017
+2017-11-12,Denver Nuggets,Orlando Magic,125,107,H,1.27,3.94,2017
+2017-11-13,Boston Celtics,Toronto Raptors,95,94,H,2.36,1.62,2017
+2017-11-13,Detroit Pistons,Miami Heat,112,103,H,1.76,2.13,2017
+2017-11-13,Indiana Pacers,Houston Rockets,95,118,A,2.35,1.63,2017
+2017-11-13,Oklahoma City Thunder,Dallas Mavericks,112,99,H,1.17,5.51,2017
+2017-11-14,Washington Wizards,Sacramento Kings,110,92,H,1.14,6.22,2017
+2017-11-14,New York Knicks,Cleveland Cavaliers,101,104,A,2.84,1.45,2017
+2017-11-14,New Orleans Pelicans,Atlanta Hawks,106,105,H,1.24,4.27,2017
+2017-11-14,Milwaukee Bucks,Memphis Grizzlies,110,103,H,1.65,2.32,2017
+2017-11-14,Utah Jazz,Minnesota Timberwolves,98,109,A,2.27,1.68,2017
+2017-11-14,Phoenix Suns,Los Angeles Lakers,93,100,A,1.87,1.97,2017
+2017-11-14,Portland Trail Blazers,Denver Nuggets,99,82,H,1.78,2.10,2017
+2017-11-14,Los Angeles Clippers,Philadelphia 76ers,105,109,A,1.76,2.12,2017
+2017-11-14,Golden State Warriors,Orlando Magic,110,100,H,1.12,6.90,2017
+2017-11-15,Brooklyn Nets,Boston Celtics,102,109,A,3.22,1.38,2017
+2017-11-15,Houston Rockets,Toronto Raptors,113,129,A,1.38,3.18,2017
+2017-11-15,Dallas Mavericks,San Antonio Spurs,91,97,A,3.16,1.39,2017
+2017-11-16,New York Knicks,Utah Jazz,106,101,H,1.60,2.45,2017
+2017-11-16,Miami Heat,Washington Wizards,93,102,A,1.80,2.07,2017
+2017-11-16,Atlanta Hawks,Sacramento Kings,126,80,H,1.49,2.72,2017
+2017-11-16,Oklahoma City Thunder,Chicago Bulls,92,79,H,1.10,7.96,2017
+2017-11-16,New Orleans Pelicans,Toronto Raptors,116,125,A,1.69,2.24,2017
+2017-11-16,Minnesota Timberwolves,San Antonio Spurs,98,86,H,1.52,2.64,2017
+2017-11-16,Milwaukee Bucks,Detroit Pistons,99,95,H,1.53,2.61,2017
+2017-11-16,Memphis Grizzlies,Indiana Pacers,113,116,A,1.67,2.29,2017
+2017-11-16,Charlotte Hornets,Cleveland Cavaliers,107,115,A,1.92,1.91,2017
+2017-11-16,Portland Trail Blazers,Orlando Magic,99,94,H,1.48,2.75,2017
+2017-11-16,Los Angeles Lakers,Philadelphia 76ers,109,115,A,2.43,1.60,2017
+2017-11-17,Boston Celtics,Golden State Warriors,92,88,H,3.40,1.34,2017
+2017-11-17,Phoenix Suns,Houston Rockets,116,142,A,7.57,1.10,2017
+2017-11-18,Washington Wizards,Miami Heat,88,91,A,1.53,2.61,2017
+2017-11-18,Indiana Pacers,Detroit Pistons,107,100,H,1.88,1.96,2017
+2017-11-18,Toronto Raptors,New York Knicks,107,84,H,1.30,3.70,2017
+2017-11-18,Cleveland Cavaliers,Los Angeles Clippers,118,113,H,1.38,3.22,2017
+2017-11-18,Brooklyn Nets,Utah Jazz,118,107,H,1.78,2.09,2017
+2017-11-18,San Antonio Spurs,Oklahoma City Thunder,104,101,H,2.03,1.83,2017
+2017-11-18,Chicago Bulls,Charlotte Hornets,123,120,H,3.17,1.38,2017
+2017-11-18,Dallas Mavericks,Minnesota Timberwolves,87,111,A,3.04,1.41,2017
+2017-11-18,Sacramento Kings,Portland Trail Blazers,86,82,H,3.29,1.36,2017
+2017-11-18,Los Angeles Lakers,Phoenix Suns,113,122,A,1.33,3.51,2017
+2017-11-18,Denver Nuggets,New Orleans Pelicans,146,114,H,1.53,2.60,2017
+2017-11-19,Orlando Magic,Utah Jazz,85,125,A,1.41,3.06,2017
+2017-11-19,Charlotte Hornets,Los Angeles Clippers,102,87,H,1.48,2.75,2017
+2017-11-19,Philadelphia 76ers,Golden State Warriors,116,124,A,4.39,1.23,2017
+2017-11-19,Atlanta Hawks,Boston Celtics,99,110,A,2.99,1.41,2017
+2017-11-19,Memphis Grizzlies,Houston Rockets,83,105,A,3.59,1.32,2017
+2017-11-19,Dallas Mavericks,Milwaukee Bucks,111,79,H,3.08,1.40,2017
+2017-11-19,Portland Trail Blazers,Sacramento Kings,102,90,H,1.12,6.91,2017
+2017-11-20,Toronto Raptors,Washington Wizards,100,91,H,1.37,3.24,2017
+2017-11-20,Miami Heat,Indiana Pacers,95,120,A,1.46,2.83,2017
+2017-11-20,Brooklyn Nets,Golden State Warriors,111,118,A,6.41,1.13,2017
+2017-11-20,Minnesota Timberwolves,Detroit Pistons,97,100,A,1.43,2.94,2017
+2017-11-20,Phoenix Suns,Chicago Bulls,113,105,H,1.73,2.17,2017
+2017-11-20,Los Angeles Lakers,Denver Nuggets,127,109,H,2.73,1.48,2017
+2017-11-21,Philadelphia 76ers,Utah Jazz,107,86,H,1.44,2.93,2017
+2017-11-21,Orlando Magic,Indiana Pacers,97,105,A,1.62,2.39,2017
+2017-11-21,Detroit Pistons,Cleveland Cavaliers,88,116,A,2.08,1.78,2017
+2017-11-21,Charlotte Hornets,Minnesota Timberwolves,118,102,H,1.72,2.19,2017
+2017-11-21,New York Knicks,Los Angeles Clippers,107,85,H,2.11,1.77,2017
+2017-11-21,New Orleans Pelicans,Oklahoma City Thunder,114,107,H,2.21,1.72,2017
+2017-11-21,Milwaukee Bucks,Washington Wizards,88,99,A,1.63,2.35,2017
+2017-11-21,Memphis Grizzlies,Portland Trail Blazers,92,100,A,1.96,1.88,2017
+2017-11-21,San Antonio Spurs,Atlanta Hawks,96,85,H,1.24,4.34,2017
+2017-11-21,Dallas Mavericks,Boston Celtics,102,110,A,3.32,1.35,2017
+2017-11-21,Sacramento Kings,Denver Nuggets,98,114,A,2.71,1.49,2017
+2017-11-22,Los Angeles Lakers,Chicago Bulls,103,94,H,1.45,2.86,2017
+2017-11-23,Philadelphia 76ers,Portland Trail Blazers,101,81,H,1.60,2.44,2017
+2017-11-23,Cleveland Cavaliers,Brooklyn Nets,119,109,H,1.14,6.29,2017
+2017-11-23,Charlotte Hornets,Washington Wizards,129,124,H,1.70,2.23,2017
+2017-11-23,New York Knicks,Toronto Raptors,108,100,H,2.48,1.58,2017
+2017-11-23,Miami Heat,Boston Celtics,104,98,H,2.05,1.81,2017
+2017-11-23,Atlanta Hawks,Los Angeles Clippers,103,116,A,2.28,1.67,2017
+2017-11-23,Oklahoma City Thunder,Golden State Warriors,108,91,H,2.88,1.45,2017
+2017-11-23,New Orleans Pelicans,San Antonio Spurs,107,90,H,1.87,1.98,2017
+2017-11-23,Minnesota Timberwolves,Orlando Magic,124,118,H,1.37,3.27,2017
+2017-11-23,Memphis Grizzlies,Dallas Mavericks,94,95,A,1.44,2.88,2017
+2017-11-23,Houston Rockets,Denver Nuggets,125,95,H,1.24,4.28,2017
+2017-11-23,Utah Jazz,Chicago Bulls,110,80,H,1.24,4.25,2017
+2017-11-23,Phoenix Suns,Milwaukee Bucks,107,113,A,2.07,1.80,2017
+2017-11-23,Sacramento Kings,Los Angeles Lakers,113,102,H,1.86,1.98,2017
+2017-11-25,Brooklyn Nets,Portland Trail Blazers,125,127,A,2.56,1.55,2017
+2017-11-25,Boston Celtics,Orlando Magic,118,103,H,1.35,3.39,2017
+2017-11-25,Atlanta Hawks,New York Knicks,116,104,H,1.78,2.09,2017
+2017-11-25,Oklahoma City Thunder,Detroit Pistons,98,99,A,1.26,4.08,2017
+2017-11-25,Minnesota Timberwolves,Miami Heat,97,109,A,1.54,2.56,2017
+2017-11-25,Indiana Pacers,Toronto Raptors,107,104,H,2.11,1.76,2017
+2017-11-25,Cleveland Cavaliers,Charlotte Hornets,100,99,H,1.45,2.86,2017
+2017-11-25,Phoenix Suns,New Orleans Pelicans,91,115,A,3.18,1.38,2017
+2017-11-25,Denver Nuggets,Memphis Grizzlies,104,92,H,1.40,3.06,2017
+2017-11-25,Golden State Warriors,Chicago Bulls,143,94,H,1.06,10.93,2017
+2017-11-26,Washington Wizards,Portland Trail Blazers,105,108,A,1.55,2.57,2017
+2017-11-26,Philadelphia 76ers,Orlando Magic,130,111,H,1.46,2.81,2017
+2017-11-26,Charlotte Hornets,San Antonio Spurs,86,106,A,1.84,2.02,2017
+2017-11-26,Atlanta Hawks,Toronto Raptors,78,112,A,3.17,1.38,2017
+2017-11-26,Indiana Pacers,Boston Celtics,98,108,A,2.32,1.65,2017
+2017-11-26,Houston Rockets,New York Knicks,117,102,H,1.03,16.71,2017
+2017-11-26,Golden State Warriors,New Orleans Pelicans,110,95,H,1.16,5.56,2017
+2017-11-26,Dallas Mavericks,Oklahoma City Thunder,97,81,H,3.05,1.41,2017
+2017-11-26,Utah Jazz,Milwaukee Bucks,121,108,H,1.92,1.93,2017
+2017-11-26,Sacramento Kings,Los Angeles Clippers,95,97,A,2.57,1.55,2017
+2017-11-27,Minnesota Timberwolves,Phoenix Suns,119,108,H,1.15,5.98,2017
+2017-11-27,Chicago Bulls,Miami Heat,93,100,A,3.39,1.34,2017
+2017-11-27,Memphis Grizzlies,Brooklyn Nets,88,98,A,1.47,2.76,2017
+2017-11-28,Philadelphia 76ers,Cleveland Cavaliers,91,113,A,1.75,2.15,2017
+2017-11-28,Indiana Pacers,Orlando Magic,121,109,H,1.53,2.61,2017
+2017-11-28,New York Knicks,Portland Trail Blazers,91,103,A,2.07,1.80,2017
+2017-11-28,Boston Celtics,Detroit Pistons,108,118,A,1.39,3.13,2017
+2017-11-28,Houston Rockets,Brooklyn Nets,117,103,H,1.02,16.16,2017
+2017-11-28,San Antonio Spurs,Dallas Mavericks,115,108,H,1.22,4.49,2017
+2017-11-28,Los Angeles Clippers,Los Angeles Lakers,120,115,H,1.54,2.60,2017
+2017-11-28,Golden State Warriors,Sacramento Kings,106,110,A,1.10,7.54,2017
+2017-11-29,Cleveland Cavaliers,Miami Heat,108,97,H,1.56,2.53,2017
+2017-11-29,Minnesota Timberwolves,Washington Wizards,89,92,A,1.46,2.82,2017
+2017-11-29,Chicago Bulls,Phoenix Suns,99,104,A,1.86,1.99,2017
+2017-11-29,Utah Jazz,Denver Nuggets,106,77,H,1.94,1.90,2017
+2017-11-29,Sacramento Kings,Milwaukee Bucks,87,112,A,3.15,1.38,2017
+2017-11-30,Philadelphia 76ers,Washington Wizards,118,113,H,1.34,3.39,2017
+2017-11-30,Orlando Magic,Oklahoma City Thunder,121,108,H,3.03,1.41,2017
+2017-11-30,Detroit Pistons,Phoenix Suns,131,107,H,1.14,6.35,2017
+2017-11-30,Toronto Raptors,Charlotte Hornets,126,113,H,1.31,3.60,2017
+2017-11-30,New York Knicks,Miami Heat,115,86,H,1.83,2.03,2017
+2017-11-30,New Orleans Pelicans,Minnesota Timberwolves,102,120,A,1.41,3.04,2017
+2017-11-30,Houston Rockets,Indiana Pacers,118,97,H,1.13,6.34,2017
+2017-11-30,San Antonio Spurs,Memphis Grizzlies,104,95,H,1.25,4.19,2017
+2017-11-30,Dallas Mavericks,Brooklyn Nets,104,109,A,1.47,2.77,2017
+2017-11-30,Los Angeles Lakers,Golden State Warriors,123,127,A,7.44,1.11,2017
+2017-12-01,Boston Celtics,Philadelphia 76ers,108,97,H,1.28,3.90,2017
+2017-12-01,Atlanta Hawks,Cleveland Cavaliers,114,121,A,3.65,1.30,2017
+2017-12-01,Denver Nuggets,Chicago Bulls,111,110,H,1.16,5.74,2017
+2017-12-01,Portland Trail Blazers,Milwaukee Bucks,91,103,A,1.57,2.50,2017
+2017-12-01,Los Angeles Clippers,Utah Jazz,107,126,A,1.91,1.93,2017
+2017-12-02,Washington Wizards,Detroit Pistons,109,91,H,1.93,1.91,2017
+2017-12-02,Orlando Magic,Golden State Warriors,112,133,A,5.71,1.16,2017
+2017-12-02,Toronto Raptors,Indiana Pacers,120,115,H,1.34,3.40,2017
+2017-12-02,Oklahoma City Thunder,Minnesota Timberwolves,111,107,H,1.45,2.87,2017
+2017-12-02,Miami Heat,Charlotte Hornets,105,100,H,1.80,2.07,2017
+2017-12-02,Memphis Grizzlies,San Antonio Spurs,79,95,A,2.36,1.63,2017
+2017-12-02,Chicago Bulls,Sacramento Kings,106,107,A,1.94,1.90,2017
+2017-12-02,Utah Jazz,New Orleans Pelicans,114,108,H,2.35,1.64,2017
+2017-12-03,Boston Celtics,Phoenix Suns,116,111,H,1.11,7.33,2017
+2017-12-03,Dallas Mavericks,Los Angeles Clippers,108,82,H,1.53,2.61,2017
+2017-12-03,Brooklyn Nets,Atlanta Hawks,102,114,A,1.51,2.67,2017
+2017-12-03,Philadelphia 76ers,Detroit Pistons,108,103,H,1.56,2.54,2017
+2017-12-03,Cleveland Cavaliers,Memphis Grizzlies,116,111,H,1.12,6.95,2017
+2017-12-03,Milwaukee Bucks,Sacramento Kings,109,104,H,1.09,8.22,2017
+2017-12-03,Denver Nuggets,Los Angeles Lakers,115,100,H,1.61,2.44,2017
+2017-12-03,Portland Trail Blazers,New Orleans Pelicans,116,123,A,1.33,3.48,2017
+2017-12-04,New York Knicks,Orlando Magic,100,105,A,2.16,1.74,2017
+2017-12-04,Oklahoma City Thunder,San Antonio Spurs,90,87,H,1.29,3.78,2017
+2017-12-04,Minnesota Timberwolves,Los Angeles Clippers,112,106,H,1.13,6.66,2017
+2017-12-04,Miami Heat,Golden State Warriors,95,123,A,5.08,1.19,2017
+2017-12-04,Los Angeles Lakers,Houston Rockets,95,118,A,6.89,1.12,2017
+2017-12-05,Philadelphia 76ers,Phoenix Suns,101,115,A,1.18,5.15,2017
+2017-12-05,Indiana Pacers,New York Knicks,115,97,H,1.16,5.68,2017
+2017-12-05,Charlotte Hornets,Orlando Magic,104,94,H,1.33,3.52,2017
+2017-12-05,Boston Celtics,Milwaukee Bucks,111,100,H,1.51,2.67,2017
+2017-12-05,Atlanta Hawks,Brooklyn Nets,90,110,A,1.88,1.96,2017
+2017-12-05,New Orleans Pelicans,Golden State Warriors,115,125,A,4.34,1.23,2017
+2017-12-05,Memphis Grizzlies,Minnesota Timberwolves,95,92,H,2.26,1.68,2017
+2017-12-05,Chicago Bulls,Cleveland Cavaliers,91,113,A,4.52,1.22,2017
+2017-12-05,San Antonio Spurs,Detroit Pistons,96,93,H,1.59,2.45,2017
+2017-12-05,Dallas Mavericks,Denver Nuggets,122,105,H,1.75,2.14,2017
+2017-12-05,Utah Jazz,Washington Wizards,116,69,H,1.59,2.46,2017
+2017-12-06,Toronto Raptors,Phoenix Suns,126,113,H,1.07,9.98,2017
+2017-12-06,Oklahoma City Thunder,Utah Jazz,100,94,H,1.28,3.86,2017
+2017-12-06,Portland Trail Blazers,Washington Wizards,92,106,A,1.44,2.94,2017
+2017-12-07,Orlando Magic,Atlanta Hawks,110,106,H,1.40,3.09,2017
+2017-12-07,Indiana Pacers,Chicago Bulls,98,96,H,1.19,5.11,2017
+2017-12-07,Cleveland Cavaliers,Sacramento Kings,101,95,H,1.10,7.48,2017
+2017-12-07,New York Knicks,Memphis Grizzlies,99,88,H,1.80,2.07,2017
+2017-12-07,Boston Celtics,Dallas Mavericks,97,90,H,1.30,3.71,2017
+2017-12-07,New Orleans Pelicans,Denver Nuggets,123,114,H,1.46,2.82,2017
+2017-12-07,Milwaukee Bucks,Detroit Pistons,104,100,H,1.56,2.52,2017
+2017-12-07,Charlotte Hornets,Golden State Warriors,87,101,A,2.30,1.66,2017
+2017-12-07,San Antonio Spurs,Miami Heat,117,105,H,1.29,3.76,2017
+2017-12-07,Los Angeles Clippers,Minnesota Timberwolves,107,113,A,2.76,1.48,2017
+2017-12-08,Philadelphia 76ers,Los Angeles Lakers,104,107,A,1.26,4.02,2017
+2017-12-08,Phoenix Suns,Washington Wizards,99,109,A,3.19,1.38,2017
+2017-12-08,Brooklyn Nets,Oklahoma City Thunder,100,95,H,3.38,1.34,2017
+2017-12-08,Utah Jazz,Houston Rockets,101,112,A,3.11,1.39,2017
+2017-12-09,Orlando Magic,Denver Nuggets,89,103,A,1.79,2.07,2017
+2017-12-09,Indiana Pacers,Cleveland Cavaliers,106,102,H,2.41,1.61,2017
+2017-12-09,Detroit Pistons,Golden State Warriors,98,102,A,2.78,1.47,2017
+2017-12-09,Charlotte Hornets,Chicago Bulls,111,119,A,1.20,4.86,2017
+2017-12-09,New Orleans Pelicans,Sacramento Kings,109,116,A,1.20,4.77,2017
+2017-12-09,Milwaukee Bucks,Dallas Mavericks,109,102,H,1.35,3.33,2017
+2017-12-09,Memphis Grizzlies,Toronto Raptors,107,116,A,2.84,1.45,2017
+2017-12-09,San Antonio Spurs,Boston Celtics,105,102,H,1.73,2.17,2017
+2017-12-10,Los Angeles Clippers,Washington Wizards,113,112,H,2.07,1.79,2017
+2017-12-10,Brooklyn Nets,Miami Heat,89,101,A,2.15,1.75,2017
+2017-12-10,Charlotte Hornets,Los Angeles Lakers,99,110,A,1.62,2.39,2017
+2017-12-10,Atlanta Hawks,Orlando Magic,117,110,H,1.50,2.68,2017
+2017-12-10,Cleveland Cavaliers,Philadelphia 76ers,105,98,H,1.39,3.16,2017
+2017-12-10,Chicago Bulls,New York Knicks,104,102,H,2.39,1.62,2017
+2017-12-10,Milwaukee Bucks,Utah Jazz,117,100,H,1.85,2.01,2017
+2017-12-10,Phoenix Suns,San Antonio Spurs,101,104,A,2.81,1.46,2017
+2017-12-10,Memphis Grizzlies,Oklahoma City Thunder,101,102,A,2.67,1.51,2017
+2017-12-10,Portland Trail Blazers,Houston Rockets,117,124,A,3.95,1.27,2017
+2017-12-11,Sacramento Kings,Toronto Raptors,87,102,A,4.27,1.24,2017
+2017-12-11,Detroit Pistons,Boston Celtics,81,91,A,2.00,1.84,2017
+2017-12-11,Indiana Pacers,Denver Nuggets,126,116,H,1.48,2.75,2017
+2017-12-11,New Orleans Pelicans,Philadelphia 76ers,131,124,H,1.38,3.21,2017
+2017-12-11,Minnesota Timberwolves,Dallas Mavericks,97,92,H,1.30,3.67,2017
+2017-12-11,New York Knicks,Atlanta Hawks,111,107,H,1.43,2.94,2017
+2017-12-12,Oklahoma City Thunder,Charlotte Hornets,103,116,A,1.30,3.68,2017
+2017-12-12,Memphis Grizzlies,Miami Heat,82,107,A,1.85,2.00,2017
+2017-12-12,Houston Rockets,New Orleans Pelicans,130,123,H,1.09,7.92,2017
+2017-12-12,Chicago Bulls,Boston Celtics,108,85,H,2.82,1.45,2017
+2017-12-12,Los Angeles Clippers,Toronto Raptors,96,91,H,2.91,1.43,2017
+2017-12-12,Golden State Warriors,Portland Trail Blazers,111,104,H,1.24,4.25,2017
+2017-12-13,New York Knicks,Los Angeles Lakers,113,109,H,1.71,2.20,2017
+2017-12-13,Detroit Pistons,Denver Nuggets,84,103,A,1.39,3.16,2017
+2017-12-13,Cleveland Cavaliers,Atlanta Hawks,123,114,H,1.12,6.97,2017
+2017-12-13,Brooklyn Nets,Washington Wizards,103,98,H,2.33,1.64,2017
+2017-12-13,Dallas Mavericks,San Antonio Spurs,95,89,H,3.08,1.40,2017
+2017-12-13,Minnesota Timberwolves,Philadelphia 76ers,112,118,A,1.53,2.62,2017
+2017-12-13,Sacramento Kings,Phoenix Suns,99,92,H,1.55,2.57,2017
+2017-12-14,Washington Wizards,Memphis Grizzlies,93,87,H,1.30,3.69,2017
+2017-12-14,Orlando Magic,Los Angeles Clippers,95,106,A,1.94,1.90,2017
+2017-12-14,Indiana Pacers,Oklahoma City Thunder,95,100,A,1.94,1.90,2017
+2017-12-14,Miami Heat,Portland Trail Blazers,95,102,A,1.68,2.27,2017
+2017-12-14,Boston Celtics,Denver Nuggets,124,118,H,1.42,3.01,2017
+2017-12-14,New Orleans Pelicans,Milwaukee Bucks,115,108,H,1.74,2.15,2017
+2017-12-14,Chicago Bulls,Utah Jazz,103,100,H,2.85,1.45,2017
+2017-12-14,Phoenix Suns,Toronto Raptors,109,115,A,6.78,1.12,2017
+2017-12-14,Houston Rockets,Charlotte Hornets,108,96,H,1.12,6.96,2017
+2017-12-15,Brooklyn Nets,New York Knicks,104,111,A,1.84,2.01,2017
+2017-12-15,Atlanta Hawks,Detroit Pistons,91,105,A,2.47,1.58,2017
+2017-12-15,Minnesota Timberwolves,Sacramento Kings,119,96,H,1.15,5.92,2017
+2017-12-15,Cleveland Cavaliers,Los Angeles Lakers,121,112,H,1.19,5.01,2017
+2017-12-15,Golden State Warriors,Dallas Mavericks,112,97,H,1.18,5.18,2017
+2017-12-16,Washington Wizards,Los Angeles Clippers,100,91,H,1.19,5.06,2017
+2017-12-16,Philadelphia 76ers,Oklahoma City Thunder,117,119,A,1.87,1.97,2017
+2017-12-16,Orlando Magic,Portland Trail Blazers,88,95,A,2.57,1.55,2017
+2017-12-16,Indiana Pacers,Detroit Pistons,98,104,A,1.48,2.75,2017
+2017-12-16,Charlotte Hornets,Miami Heat,98,104,A,1.48,2.73,2017
+2017-12-16,Toronto Raptors,Brooklyn Nets,120,87,H,1.09,8.28,2017
+2017-12-16,Boston Celtics,Utah Jazz,95,107,A,1.51,2.67,2017
+2017-12-16,Milwaukee Bucks,Chicago Bulls,109,115,A,1.25,4.16,2017
+2017-12-16,Memphis Grizzlies,Atlanta Hawks,96,94,H,1.38,3.21,2017
+2017-12-16,Denver Nuggets,New Orleans Pelicans,117,111,H,1.81,2.04,2017
+2017-12-16,Houston Rockets,San Antonio Spurs,124,109,H,1.27,3.97,2017
+2017-12-17,Charlotte Hornets,Portland Trail Blazers,91,93,A,1.62,2.37,2017
+2017-12-17,New York Knicks,Oklahoma City Thunder,111,96,H,2.55,1.55,2017
+2017-12-17,Cleveland Cavaliers,Utah Jazz,109,100,H,1.19,5.05,2017
+2017-12-17,Minnesota Timberwolves,Phoenix Suns,106,108,A,1.11,7.11,2017
+2017-12-17,Miami Heat,Los Angeles Clippers,90,85,H,1.40,3.08,2017
+2017-12-17,Houston Rockets,Milwaukee Bucks,115,111,H,1.16,5.54,2017
+2017-12-17,San Antonio Spurs,Dallas Mavericks,98,96,H,1.41,3.04,2017
+2017-12-17,Memphis Grizzlies,Boston Celtics,93,102,A,2.94,1.43,2017
+2017-12-18,Toronto Raptors,Sacramento Kings,108,93,H,1.11,7.06,2017
+2017-12-18,Detroit Pistons,Orlando Magic,114,110,H,1.25,4.11,2017
+2017-12-18,Washington Wizards,Cleveland Cavaliers,99,106,A,1.78,2.09,2017
+2017-12-18,Brooklyn Nets,Indiana Pacers,97,109,A,2.40,1.61,2017
+2017-12-19,Indiana Pacers,Boston Celtics,111,112,A,2.17,1.73,2017
+2017-12-19,Charlotte Hornets,New York Knicks,109,91,H,1.30,3.73,2017
+2017-12-19,Atlanta Hawks,Miami Heat,110,104,H,1.82,2.03,2017
+2017-12-19,Oklahoma City Thunder,Denver Nuggets,95,94,H,1.49,2.71,2017
+2017-12-19,Minnesota Timberwolves,Portland Trail Blazers,108,107,H,1.54,2.59,2017
+2017-12-19,Houston Rockets,Utah Jazz,120,99,H,1.11,7.10,2017
+2017-12-19,Chicago Bulls,Philadelphia 76ers,117,115,H,2.09,1.78,2017
+2017-12-19,San Antonio Spurs,Los Angeles Clippers,109,91,H,1.13,6.49,2017
+2017-12-19,Dallas Mavericks,Phoenix Suns,91,97,A,1.33,3.46,2017
+2017-12-19,Los Angeles Lakers,Golden State Warriors,114,116,A,2.82,1.45,2017
+2017-12-20,Washington Wizards,New Orleans Pelicans,116,106,H,1.74,2.15,2017
+2017-12-20,Philadelphia 76ers,Sacramento Kings,95,101,A,1.27,3.97,2017
+2017-12-20,Milwaukee Bucks,Cleveland Cavaliers,119,116,H,2.01,1.84,2017
+2017-12-21,Charlotte Hornets,Toronto Raptors,111,129,A,2.08,1.75,2017
+2017-12-21,Brooklyn Nets,Sacramento Kings,99,104,A,1.43,2.82,2017
+2017-12-21,Boston Celtics,Miami Heat,89,90,A,1.21,4.41,2017
+2017-12-21,Atlanta Hawks,Indiana Pacers,95,105,A,2.61,1.49,2017
+2017-12-21,Oklahoma City Thunder,Utah Jazz,107,79,H,1.28,3.70,2017
+2017-12-21,Houston Rockets,Los Angeles Lakers,116,122,A,1.06,10.40,2017
+2017-12-21,Chicago Bulls,Orlando Magic,112,94,H,1.49,2.64,2017
+2017-12-21,Dallas Mavericks,Detroit Pistons,110,93,H,1.83,1.97,2017
+2017-12-21,Denver Nuggets,Minnesota Timberwolves,104,112,A,1.86,1.93,2017
+2017-12-21,Portland Trail Blazers,San Antonio Spurs,91,93,A,1.69,2.17,2017
+2017-12-21,Los Angeles Clippers,Phoenix Suns,108,95,H,1.44,2.80,2017
+2017-12-21,Golden State Warriors,Memphis Grizzlies,97,84,H,1.19,4.74,2017
+2017-12-22,Philadelphia 76ers,Toronto Raptors,109,114,A,2.39,1.59,2017
+2017-12-22,Cleveland Cavaliers,Chicago Bulls,115,112,H,1.15,5.61,2017
+2017-12-22,New York Knicks,Boston Celtics,102,93,H,2.21,1.66,2017
+2017-12-22,Phoenix Suns,Memphis Grizzlies,97,95,H,2.31,1.62,2017
+2017-12-22,Utah Jazz,San Antonio Spurs,100,89,H,2.14,1.77,2017
+2017-12-23,Orlando Magic,New Orleans Pelicans,97,111,A,2.99,1.39,2017
+2017-12-23,Detroit Pistons,New York Knicks,104,101,H,1.35,3.21,2017
+2017-12-23,Brooklyn Nets,Washington Wizards,119,84,H,2.95,1.40,2017
+2017-12-23,Oklahoma City Thunder,Atlanta Hawks,120,117,H,1.14,5.79,2017
+2017-12-23,Milwaukee Bucks,Charlotte Hornets,109,104,H,1.49,2.65,2017
+2017-12-23,Miami Heat,Dallas Mavericks,113,101,H,2.02,1.79,2017
+2017-12-23,Houston Rockets,Los Angeles Clippers,118,128,A,1.10,7.11,2017
+2017-12-23,Portland Trail Blazers,Denver Nuggets,85,102,A,2.02,1.79,2017
+2017-12-23,Golden State Warriors,Los Angeles Lakers,113,106,H,1.12,6.41,2017
+2017-12-24,Toronto Raptors,Philadelphia 76ers,102,86,H,1.26,3.83,2017
+2017-12-24,Washington Wizards,Orlando Magic,130,103,H,1.11,6.86,2017
+2017-12-24,Indiana Pacers,Brooklyn Nets,123,119,H,1.20,4.53,2017
+2017-12-24,Charlotte Hornets,Milwaukee Bucks,111,106,H,1.52,2.56,2017
+2017-12-24,Boston Celtics,Chicago Bulls,117,92,H,1.27,3.74,2017
+2017-12-24,Atlanta Hawks,Dallas Mavericks,112,107,H,1.96,1.84,2017
+2017-12-24,Utah Jazz,Oklahoma City Thunder,89,103,A,1.82,1.99,2017
+2017-12-24,Miami Heat,New Orleans Pelicans,94,109,A,2.37,1.59,2017
+2017-12-24,Memphis Grizzlies,Los Angeles Clippers,115,112,H,1.74,2.10,2017
+2017-12-24,Golden State Warriors,Denver Nuggets,81,96,A,1.26,3.82,2017
+2017-12-24,Phoenix Suns,Minnesota Timberwolves,106,115,A,3.68,1.28,2017
+2017-12-24,Los Angeles Lakers,Portland Trail Blazers,92,95,A,1.67,2.21,2017
+2017-12-24,Sacramento Kings,San Antonio Spurs,99,108,A,3.03,1.39,2017
+2017-12-26,New York Knicks,Philadelphia 76ers,98,105,A,1.92,1.90,2017
+2017-12-26,Golden State Warriors,Cleveland Cavaliers,99,92,H,1.51,2.59,2017
+2017-12-26,Boston Celtics,Washington Wizards,103,111,A,1.55,2.49,2017
+2017-12-26,Oklahoma City Thunder,Houston Rockets,112,107,H,1.77,2.06,2017
+2017-12-26,Los Angeles Lakers,Minnesota Timberwolves,104,121,A,3.03,1.38,2017
+2017-12-27,Detroit Pistons,Indiana Pacers,107,83,H,1.78,2.03,2017
+2017-12-27,Dallas Mavericks,Toronto Raptors,98,93,H,2.97,1.39,2017
+2017-12-27,Miami Heat,Orlando Magic,107,89,H,1.26,3.89,2017
+2017-12-27,Milwaukee Bucks,Chicago Bulls,106,115,A,1.32,3.38,2017
+2017-12-27,San Antonio Spurs,Brooklyn Nets,109,97,H,1.11,6.61,2017
+2017-12-27,Phoenix Suns,Memphis Grizzlies,99,97,H,2.00,1.81,2017
+2017-12-27,Denver Nuggets,Utah Jazz,107,83,H,1.41,2.93,2017
+2017-12-27,Los Angeles Clippers,Sacramento Kings,122,95,H,1.45,2.76,2017
+2017-12-28,Indiana Pacers,Dallas Mavericks,94,98,A,1.57,2.43,2017
+2017-12-28,Charlotte Hornets,Boston Celtics,91,102,A,1.91,1.88,2017
+2017-12-28,Atlanta Hawks,Washington Wizards,113,99,H,2.96,1.40,2017
+2017-12-28,Oklahoma City Thunder,Toronto Raptors,124,107,H,1.60,2.36,2017
+2017-12-28,New Orleans Pelicans,Brooklyn Nets,128,113,H,1.21,4.36,2017
+2017-12-28,Minnesota Timberwolves,Denver Nuggets,128,125,H,1.47,2.68,2017
+2017-12-28,Chicago Bulls,New York Knicks,92,87,H,1.79,2.03,2017
+2017-12-28,Sacramento Kings,Cleveland Cavaliers,109,95,H,4.35,1.21,2017
+2017-12-28,Golden State Warriors,Utah Jazz,126,101,H,1.13,6.00,2017
+2017-12-28,Los Angeles Lakers,Memphis Grizzlies,99,109,A,1.61,2.33,2017
+2017-12-29,Orlando Magic,Detroit Pistons,102,89,H,2.46,1.59,2017
+2017-12-29,Milwaukee Bucks,Minnesota Timberwolves,102,96,H,1.56,2.44,2017
+2017-12-29,Boston Celtics,Houston Rockets,99,98,H,2.05,1.77,2017
+2017-12-29,San Antonio Spurs,New York Knicks,119,107,H,1.15,5.47,2017
+2017-12-29,Portland Trail Blazers,Philadelphia 76ers,114,110,H,2.05,1.77,2017
+2017-12-30,Washington Wizards,Houston Rockets,121,103,H,2.08,1.74,2017
+2017-12-30,Toronto Raptors,Atlanta Hawks,111,98,H,1.14,5.70,2017
+2017-12-30,Oklahoma City Thunder,Milwaukee Bucks,95,97,A,1.39,3.01,2017
+2017-12-30,New Orleans Pelicans,Dallas Mavericks,120,128,A,1.37,3.16,2017
+2017-12-30,Miami Heat,Brooklyn Nets,87,111,A,1.40,2.96,2017
+2017-12-30,Chicago Bulls,Indiana Pacers,119,107,H,1.66,2.24,2017
+2017-12-30,Sacramento Kings,Phoenix Suns,101,111,A,1.67,2.21,2017
+2017-12-30,Los Angeles Lakers,Los Angeles Clippers,106,121,A,2.24,1.65,2017
+2017-12-30,Golden State Warriors,Charlotte Hornets,100,111,A,1.18,4.93,2017
+2017-12-31,Orlando Magic,Miami Heat,111,117,A,1.99,1.82,2017
+2017-12-31,New Orleans Pelicans,New York Knicks,103,105,A,1.43,2.82,2017
+2017-12-31,Detroit Pistons,San Antonio Spurs,93,79,H,2.63,1.48,2017
+2017-12-31,Atlanta Hawks,Portland Trail Blazers,104,89,H,2.21,1.72,2017
+2017-12-31,Utah Jazz,Cleveland Cavaliers,104,101,H,2.29,1.63,2017
+2017-12-31,Golden State Warriors,Memphis Grizzlies,141,128,H,1.06,9.25,2017
+2017-12-31,Denver Nuggets,Philadelphia 76ers,102,107,A,1.34,3.26,2017
+2018-01-01,Washington Wizards,Chicago Bulls,114,110,H,1.28,3.67,2017
+2018-01-01,Indiana Pacers,Minnesota Timberwolves,90,107,A,2.27,1.69,2017
+2018-01-01,Boston Celtics,Brooklyn Nets,108,105,H,1.19,4.69,2017
+2018-01-01,Sacramento Kings,Memphis Grizzlies,96,114,A,1.73,2.11,2017
+2018-01-01,Oklahoma City Thunder,Dallas Mavericks,113,116,A,1.32,3.60,2017
+2018-01-01,Los Angeles Clippers,Charlotte Hornets,106,98,H,1.77,2.05,2017
+2018-01-01,Houston Rockets,Los Angeles Lakers,148,142,H,1.06,9.25,2017
+2018-01-01,Phoenix Suns,Philadelphia 76ers,110,123,A,2.35,1.60,2017
+2018-01-02,Toronto Raptors,Milwaukee Bucks,131,127,H,1.41,2.94,2017
+2018-01-02,Brooklyn Nets,Orlando Magic,98,95,H,1.79,2.02,2017
+2018-01-02,Minnesota Timberwolves,Los Angeles Lakers,114,96,H,1.18,4.82,2017
+2018-01-02,Chicago Bulls,Portland Trail Blazers,120,124,A,1.65,2.24,2017
+2018-01-03,Cleveland Cavaliers,Portland Trail Blazers,127,110,H,1.21,4.33,2017
+2018-01-03,New York Knicks,San Antonio Spurs,91,100,A,2.73,1.46,2017
+2018-01-03,Phoenix Suns,Atlanta Hawks,104,103,H,1.87,1.92,2017
+2018-01-03,Sacramento Kings,Charlotte Hornets,111,131,A,2.47,1.56,2017
+2018-01-03,Los Angeles Clippers,Memphis Grizzlies,113,105,H,1.41,2.92,2017
+2018-01-04,Washington Wizards,New York Knicks,121,103,H,1.21,4.46,2017
+2018-01-04,Philadelphia 76ers,San Antonio Spurs,112,106,H,1.58,2.39,2017
+2018-01-04,Orlando Magic,Houston Rockets,98,116,A,3.45,1.31,2017
+2018-01-04,Miami Heat,Detroit Pistons,111,104,H,1.53,2.55,2017
+2018-01-04,Brooklyn Nets,Minnesota Timberwolves,98,97,H,3.12,1.37,2017
+2018-01-04,Milwaukee Bucks,Indiana Pacers,122,101,H,1.29,3.61,2017
+2018-01-04,Chicago Bulls,Toronto Raptors,115,124,A,2.57,1.52,2017
+2018-01-04,Boston Celtics,Cleveland Cavaliers,102,88,H,1.65,2.25,2017
+2018-01-04,Dallas Mavericks,Golden State Warriors,122,125,A,3.74,1.27,2017
+2018-01-04,Utah Jazz,New Orleans Pelicans,98,108,A,1.87,1.92,2017
+2018-01-04,Denver Nuggets,Phoenix Suns,134,111,H,1.11,6.58,2017
+2018-01-04,Los Angeles Lakers,Oklahoma City Thunder,96,133,A,2.76,1.45,2017
+2018-01-05,Houston Rockets,Golden State Warriors,114,124,A,2.54,1.53,2017
+2018-01-05,Los Angeles Clippers,Oklahoma City Thunder,117,127,A,1.95,1.85,2017
+2018-01-06,Philadelphia 76ers,Detroit Pistons,114,78,H,1.44,2.81,2017
+2018-01-06,Boston Celtics,Minnesota Timberwolves,91,84,H,1.66,2.23,2017
+2018-01-06,Milwaukee Bucks,Toronto Raptors,110,129,A,1.86,1.94,2017
+2018-01-06,Miami Heat,New York Knicks,107,103,H,1.40,2.94,2017
+2018-01-06,San Antonio Spurs,Phoenix Suns,103,89,H,1.12,6.31,2017
+2018-01-06,Dallas Mavericks,Chicago Bulls,124,127,A,1.55,2.48,2017
+2018-01-06,Denver Nuggets,Utah Jazz,99,91,H,1.36,3.18,2017
+2018-01-06,Memphis Grizzlies,Washington Wizards,100,102,A,2.57,1.51,2017
+2018-01-06,Portland Trail Blazers,Atlanta Hawks,110,89,H,1.31,3.40,2017
+2018-01-06,Los Angeles Lakers,Charlotte Hornets,94,108,A,2.11,1.73,2017
+2018-01-07,Los Angeles Clippers,Golden State Warriors,105,121,A,4.14,1.25,2017
+2018-01-07,Brooklyn Nets,Boston Celtics,85,87,A,2.33,1.61,2017
+2018-01-07,Orlando Magic,Cleveland Cavaliers,127,131,A,4.26,1.22,2017
+2018-01-07,Indiana Pacers,Chicago Bulls,125,86,H,1.41,2.99,2017
+2018-01-07,Detroit Pistons,Houston Rockets,108,101,H,3.09,1.40,2017
+2018-01-07,Washington Wizards,Milwaukee Bucks,103,110,A,1.62,2.31,2017
+2018-01-07,Minnesota Timberwolves,New Orleans Pelicans,116,98,H,1.82,1.99,2017
+2018-01-07,Sacramento Kings,Denver Nuggets,106,98,H,3.71,1.28,2017
+2018-01-08,Miami Heat,Utah Jazz,103,102,H,1.58,2.39,2017
+2018-01-08,Dallas Mavericks,New York Knicks,96,100,A,1.46,2.73,2017
+2018-01-08,Phoenix Suns,Oklahoma City Thunder,114,100,H,3.88,1.25,2017
+2018-01-08,Portland Trail Blazers,San Antonio Spurs,111,110,H,1.85,1.95,2017
+2018-01-08,Los Angeles Lakers,Atlanta Hawks,132,113,H,1.61,2.33,2017
+2018-01-09,Indiana Pacers,Milwaukee Bucks,109,96,H,1.79,2.02,2017
+2018-01-09,Brooklyn Nets,Toronto Raptors,113,114,A,3.43,1.31,2017
+2018-01-09,New Orleans Pelicans,Detroit Pistons,112,109,H,1.39,2.99,2017
+2018-01-09,Minnesota Timberwolves,Cleveland Cavaliers,127,99,H,1.93,1.87,2017
+2018-01-09,Chicago Bulls,Houston Rockets,107,116,A,2.93,1.41,2017
+2018-01-09,Sacramento Kings,San Antonio Spurs,100,107,A,2.73,1.46,2017
+2018-01-09,Los Angeles Clippers,Atlanta Hawks,108,107,H,1.53,2.52,2017
+2018-01-09,Golden State Warriors,Denver Nuggets,124,114,H,1.16,5.29,2017
+2018-01-10,Toronto Raptors,Miami Heat,89,90,A,1.55,2.48,2017
+2018-01-10,Oklahoma City Thunder,Portland Trail Blazers,106,117,A,1.27,3.78,2017
+2018-01-10,Dallas Mavericks,Orlando Magic,114,99,H,1.32,3.35,2017
+2018-01-10,Los Angeles Lakers,Sacramento Kings,99,86,H,1.26,3.81,2017
+2018-01-11,Washington Wizards,Utah Jazz,104,107,A,1.27,3.76,2017
+2018-01-11,Indiana Pacers,Miami Heat,106,114,A,1.49,2.60,2017
+2018-01-11,Charlotte Hornets,Dallas Mavericks,111,115,A,1.35,3.19,2017
+2018-01-11,New York Knicks,Chicago Bulls,119,122,A,1.48,2.67,2017
+2018-01-11,Brooklyn Nets,Detroit Pistons,80,114,A,2.08,1.75,2017
+2018-01-11,Minnesota Timberwolves,Oklahoma City Thunder,104,88,H,1.51,2.58,2017
+2018-01-11,Milwaukee Bucks,Orlando Magic,110,103,H,1.15,5.36,2017
+2018-01-11,Memphis Grizzlies,New Orleans Pelicans,105,102,H,1.88,1.92,2017
+2018-01-11,Houston Rockets,Portland Trail Blazers,121,112,H,1.33,3.34,2017
+2018-01-11,Denver Nuggets,Atlanta Hawks,97,110,A,1.21,4.42,2017
+2018-01-11,Golden State Warriors,Los Angeles Clippers,106,125,A,1.11,6.74,2017
+2018-01-12,Philadelphia 76ers,Boston Celtics,103,114,A,2.06,1.75,2017
+2018-01-12,Toronto Raptors,Cleveland Cavaliers,133,99,H,2.16,1.69,2017
+2018-01-12,Sacramento Kings,Los Angeles Clippers,115,121,A,2.40,1.57,2017
+2018-01-12,Los Angeles Lakers,San Antonio Spurs,93,81,H,2.12,1.72,2017
+2018-01-13,Washington Wizards,Orlando Magic,125,119,H,1.14,5.82,2017
+2018-01-13,Indiana Pacers,Cleveland Cavaliers,97,95,H,2.00,1.79,2017
+2018-01-13,Charlotte Hornets,Utah Jazz,99,88,H,1.53,2.54,2017
+2018-01-13,Atlanta Hawks,Brooklyn Nets,105,110,A,1.63,2.29,2017
+2018-01-13,New Orleans Pelicans,Portland Trail Blazers,119,113,H,1.60,2.45,2017
+2018-01-13,Minnesota Timberwolves,New York Knicks,118,108,H,1.23,4.36,2017
+2018-01-13,Milwaukee Bucks,Golden State Warriors,94,108,A,2.59,1.50,2017
+2018-01-13,Denver Nuggets,Memphis Grizzlies,87,78,H,1.36,3.15,2017
+2018-01-13,Phoenix Suns,Houston Rockets,95,112,A,3.30,1.34,2017
+2018-01-14,Dallas Mavericks,Los Angeles Lakers,101,107,A,1.52,2.55,2017
+2018-01-14,Los Angeles Clippers,Sacramento Kings,126,105,H,1.34,3.30,2017
+2018-01-14,Charlotte Hornets,Oklahoma City Thunder,91,101,A,2.08,1.74,2017
+2018-01-14,Washington Wizards,Brooklyn Nets,119,113,H,1.20,4.57,2017
+2018-01-14,Toronto Raptors,Golden State Warriors,125,127,A,2.83,1.43,2017
+2018-01-14,Chicago Bulls,Detroit Pistons,107,105,H,1.95,1.85,2017
+2018-01-14,San Antonio Spurs,Denver Nuggets,112,80,H,1.30,3.52,2017
+2018-01-15,Miami Heat,Milwaukee Bucks,97,79,H,1.79,2.02,2017
+2018-01-15,New York Knicks,New Orleans Pelicans,118,123,A,2.11,1.73,2017
+2018-01-15,Phoenix Suns,Indiana Pacers,97,120,A,2.34,1.61,2017
+2018-01-15,Minnesota Timberwolves,Portland Trail Blazers,120,103,H,1.39,3.01,2017
+2018-01-16,Detroit Pistons,Charlotte Hornets,107,118,A,1.67,2.19,2017
+2018-01-16,Philadelphia 76ers,Toronto Raptors,117,111,H,2.05,1.77,2017
+2018-01-16,Washington Wizards,Milwaukee Bucks,95,104,A,1.45,2.73,2017
+2018-01-16,Brooklyn Nets,New York Knicks,104,119,A,1.60,2.35,2017
+2018-01-16,Atlanta Hawks,San Antonio Spurs,102,99,H,2.86,1.42,2017
+2018-01-16,Chicago Bulls,Miami Heat,119,111,H,1.81,1.99,2017
+2018-01-16,Memphis Grizzlies,Los Angeles Lakers,123,114,H,1.59,2.39,2017
+2018-01-16,Oklahoma City Thunder,Sacramento Kings,95,88,H,1.10,7.11,2017
+2018-01-16,Cleveland Cavaliers,Golden State Warriors,108,118,A,2.93,1.40,2017
+2018-01-16,Utah Jazz,Indiana Pacers,94,109,A,1.51,2.70,2017
+2018-01-16,Los Angeles Clippers,Houston Rockets,113,102,H,2.62,1.50,2017
+2018-01-17,Orlando Magic,Minnesota Timberwolves,108,102,H,3.94,1.25,2017
+2018-01-17,Boston Celtics,New Orleans Pelicans,113,116,A,1.43,2.83,2017
+2018-01-17,Denver Nuggets,Dallas Mavericks,105,102,H,1.39,3.00,2017
+2018-01-17,Portland Trail Blazers,Phoenix Suns,118,111,H,1.15,5.45,2017
+2018-01-18,Charlotte Hornets,Washington Wizards,133,109,H,1.76,2.06,2017
+2018-01-18,Toronto Raptors,Detroit Pistons,96,91,H,1.24,4.02,2017
+2018-01-18,Brooklyn Nets,San Antonio Spurs,95,100,A,2.60,1.50,2017
+2018-01-18,Atlanta Hawks,New Orleans Pelicans,94,93,H,2.14,1.71,2017
+2018-01-18,Oklahoma City Thunder,Los Angeles Lakers,114,90,H,1.19,4.67,2017
+2018-01-18,Milwaukee Bucks,Miami Heat,101,106,A,1.52,2.55,2017
+2018-01-18,Memphis Grizzlies,New York Knicks,105,99,H,2.12,1.72,2017
+2018-01-18,Chicago Bulls,Golden State Warriors,112,119,A,3.98,1.24,2017
+2018-01-18,Sacramento Kings,Utah Jazz,105,120,A,2.47,1.55,2017
+2018-01-18,Los Angeles Clippers,Denver Nuggets,109,104,H,1.55,2.48,2017
+2018-01-19,Cleveland Cavaliers,Orlando Magic,104,103,H,1.11,6.58,2017
+2018-01-19,Boston Celtics,Philadelphia 76ers,80,89,A,1.68,2.27,2017
+2018-01-19,Houston Rockets,Minnesota Timberwolves,116,98,H,1.47,2.69,2017
+2018-01-19,Portland Trail Blazers,Indiana Pacers,100,86,H,1.52,2.57,2017
+2018-01-20,Toronto Raptors,San Antonio Spurs,86,83,H,1.40,2.98,2017
+2018-01-20,Brooklyn Nets,Miami Heat,101,95,H,2.30,1.62,2017
+2018-01-20,Memphis Grizzlies,Sacramento Kings,106,88,H,1.39,3.02,2017
+2018-01-20,Detroit Pistons,Washington Wizards,112,122,A,1.87,1.93,2017
+2018-01-20,Denver Nuggets,Phoenix Suns,100,108,A,1.21,4.43,2017
+2018-01-20,Utah Jazz,New York Knicks,115,117,A,1.44,2.81,2017
+2018-01-20,Los Angeles Lakers,Indiana Pacers,99,86,H,2.09,1.74,2017
+2018-01-21,Cleveland Cavaliers,Oklahoma City Thunder,124,148,A,1.66,2.23,2017
+2018-01-21,Atlanta Hawks,Chicago Bulls,97,113,A,1.75,2.08,2017
+2018-01-21,New Orleans Pelicans,Memphis Grizzlies,111,104,H,1.22,4.24,2017
+2018-01-21,Charlotte Hornets,Miami Heat,105,106,A,1.34,3.28,2017
+2018-01-21,Philadelphia 76ers,Milwaukee Bucks,116,94,H,1.31,3.49,2017
+2018-01-21,Houston Rockets,Golden State Warriors,116,108,H,2.18,1.68,2017
+2018-01-21,Utah Jazz,Los Angeles Clippers,125,113,H,1.69,2.17,2017
+2018-01-21,Minnesota Timberwolves,Toronto Raptors,115,109,H,2.00,1.81,2017
+2018-01-21,Portland Trail Blazers,Dallas Mavericks,117,108,H,1.45,2.74,2017
+2018-01-22,Boston Celtics,Orlando Magic,95,103,A,1.15,5.51,2017
+2018-01-22,Los Angeles Lakers,New York Knicks,127,107,H,2.06,1.76,2017
+2018-01-22,Detroit Pistons,Brooklyn Nets,100,101,A,1.40,2.96,2017
+2018-01-22,San Antonio Spurs,Indiana Pacers,86,94,A,1.40,2.94,2017
+2018-01-23,Charlotte Hornets,Sacramento Kings,112,107,H,1.15,5.39,2017
+2018-01-23,Atlanta Hawks,Utah Jazz,104,90,H,2.23,1.66,2017
+2018-01-23,New Orleans Pelicans,Chicago Bulls,132,128,H,1.36,3.21,2017
+2018-01-23,Milwaukee Bucks,Phoenix Suns,109,105,H,1.45,2.77,2017
+2018-01-23,Memphis Grizzlies,Philadelphia 76ers,105,101,H,2.27,1.64,2017
+2018-01-23,Houston Rockets,Miami Heat,99,90,H,1.14,5.76,2017
+2018-01-23,Dallas Mavericks,Washington Wizards,98,75,H,2.07,1.75,2017
+2018-01-23,Denver Nuggets,Portland Trail Blazers,104,101,H,1.63,2.28,2017
+2018-01-23,Los Angeles Clippers,Minnesota Timberwolves,118,126,A,1.75,2.07,2017
+2018-01-24,Orlando Magic,Sacramento Kings,99,105,A,1.31,3.51,2017
+2018-01-24,San Antonio Spurs,Cleveland Cavaliers,114,102,H,2.16,1.70,2017
+2018-01-24,Oklahoma City Thunder,Brooklyn Nets,109,108,H,1.17,4.96,2017
+2018-01-24,Los Angeles Lakers,Boston Celtics,108,107,H,2.70,1.46,2017
+2018-01-24,Golden State Warriors,New York Knicks,123,112,H,1.04,11.59,2017
+2018-01-25,Philadelphia 76ers,Chicago Bulls,115,101,H,1.41,2.91,2017
+2018-01-25,Indiana Pacers,Phoenix Suns,116,101,H,1.35,3.22,2017
+2018-01-25,Detroit Pistons,Utah Jazz,95,98,A,1.72,2.13,2017
+2018-01-25,Charlotte Hornets,New Orleans Pelicans,96,101,A,1.75,2.09,2017
+2018-01-25,Atlanta Hawks,Toronto Raptors,93,108,A,3.20,1.35,2017
+2018-01-25,Memphis Grizzlies,San Antonio Spurs,85,108,A,2.02,1.84,2017
+2018-01-25,Dallas Mavericks,Houston Rockets,97,104,A,3.24,1.35,2017
+2018-01-25,Portland Trail Blazers,Minnesota Timberwolves,123,114,H,1.65,2.34,2017
+2018-01-25,Los Angeles Clippers,Boston Celtics,102,113,A,1.62,2.41,2017
+2018-01-26,Miami Heat,Sacramento Kings,88,89,A,1.20,4.53,2017
+2018-01-26,Oklahoma City Thunder,Washington Wizards,121,112,H,1.46,2.73,2017
+2018-01-26,Denver Nuggets,New York Knicks,130,118,H,1.34,3.25,2017
+2018-01-26,Golden State Warriors,Minnesota Timberwolves,126,113,H,1.11,7.12,2017
+2018-01-27,Charlotte Hornets,Atlanta Hawks,121,110,H,1.33,3.31,2017
+2018-01-27,Toronto Raptors,Utah Jazz,93,97,A,1.25,3.96,2017
+2018-01-27,Cleveland Cavaliers,Indiana Pacers,115,108,H,1.36,3.15,2017
+2018-01-27,New Orleans Pelicans,Houston Rockets,115,113,H,2.56,1.51,2017
+2018-01-27,Milwaukee Bucks,Brooklyn Nets,116,91,H,1.38,3.07,2017
+2018-01-27,Memphis Grizzlies,Los Angeles Clippers,100,109,A,2.53,1.53,2017
+2018-01-27,Chicago Bulls,Los Angeles Lakers,103,108,A,1.55,2.47,2017
+2018-01-27,San Antonio Spurs,Philadelphia 76ers,78,97,A,1.58,2.40,2017
+2018-01-27,Dallas Mavericks,Portland Trail Blazers,93,107,A,1.97,1.84,2017
+2018-01-27,Phoenix Suns,New York Knicks,85,107,A,1.95,1.85,2017
+2018-01-28,Detroit Pistons,Oklahoma City Thunder,108,121,A,2.36,1.59,2017
+2018-01-28,Indiana Pacers,Orlando Magic,114,112,H,1.37,3.13,2017
+2018-01-28,Miami Heat,Charlotte Hornets,95,91,H,1.56,2.45,2017
+2018-01-28,Atlanta Hawks,Washington Wizards,104,129,A,2.36,1.60,2017
+2018-01-28,Golden State Warriors,Boston Celtics,109,105,H,1.13,6.08,2017
+2018-01-28,Minnesota Timberwolves,Brooklyn Nets,111,97,H,1.13,6.40,2017
+2018-01-28,Denver Nuggets,Dallas Mavericks,91,89,H,1.27,3.74,2017
+2018-01-29,Houston Rockets,Phoenix Suns,113,102,H,1.05,9.99,2017
+2018-01-29,Chicago Bulls,Milwaukee Bucks,96,110,A,2.14,1.71,2017
+2018-01-29,New Orleans Pelicans,Los Angeles Clippers,103,112,A,1.75,2.08,2017
+2018-01-29,Toronto Raptors,Los Angeles Lakers,123,111,H,1.16,5.36,2017
+2018-01-29,Oklahoma City Thunder,Philadelphia 76ers,122,112,H,1.61,2.31,2017
+2018-01-29,Cleveland Cavaliers,Detroit Pistons,121,104,H,1.28,3.66,2017
+2018-01-29,San Antonio Spurs,Sacramento Kings,113,98,H,1.12,6.48,2017
+2018-01-30,Indiana Pacers,Charlotte Hornets,105,96,H,1.77,2.05,2017
+2018-01-30,Atlanta Hawks,Minnesota Timberwolves,105,100,H,3.19,1.35,2017
+2018-01-30,Milwaukee Bucks,Philadelphia 76ers,107,95,H,1.37,3.15,2017
+2018-01-30,Memphis Grizzlies,Phoenix Suns,120,109,H,1.25,3.99,2017
+2018-01-30,Dallas Mavericks,Miami Heat,88,95,A,2.11,1.73,2017
+2018-01-30,Denver Nuggets,Boston Celtics,110,111,A,1.78,2.04,2017
+2018-01-31,Washington Wizards,Oklahoma City Thunder,102,96,H,2.34,1.60,2017
+2018-01-31,Toronto Raptors,Minnesota Timberwolves,109,104,H,1.37,3.14,2017
+2018-01-31,New York Knicks,Brooklyn Nets,111,95,H,1.42,2.86,2017
+2018-01-31,New Orleans Pelicans,Sacramento Kings,103,114,A,1.22,4.24,2017
+2018-01-31,Houston Rockets,Orlando Magic,114,107,H,1.10,8.07,2017
+2018-01-31,Detroit Pistons,Cleveland Cavaliers,125,114,H,3.15,1.36,2017
+2018-01-31,San Antonio Spurs,Denver Nuggets,106,104,H,1.34,3.27,2017
+2018-01-31,Utah Jazz,Golden State Warriors,129,99,H,3.80,1.26,2017
+2018-01-31,Los Angeles Clippers,Portland Trail Blazers,96,104,A,2.19,1.68,2017
+2018-02-01,Orlando Magic,Los Angeles Lakers,127,105,H,2.26,1.64,2017
+2018-02-01,Indiana Pacers,Memphis Grizzlies,105,101,H,1.26,3.86,2017
+2018-02-01,Cleveland Cavaliers,Miami Heat,91,89,H,1.70,2.16,2017
+2018-02-01,Brooklyn Nets,Philadelphia 76ers,116,108,H,3.56,1.30,2017
+2018-02-01,Atlanta Hawks,Charlotte Hornets,110,123,A,2.21,1.67,2017
+2018-02-01,Boston Celtics,New York Knicks,103,73,H,1.42,2.86,2017
+2018-02-01,Portland Trail Blazers,Chicago Bulls,124,108,H,1.26,3.85,2017
+2018-02-01,Phoenix Suns,Dallas Mavericks,102,88,H,2.19,1.68,2017
+2018-02-02,Washington Wizards,Toronto Raptors,122,119,H,2.46,1.55,2017
+2018-02-02,Detroit Pistons,Memphis Grizzlies,104,102,H,1.25,4.17,2017
+2018-02-02,San Antonio Spurs,Houston Rockets,91,102,A,2.14,1.71,2017
+2018-02-02,Minnesota Timberwolves,Milwaukee Bucks,108,89,H,1.39,3.02,2017
+2018-02-02,Denver Nuggets,Oklahoma City Thunder,127,124,H,2.03,1.78,2017
+2018-02-03,Charlotte Hornets,Indiana Pacers,133,126,H,1.61,2.34,2017
+2018-02-03,Toronto Raptors,Portland Trail Blazers,130,105,H,1.50,2.60,2017
+2018-02-03,Brooklyn Nets,Los Angeles Lakers,99,102,A,1.85,1.95,2017
+2018-02-03,Boston Celtics,Atlanta Hawks,119,110,H,1.35,3.38,2017
+2018-02-03,Philadelphia 76ers,Miami Heat,103,97,H,1.56,2.47,2017
+2018-02-03,Milwaukee Bucks,New York Knicks,92,90,H,1.51,2.58,2017
+2018-02-03,Phoenix Suns,Utah Jazz,97,129,A,2.98,1.40,2017
+2018-02-03,Oklahoma City Thunder,New Orleans Pelicans,100,114,A,1.38,3.03,2017
+2018-02-03,Sacramento Kings,Golden State Warriors,104,119,A,8.65,1.07,2017
+2018-02-04,Los Angeles Clippers,Chicago Bulls,113,103,H,1.25,3.90,2017
+2018-02-04,Orlando Magic,Washington Wizards,98,115,A,2.53,1.53,2017
+2018-02-04,Indiana Pacers,Philadelphia 76ers,100,92,H,1.85,1.95,2017
+2018-02-04,Detroit Pistons,Miami Heat,111,107,H,1.52,2.56,2017
+2018-02-04,Cleveland Cavaliers,Houston Rockets,88,120,A,2.38,1.59,2017
+2018-02-04,San Antonio Spurs,Utah Jazz,111,120,A,1.36,3.16,2017
+2018-02-04,Minnesota Timberwolves,New Orleans Pelicans,118,107,H,1.26,3.85,2017
+2018-02-04,Denver Nuggets,Golden State Warriors,115,108,H,2.69,1.47,2017
+2018-02-04,Sacramento Kings,Dallas Mavericks,99,106,A,2.54,1.53,2017
+2018-02-05,Toronto Raptors,Memphis Grizzlies,101,86,H,1.13,6.03,2017
+2018-02-05,New York Knicks,Atlanta Hawks,96,99,A,1.42,2.87,2017
+2018-02-05,Brooklyn Nets,Milwaukee Bucks,94,109,A,2.60,1.50,2017
+2018-02-05,Boston Celtics,Portland Trail Blazers,97,96,H,2.03,1.78,2017
+2018-02-05,Oklahoma City Thunder,Los Angeles Lakers,104,108,A,1.19,4.66,2017
+2018-02-05,Phoenix Suns,Charlotte Hornets,110,115,A,3.11,1.37,2017
+2018-02-06,Indiana Pacers,Washington Wizards,102,111,A,2.24,1.65,2017
+2018-02-06,Detroit Pistons,Portland Trail Blazers,111,91,H,1.71,2.14,2017
+2018-02-06,Miami Heat,Orlando Magic,109,111,A,1.24,4.07,2017
+2018-02-06,New Orleans Pelicans,Utah Jazz,109,133,A,1.89,1.90,2017
+2018-02-06,Denver Nuggets,Charlotte Hornets,121,104,H,1.55,2.46,2017
+2018-02-06,Sacramento Kings,Chicago Bulls,104,98,H,1.75,2.08,2017
+2018-02-06,Los Angeles Clippers,Dallas Mavericks,104,101,H,1.38,3.08,2017
+2018-02-07,Orlando Magic,Cleveland Cavaliers,116,98,H,3.34,1.33,2017
+2018-02-07,Toronto Raptors,Boston Celtics,111,91,H,1.46,2.72,2017
+2018-02-07,New York Knicks,Milwaukee Bucks,89,103,A,1.81,1.98,2017
+2018-02-07,Brooklyn Nets,Houston Rockets,113,123,A,5.87,1.13,2017
+2018-02-07,Atlanta Hawks,Memphis Grizzlies,108,82,H,1.65,2.25,2017
+2018-02-07,Philadelphia 76ers,Washington Wizards,115,102,H,1.37,3.15,2017
+2018-02-07,Los Angeles Lakers,Phoenix Suns,112,93,H,1.27,3.74,2017
+2018-02-07,Golden State Warriors,Oklahoma City Thunder,105,125,A,1.17,5.04,2017
+2018-02-08,Detroit Pistons,Brooklyn Nets,115,106,H,1.20,4.59,2017
+2018-02-08,Miami Heat,Houston Rockets,101,109,A,2.58,1.50,2017
+2018-02-08,Memphis Grizzlies,Utah Jazz,88,92,A,3.17,1.36,2017
+2018-02-08,Cleveland Cavaliers,Minnesota Timberwolves,140,138,H,2.32,1.61,2017
+2018-02-08,Phoenix Suns,San Antonio Spurs,81,129,A,5.53,1.15,2017
+2018-02-09,Orlando Magic,Atlanta Hawks,100,98,H,2.05,1.77,2017
+2018-02-09,Toronto Raptors,New York Knicks,113,88,H,1.07,8.77,2017
+2018-02-09,Washington Wizards,Boston Celtics,104,110,A,2.09,1.75,2017
+2018-02-09,Portland Trail Blazers,Charlotte Hornets,109,103,H,1.64,2.28,2017
+2018-02-09,Golden State Warriors,Dallas Mavericks,121,103,H,1.07,9.77,2017
+2018-02-09,Los Angeles Lakers,Oklahoma City Thunder,106,81,H,1.85,2.00,2017
+2018-02-10,Philadelphia 76ers,New Orleans Pelicans,100,82,H,1.41,2.92,2017
+2018-02-10,Detroit Pistons,Los Angeles Clippers,95,108,A,1.62,2.30,2017
+2018-02-10,Boston Celtics,Indiana Pacers,91,97,A,1.57,2.44,2017
+2018-02-10,Atlanta Hawks,Cleveland Cavaliers,107,123,A,2.07,1.76,2017
+2018-02-10,Miami Heat,Milwaukee Bucks,91,85,H,1.81,2.00,2017
+2018-02-10,Houston Rockets,Denver Nuggets,130,104,H,1.23,4.12,2017
+2018-02-10,Utah Jazz,Charlotte Hornets,106,94,H,1.40,2.99,2017
+2018-02-10,Chicago Bulls,Minnesota Timberwolves,114,113,H,3.45,1.31,2017
+2018-02-10,Sacramento Kings,Portland Trail Blazers,100,118,A,2.65,1.48,2017
+2018-02-11,Brooklyn Nets,New Orleans Pelicans,128,138,A,2.12,1.72,2017
+2018-02-11,Philadelphia 76ers,Los Angeles Clippers,112,98,H,1.50,2.62,2017
+2018-02-11,Orlando Magic,Milwaukee Bucks,104,111,A,2.67,1.47,2017
+2018-02-11,Chicago Bulls,Washington Wizards,90,101,A,2.77,1.45,2017
+2018-02-11,Golden State Warriors,San Antonio Spurs,122,105,H,1.14,5.83,2017
+2018-02-11,Dallas Mavericks,Los Angeles Lakers,130,123,H,1.65,2.32,2017
+2018-02-11,Phoenix Suns,Denver Nuggets,113,123,A,3.48,1.31,2017
+2018-02-12,Charlotte Hornets,Toronto Raptors,103,123,A,2.33,1.61,2017
+2018-02-12,Boston Celtics,Cleveland Cavaliers,99,121,A,1.50,2.59,2017
+2018-02-12,Atlanta Hawks,Detroit Pistons,118,115,H,2.40,1.58,2017
+2018-02-12,Indiana Pacers,New York Knicks,121,113,H,1.28,3.65,2017
+2018-02-12,Oklahoma City Thunder,Memphis Grizzlies,110,92,H,1.53,2.52,2017
+2018-02-12,Minnesota Timberwolves,Sacramento Kings,111,106,H,1.08,7.83,2017
+2018-02-12,Houston Rockets,Dallas Mavericks,104,97,H,1.05,10.84,2017
+2018-02-12,Portland Trail Blazers,Utah Jazz,96,115,A,1.59,2.37,2017
+2018-02-13,Philadelphia 76ers,New York Knicks,108,92,H,1.14,5.90,2017
+2018-02-13,Detroit Pistons,New Orleans Pelicans,103,118,A,1.63,2.30,2017
+2018-02-13,Brooklyn Nets,Los Angeles Clippers,101,114,A,2.60,1.50,2017
+2018-02-13,Chicago Bulls,Orlando Magic,105,101,H,1.52,2.57,2017
+2018-02-13,Utah Jazz,San Antonio Spurs,101,99,H,1.55,2.48,2017
+2018-02-13,Golden State Warriors,Phoenix Suns,129,83,H,1.04,11.71,2017
+2018-02-14,Toronto Raptors,Miami Heat,115,112,H,1.25,3.88,2017
+2018-02-14,Oklahoma City Thunder,Cleveland Cavaliers,112,120,A,1.66,2.27,2017
+2018-02-14,Minnesota Timberwolves,Houston Rockets,108,126,A,2.35,1.60,2017
+2018-02-14,Milwaukee Bucks,Atlanta Hawks,97,92,H,1.30,3.50,2017
+2018-02-14,Dallas Mavericks,Sacramento Kings,109,114,A,1.34,3.28,2017
+2018-02-14,Denver Nuggets,San Antonio Spurs,117,109,H,1.37,3.16,2017
+2018-02-15,Philadelphia 76ers,Miami Heat,104,102,H,1.51,2.66,2017
+2018-02-15,Orlando Magic,Charlotte Hornets,102,104,A,3.03,1.40,2017
+2018-02-15,Detroit Pistons,Atlanta Hawks,104,98,H,1.17,5.29,2017
+2018-02-15,New York Knicks,Washington Wizards,113,118,A,2.58,1.53,2017
+2018-02-15,Brooklyn Nets,Indiana Pacers,103,108,A,2.41,1.60,2017
+2018-02-15,New Orleans Pelicans,Los Angeles Lakers,139,117,H,1.45,2.80,2017
+2018-02-15,Memphis Grizzlies,Oklahoma City Thunder,114,121,A,2.56,1.54,2017
+2018-02-15,Houston Rockets,Sacramento Kings,100,91,H,1.05,10.96,2017
+2018-02-15,Chicago Bulls,Toronto Raptors,98,122,A,3.35,1.34,2017
+2018-02-15,Boston Celtics,Los Angeles Clippers,119,129,A,1.49,2.69,2017
+2018-02-15,Utah Jazz,Phoenix Suns,107,97,H,1.13,6.07,2017
+2018-02-15,Portland Trail Blazers,Golden State Warriors,123,117,H,3.15,1.37,2017
+2018-02-16,Milwaukee Bucks,Denver Nuggets,123,134,A,1.74,2.14,2017
+2018-02-16,Minnesota Timberwolves,Los Angeles Lakers,119,111,H,1.18,5.01,2017
+2018-02-17,Team USA,Team World,124,155,A,1.81,2.01,2017
+2018-02-19,Team Stephen,Team LeBron,145,148,A,2.12,1.70,2017
+2018-02-23,Orlando Magic,New York Knicks,113,120,A,1.62,2.35,2017
+2018-02-23,Charlotte Hornets,Brooklyn Nets,111,96,H,1.27,3.91,2017
+2018-02-23,Cleveland Cavaliers,Washington Wizards,103,110,A,1.37,3.20,2017
+2018-02-23,Chicago Bulls,Philadelphia 76ers,115,116,A,3.46,1.32,2017
+2018-02-23,Sacramento Kings,Oklahoma City Thunder,107,110,A,3.97,1.26,2017
+2018-02-23,Golden State Warriors,Los Angeles Clippers,134,127,H,1.13,6.15,2017
+2018-02-24,Washington Wizards,Charlotte Hornets,105,122,A,1.61,2.38,2017
+2018-02-24,Indiana Pacers,Atlanta Hawks,116,93,H,1.31,3.56,2017
+2018-02-24,Detroit Pistons,Boston Celtics,98,110,A,2.10,1.76,2017
+2018-02-24,Toronto Raptors,Milwaukee Bucks,119,122,A,1.31,3.58,2017
+2018-02-24,New Orleans Pelicans,Miami Heat,124,123,H,1.77,2.09,2017
+2018-02-24,Memphis Grizzlies,Cleveland Cavaliers,89,112,A,2.71,1.48,2017
+2018-02-24,Houston Rockets,Minnesota Timberwolves,120,102,H,1.29,3.71,2017
+2018-02-24,Utah Jazz,Portland Trail Blazers,81,100,A,1.53,2.59,2017
+2018-02-24,Phoenix Suns,Los Angeles Clippers,117,128,A,2.87,1.44,2017
+2018-02-24,Denver Nuggets,San Antonio Spurs,122,119,H,1.60,2.41,2017
+2018-02-24,Los Angeles Lakers,Dallas Mavericks,124,102,H,1.57,2.50,2017
+2018-02-25,Philadelphia 76ers,Orlando Magic,116,105,H,1.18,5.02,2017
+2018-02-25,New York Knicks,Boston Celtics,112,121,A,2.83,1.45,2017
+2018-02-25,Miami Heat,Memphis Grizzlies,115,89,H,1.22,4.40,2017
+2018-02-25,Golden State Warriors,Oklahoma City Thunder,112,80,H,1.18,5.09,2017
+2018-02-25,Utah Jazz,Dallas Mavericks,97,90,H,1.18,5.09,2017
+2018-02-25,Phoenix Suns,Portland Trail Blazers,104,106,A,3.31,1.36,2017
+2018-02-25,Minnesota Timberwolves,Chicago Bulls,122,104,H,1.32,3.46,2017
+2018-02-25,Sacramento Kings,Los Angeles Lakers,108,113,A,2.05,1.80,2017
+2018-02-26,Charlotte Hornets,Detroit Pistons,114,98,H,1.53,2.58,2017
+2018-02-26,Milwaukee Bucks,New Orleans Pelicans,121,123,A,1.54,2.55,2017
+2018-02-26,Cleveland Cavaliers,San Antonio Spurs,94,110,A,1.53,2.59,2017
+2018-02-26,Washington Wizards,Philadelphia 76ers,109,94,H,1.82,2.02,2017
+2018-02-26,Denver Nuggets,Houston Rockets,114,119,A,2.60,1.51,2017
+2018-02-27,Toronto Raptors,Detroit Pistons,123,94,H,1.15,5.69,2017
+2018-02-27,New York Knicks,Golden State Warriors,111,125,A,7.83,1.09,2017
+2018-02-27,Brooklyn Nets,Chicago Bulls,104,87,H,1.53,2.60,2017
+2018-02-27,Boston Celtics,Memphis Grizzlies,109,98,H,1.11,7.08,2017
+2018-02-27,Atlanta Hawks,Los Angeles Lakers,104,123,A,2.11,1.75,2017
+2018-02-27,Oklahoma City Thunder,Orlando Magic,112,105,H,1.16,5.39,2017
+2018-02-27,New Orleans Pelicans,Phoenix Suns,125,116,H,1.32,3.51,2017
+2018-02-27,Dallas Mavericks,Indiana Pacers,109,103,H,2.32,1.63,2017
+2018-02-27,Utah Jazz,Houston Rockets,85,96,A,1.97,1.85,2017
+2018-02-27,Sacramento Kings,Minnesota Timberwolves,100,118,A,2.70,1.48,2017
+2018-02-28,Cleveland Cavaliers,Brooklyn Nets,129,123,H,1.15,5.79,2017
+2018-02-28,Charlotte Hornets,Chicago Bulls,118,103,H,1.13,6.14,2017
+2018-02-28,Miami Heat,Philadelphia 76ers,102,101,H,1.85,1.98,2017
+2018-02-28,Milwaukee Bucks,Washington Wizards,104,107,A,1.68,2.24,2017
+2018-02-28,Portland Trail Blazers,Sacramento Kings,116,99,H,1.10,7.16,2017
+2018-02-28,Denver Nuggets,Los Angeles Clippers,120,122,A,1.46,2.76,2017
+2018-03-01,Orlando Magic,Toronto Raptors,104,117,A,4.53,1.21,2017
+2018-03-01,Detroit Pistons,Milwaukee Bucks,110,87,H,1.83,2.00,2017
+2018-03-01,Boston Celtics,Charlotte Hornets,134,106,H,1.28,3.79,2017
+2018-03-01,Atlanta Hawks,Indiana Pacers,107,102,H,2.59,1.52,2017
+2018-03-01,Washington Wizards,Golden State Warriors,101,109,A,4.31,1.23,2017
+2018-03-01,Memphis Grizzlies,Phoenix Suns,102,110,A,1.67,2.26,2017
+2018-03-01,San Antonio Spurs,New Orleans Pelicans,116,121,A,1.51,2.62,2017
+2018-03-01,Dallas Mavericks,Oklahoma City Thunder,110,111,A,2.65,1.50,2017
+2018-03-01,Los Angeles Clippers,Houston Rockets,92,105,A,4.07,1.26,2017
+2018-03-02,Miami Heat,Los Angeles Lakers,113,131,A,1.46,2.79,2017
+2018-03-02,Cleveland Cavaliers,Philadelphia 76ers,97,108,A,1.68,2.24,2017
+2018-03-02,Sacramento Kings,Brooklyn Nets,116,111,H,2.19,1.71,2017
+2018-03-02,Portland Trail Blazers,Minnesota Timberwolves,108,99,H,1.47,2.77,2017
+2018-03-03,Philadelphia 76ers,Charlotte Hornets,110,99,H,1.61,2.39,2017
+2018-03-03,Orlando Magic,Detroit Pistons,115,106,H,2.15,1.73,2017
+2018-03-03,Atlanta Hawks,Golden State Warriors,109,114,A,8.49,1.08,2017
+2018-03-03,Washington Wizards,Toronto Raptors,95,102,A,2.41,1.60,2017
+2018-03-03,Milwaukee Bucks,Indiana Pacers,96,103,A,1.60,2.41,2017
+2018-03-03,Memphis Grizzlies,Denver Nuggets,102,108,A,4.19,1.24,2017
+2018-03-03,Chicago Bulls,Dallas Mavericks,108,100,H,2.12,1.75,2017
+2018-03-03,Phoenix Suns,Oklahoma City Thunder,116,124,A,3.84,1.27,2017
+2018-03-03,Utah Jazz,Minnesota Timberwolves,116,108,H,1.32,3.48,2017
+2018-03-03,Los Angeles Clippers,New York Knicks,128,105,H,1.24,4.23,2017
+2018-03-04,Orlando Magic,Memphis Grizzlies,107,100,H,1.35,3.34,2017
+2018-03-04,Miami Heat,Detroit Pistons,105,96,H,1.48,2.74,2017
+2018-03-04,Cleveland Cavaliers,Denver Nuggets,117,126,A,1.55,2.52,2017
+2018-03-04,Houston Rockets,Boston Celtics,123,120,H,1.26,3.98,2017
+2018-03-04,San Antonio Spurs,Los Angeles Lakers,112,116,A,1.45,2.82,2017
+2018-03-04,Sacramento Kings,Utah Jazz,91,98,A,3.44,1.32,2017
+2018-03-04,Portland Trail Blazers,Oklahoma City Thunder,108,100,H,1.50,2.66,2017
+2018-03-05,Atlanta Hawks,Phoenix Suns,113,112,H,1.80,2.04,2017
+2018-03-05,Washington Wizards,Indiana Pacers,95,98,A,1.57,2.48,2017
+2018-03-05,Toronto Raptors,Charlotte Hornets,103,98,H,1.23,4.24,2017
+2018-03-05,Dallas Mavericks,New Orleans Pelicans,109,126,A,2.39,1.60,2017
+2018-03-05,Milwaukee Bucks,Philadelphia 76ers,118,110,H,2.00,1.84,2017
+2018-03-05,Sacramento Kings,New York Knicks,102,99,H,2.26,1.65,2017
+2018-03-05,Los Angeles Clippers,Brooklyn Nets,123,120,H,1.30,3.61,2017
+2018-03-06,Indiana Pacers,Milwaukee Bucks,92,89,H,1.71,2.19,2017
+2018-03-06,Cleveland Cavaliers,Detroit Pistons,112,90,H,1.39,3.10,2017
+2018-03-06,Miami Heat,Phoenix Suns,125,103,H,1.20,4.73,2017
+2018-03-06,Chicago Bulls,Boston Celtics,89,105,A,3.52,1.31,2017
+2018-03-06,San Antonio Spurs,Memphis Grizzlies,100,98,H,1.09,7.99,2017
+2018-03-06,Utah Jazz,Orlando Magic,94,80,H,1.19,4.81,2017
+2018-03-06,Los Angeles Lakers,Portland Trail Blazers,103,108,A,2.10,1.76,2017
+2018-03-07,Washington Wizards,Miami Heat,117,113,H,1.58,2.46,2017
+2018-03-07,Toronto Raptors,Atlanta Hawks,106,90,H,1.09,8.00,2017
+2018-03-07,Charlotte Hornets,Philadelphia 76ers,114,128,A,2.01,1.82,2017
+2018-03-07,Oklahoma City Thunder,Houston Rockets,112,122,A,2.74,1.47,2017
+2018-03-07,Dallas Mavericks,Denver Nuggets,118,107,H,3.16,1.37,2017
+2018-03-07,Portland Trail Blazers,New York Knicks,111,87,H,1.18,5.06,2017
+2018-03-07,Golden State Warriors,Brooklyn Nets,114,101,H,1.05,11.08,2017
+2018-03-07,Los Angeles Clippers,New Orleans Pelicans,116,121,A,1.78,2.08,2017
+2018-03-08,Indiana Pacers,Utah Jazz,84,104,A,2.02,1.82,2017
+2018-03-08,Milwaukee Bucks,Houston Rockets,99,110,A,2.97,1.41,2017
+2018-03-08,Detroit Pistons,Toronto Raptors,119,121,A,2.79,1.45,2017
+2018-03-08,Chicago Bulls,Memphis Grizzlies,119,110,H,1.60,2.40,2017
+2018-03-08,Sacramento Kings,New Orleans Pelicans,101,114,A,2.94,1.42,2017
+2018-03-08,Los Angeles Lakers,Orlando Magic,108,107,H,1.37,3.22,2017
+2018-03-08,Denver Nuggets,Cleveland Cavaliers,108,113,A,1.64,2.33,2017
+2018-03-09,Charlotte Hornets,Brooklyn Nets,111,125,A,1.32,3.44,2017
+2018-03-09,Miami Heat,Philadelphia 76ers,108,99,H,1.88,1.95,2017
+2018-03-09,Oklahoma City Thunder,Phoenix Suns,115,87,H,1.15,5.86,2017
+2018-03-09,Minnesota Timberwolves,Boston Celtics,109,117,A,2.16,1.72,2017
+2018-03-09,Golden State Warriors,San Antonio Spurs,110,107,H,1.14,6.04,2017
+2018-03-10,Indiana Pacers,Atlanta Hawks,112,87,H,1.25,4.12,2017
+2018-03-10,Detroit Pistons,Chicago Bulls,99,83,H,1.29,3.74,2017
+2018-03-10,Toronto Raptors,Houston Rockets,108,105,H,2.29,1.65,2017
+2018-03-10,New Orleans Pelicans,Washington Wizards,97,116,A,2.35,1.62,2017
+2018-03-10,Milwaukee Bucks,New York Knicks,120,112,H,1.19,4.96,2017
+2018-03-10,Memphis Grizzlies,Utah Jazz,78,95,A,5.31,1.17,2017
+2018-03-10,Denver Nuggets,Los Angeles Lakers,125,116,H,1.34,3.35,2017
+2018-03-10,Sacramento Kings,Orlando Magic,94,88,H,1.68,2.23,2017
+2018-03-10,Portland Trail Blazers,Golden State Warriors,125,108,H,1.87,1.96,2017
+2018-03-10,Los Angeles Clippers,Cleveland Cavaliers,116,102,H,1.96,1.87,2017
+2018-03-11,Charlotte Hornets,Phoenix Suns,122,115,H,1.08,8.17,2017
+2018-03-11,Miami Heat,Washington Wizards,129,102,H,1.58,2.45,2017
+2018-03-11,Oklahoma City Thunder,San Antonio Spurs,104,94,H,1.56,2.51,2017
+2018-03-11,Dallas Mavericks,Memphis Grizzlies,114,80,H,1.20,4.70,2017
+2018-03-11,Los Angeles Clippers,Orlando Magic,113,105,H,1.11,6.92,2017
+2018-03-12,New York Knicks,Toronto Raptors,106,132,A,5.21,1.17,2017
+2018-03-12,Minnesota Timberwolves,Golden State Warriors,109,103,H,2.36,1.62,2017
+2018-03-12,Atlanta Hawks,Chicago Bulls,122,129,A,1.77,2.09,2017
+2018-03-12,New Orleans Pelicans,Utah Jazz,99,116,A,2.04,1.80,2017
+2018-03-12,Denver Nuggets,Sacramento Kings,130,104,H,1.11,6.87,2017
+2018-03-12,Dallas Mavericks,Houston Rockets,82,105,A,5.46,1.16,2017
+2018-03-12,Brooklyn Nets,Philadelphia 76ers,97,120,A,2.91,1.43,2017
+2018-03-12,Boston Celtics,Indiana Pacers,97,99,A,1.53,2.59,2017
+2018-03-12,Los Angeles Lakers,Cleveland Cavaliers,127,113,H,2.10,1.76,2017
+2018-03-13,Oklahoma City Thunder,Sacramento Kings,106,101,H,1.06,9.61,2017
+2018-03-13,Memphis Grizzlies,Milwaukee Bucks,103,121,A,3.65,1.29,2017
+2018-03-13,Houston Rockets,San Antonio Spurs,109,93,H,1.12,6.64,2017
+2018-03-13,Portland Trail Blazers,Miami Heat,115,99,H,1.41,3.02,2017
+2018-03-14,Washington Wizards,Minnesota Timberwolves,111,116,A,1.64,2.30,2017
+2018-03-14,Philadelphia 76ers,Indiana Pacers,98,101,A,1.38,3.17,2017
+2018-03-14,New York Knicks,Dallas Mavericks,97,110,A,1.90,1.92,2017
+2018-03-14,Brooklyn Nets,Toronto Raptors,102,116,A,4.54,1.21,2017
+2018-03-14,Atlanta Hawks,Oklahoma City Thunder,107,119,A,3.09,1.39,2017
+2018-03-14,New Orleans Pelicans,Charlotte Hornets,119,115,H,1.49,2.67,2017
+2018-03-14,Chicago Bulls,Los Angeles Clippers,106,112,A,3.66,1.29,2017
+2018-03-14,San Antonio Spurs,Orlando Magic,108,72,H,1.15,5.70,2017
+2018-03-14,Utah Jazz,Detroit Pistons,110,79,H,1.23,4.24,2017
+2018-03-14,Phoenix Suns,Cleveland Cavaliers,107,129,A,3.56,1.31,2017
+2018-03-14,Los Angeles Lakers,Denver Nuggets,112,103,H,2.11,1.76,2017
+2018-03-15,Orlando Magic,Milwaukee Bucks,126,117,H,5.28,1.16,2017
+2018-03-15,Boston Celtics,Washington Wizards,124,125,A,2.50,1.55,2017
+2018-03-15,Sacramento Kings,Miami Heat,123,119,H,3.40,1.33,2017
+2018-03-15,Golden State Warriors,Los Angeles Lakers,117,106,H,1.38,3.16,2017
+2018-03-16,Indiana Pacers,Toronto Raptors,99,106,A,2.49,1.56,2017
+2018-03-16,New York Knicks,Philadelphia 76ers,110,118,A,5.25,1.17,2017
+2018-03-16,Atlanta Hawks,Charlotte Hornets,117,129,A,2.79,1.45,2017
+2018-03-16,Memphis Grizzlies,Chicago Bulls,110,111,A,1.72,2.16,2017
+2018-03-16,Houston Rockets,Los Angeles Clippers,101,96,H,1.12,6.57,2017
+2018-03-16,San Antonio Spurs,New Orleans Pelicans,98,93,H,1.53,2.57,2017
+2018-03-16,Utah Jazz,Phoenix Suns,116,88,H,1.06,10.14,2017
+2018-03-16,Denver Nuggets,Detroit Pistons,120,113,H,1.24,4.22,2017
+2018-03-16,Portland Trail Blazers,Cleveland Cavaliers,113,105,H,1.42,2.96,2017
+2018-03-17,Philadelphia 76ers,Brooklyn Nets,120,116,H,1.24,4.16,2017
+2018-03-17,Orlando Magic,Boston Celtics,83,92,A,3.25,1.36,2017
+2018-03-17,Toronto Raptors,Dallas Mavericks,122,115,H,1.14,6.01,2017
+2018-03-17,Oklahoma City Thunder,Los Angeles Clippers,121,113,H,1.39,3.08,2017
+2018-03-17,Los Angeles Lakers,Miami Heat,91,92,A,1.73,2.16,2017
+2018-03-17,Golden State Warriors,Sacramento Kings,93,98,A,1.24,4.21,2017
+2018-03-18,Milwaukee Bucks,Atlanta Hawks,122,117,H,1.13,6.32,2017
+2018-03-18,Washington Wizards,Indiana Pacers,109,102,H,1.52,2.61,2017
+2018-03-18,New Orleans Pelicans,Houston Rockets,101,107,A,4.17,1.24,2017
+2018-03-18,New York Knicks,Charlotte Hornets,124,101,H,3.20,1.37,2017
+2018-03-18,Brooklyn Nets,Dallas Mavericks,114,106,H,1.54,2.54,2017
+2018-03-18,Memphis Grizzlies,Denver Nuggets,101,94,H,3.49,1.32,2017
+2018-03-18,Chicago Bulls,Cleveland Cavaliers,109,114,A,3.49,1.32,2017
+2018-03-18,San Antonio Spurs,Minnesota Timberwolves,117,101,H,1.54,2.56,2017
+2018-03-18,Utah Jazz,Sacramento Kings,103,97,H,1.04,12.31,2017
+2018-03-18,Portland Trail Blazers,Detroit Pistons,100,87,H,1.22,4.46,2017
+2018-03-18,Phoenix Suns,Golden State Warriors,109,124,A,2.70,1.48,2017
+2018-03-19,Toronto Raptors,Oklahoma City Thunder,125,132,A,1.39,3.13,2017
+2018-03-19,New Orleans Pelicans,Boston Celtics,108,89,H,1.66,2.28,2017
+2018-03-19,Minnesota Timberwolves,Houston Rockets,120,129,A,3.59,1.30,2017
+2018-03-19,Los Angeles Clippers,Portland Trail Blazers,109,122,A,1.85,1.99,2017
+2018-03-20,Philadelphia 76ers,Charlotte Hornets,108,94,H,1.23,4.28,2017
+2018-03-20,Indiana Pacers,Los Angeles Lakers,110,100,H,1.46,2.78,2017
+2018-03-20,Cleveland Cavaliers,Milwaukee Bucks,124,117,H,1.67,2.25,2017
+2018-03-20,New York Knicks,Chicago Bulls,110,92,H,1.47,2.73,2017
+2018-03-20,Miami Heat,Denver Nuggets,149,141,H,1.81,2.03,2017
+2018-03-20,Brooklyn Nets,Memphis Grizzlies,118,115,H,1.28,3.81,2017
+2018-03-20,San Antonio Spurs,Golden State Warriors,89,75,H,1.28,3.81,2017
+2018-03-20,Sacramento Kings,Detroit Pistons,90,106,A,2.49,1.57,2017
+2018-03-21,Orlando Magic,Toronto Raptors,86,93,A,4.61,1.21,2017
+2018-03-21,New Orleans Pelicans,Dallas Mavericks,115,105,H,1.34,3.35,2017
+2018-03-21,Minnesota Timberwolves,Los Angeles Clippers,123,109,H,1.60,2.40,2017
+2018-03-21,Boston Celtics,Oklahoma City Thunder,100,99,H,2.66,1.50,2017
+2018-03-21,Utah Jazz,Atlanta Hawks,94,99,A,1.06,10.44,2017
+2018-03-21,Phoenix Suns,Detroit Pistons,88,115,A,3.46,1.32,2017
+2018-03-21,Portland Trail Blazers,Houston Rockets,111,115,A,2.57,1.53,2017
+2018-03-22,Philadelphia 76ers,Memphis Grizzlies,119,105,H,1.09,8.13,2017
+2018-03-22,Cleveland Cavaliers,Toronto Raptors,132,129,H,2.04,1.81,2017
+2018-03-22,Miami Heat,New York Knicks,119,98,H,1.18,5.07,2017
+2018-03-22,Brooklyn Nets,Charlotte Hornets,105,111,A,1.96,1.87,2017
+2018-03-22,New Orleans Pelicans,Indiana Pacers,96,92,H,1.85,1.98,2017
+2018-03-22,Milwaukee Bucks,Los Angeles Clippers,120,127,A,1.44,2.84,2017
+2018-03-22,Chicago Bulls,Denver Nuggets,102,135,A,4.71,1.20,2017
+2018-03-22,San Antonio Spurs,Washington Wizards,98,90,H,1.44,2.86,2017
+2018-03-23,Orlando Magic,Philadelphia 76ers,98,118,A,3.99,1.26,2017
+2018-03-23,Charlotte Hornets,Memphis Grizzlies,140,79,H,1.23,4.29,2017
+2018-03-23,New Orleans Pelicans,Los Angeles Lakers,128,125,H,1.72,2.17,2017
+2018-03-23,Houston Rockets,Detroit Pistons,100,96,H,1.13,6.30,2017
+2018-03-23,Dallas Mavericks,Utah Jazz,112,119,A,4.10,1.25,2017
+2018-03-23,Sacramento Kings,Atlanta Hawks,105,90,H,1.61,2.37,2017
+2018-03-24,Washington Wizards,Denver Nuggets,100,108,A,1.82,2.02,2017
+2018-03-24,Indiana Pacers,Los Angeles Clippers,109,104,H,1.60,2.41,2017
+2018-03-24,Toronto Raptors,Brooklyn Nets,116,112,H,1.12,6.60,2017
+2018-03-24,New York Knicks,Minnesota Timberwolves,104,108,A,3.57,1.31,2017
+2018-03-24,Cleveland Cavaliers,Phoenix Suns,120,95,H,1.04,13.14,2017
+2018-03-24,Oklahoma City Thunder,Miami Heat,105,99,H,1.38,3.17,2017
+2018-03-24,Chicago Bulls,Milwaukee Bucks,105,118,A,2.60,1.53,2017
+2018-03-24,San Antonio Spurs,Utah Jazz,124,120,H,1.63,2.35,2017
+2018-03-24,Portland Trail Blazers,Boston Celtics,100,105,A,1.29,3.69,2017
+2018-03-24,Golden State Warriors,Atlanta Hawks,106,94,H,1.13,6.48,2017
+2018-03-25,Philadelphia 76ers,Minnesota Timberwolves,120,108,H,1.26,3.97,2017
+2018-03-25,Orlando Magic,Phoenix Suns,105,99,H,1.31,3.54,2017
+2018-03-25,Detroit Pistons,Chicago Bulls,117,95,H,1.07,8.83,2017
+2018-03-25,Memphis Grizzlies,Los Angeles Lakers,93,100,A,3.21,1.37,2017
+2018-03-25,Houston Rockets,New Orleans Pelicans,114,91,H,1.23,4.30,2017
+2018-03-25,Dallas Mavericks,Charlotte Hornets,98,102,A,2.19,1.71,2017
+2018-03-26,Brooklyn Nets,Cleveland Cavaliers,114,121,A,3.38,1.34,2017
+2018-03-26,Milwaukee Bucks,San Antonio Spurs,106,103,H,2.08,1.78,2017
+2018-03-26,Indiana Pacers,Miami Heat,113,107,H,1.63,2.34,2017
+2018-03-26,Washington Wizards,New York Knicks,97,101,A,1.15,5.82,2017
+2018-03-26,Toronto Raptors,Los Angeles Clippers,106,117,A,1.24,4.20,2017
+2018-03-26,Sacramento Kings,Boston Celtics,93,104,A,3.28,1.36,2017
+2018-03-26,Oklahoma City Thunder,Portland Trail Blazers,105,108,A,1.57,2.48,2017
+2018-03-26,Houston Rockets,Atlanta Hawks,118,99,H,1.06,10.17,2017
+2018-03-26,Golden State Warriors,Utah Jazz,91,110,A,4.75,1.20,2017
+2018-03-27,Philadelphia 76ers,Denver Nuggets,123,104,H,1.46,2.75,2017
+2018-03-27,Detroit Pistons,Los Angeles Lakers,112,106,H,1.42,2.94,2017
+2018-03-27,Charlotte Hornets,New York Knicks,137,128,H,1.12,6.60,2017
+2018-03-27,Minnesota Timberwolves,Memphis Grizzlies,93,101,A,1.07,9.26,2017
+2018-03-27,Phoenix Suns,Boston Celtics,94,102,A,5.62,1.15,2017
+2018-03-28,Washington Wizards,San Antonio Spurs,116,106,H,2.11,1.75,2017
+2018-03-28,Toronto Raptors,Denver Nuggets,114,110,H,1.25,4.03,2017
+2018-03-28,New Orleans Pelicans,Portland Trail Blazers,103,107,A,2.01,1.82,2017
+2018-03-28,Miami Heat,Cleveland Cavaliers,98,79,H,2.04,1.80,2017
+2018-03-28,Houston Rockets,Chicago Bulls,118,86,H,1.07,9.35,2017
+2018-03-28,Sacramento Kings,Dallas Mavericks,97,103,A,1.69,2.20,2017
+2018-03-28,Los Angeles Clippers,Milwaukee Bucks,105,98,H,1.65,2.28,2017
+2018-03-28,Golden State Warriors,Indiana Pacers,81,92,A,3.92,1.27,2017
+2018-03-29,Philadelphia 76ers,New York Knicks,118,101,H,1.06,10.01,2017
+2018-03-29,Orlando Magic,Brooklyn Nets,104,111,A,2.22,1.68,2017
+2018-03-29,Charlotte Hornets,Cleveland Cavaliers,105,118,A,1.74,2.12,2017
+2018-03-29,Minnesota Timberwolves,Atlanta Hawks,126,114,H,1.08,8.31,2017
+2018-03-29,Memphis Grizzlies,Portland Trail Blazers,108,103,H,3.20,1.37,2017
+2018-03-29,Utah Jazz,Boston Celtics,94,97,A,1.17,5.16,2017
+2018-03-29,Phoenix Suns,Los Angeles Clippers,99,111,A,5.88,1.14,2017
+2018-03-29,Los Angeles Lakers,Dallas Mavericks,103,93,H,1.24,4.12,2017
+2018-03-30,Detroit Pistons,Washington Wizards,103,92,H,2.17,1.71,2017
+2018-03-30,Miami Heat,Chicago Bulls,103,92,H,1.07,9.08,2017
+2018-03-30,San Antonio Spurs,Oklahoma City Thunder,103,99,H,1.81,2.02,2017
+2018-03-30,Sacramento Kings,Indiana Pacers,103,106,A,3.97,1.26,2017
+2018-03-30,Golden State Warriors,Milwaukee Bucks,107,116,A,1.55,2.51,2017
+2018-03-31,Orlando Magic,Chicago Bulls,82,90,A,1.37,3.16,2017
+2018-03-31,Atlanta Hawks,Philadelphia 76ers,91,101,A,3.89,1.27,2017
+2018-03-31,Oklahoma City Thunder,Denver Nuggets,125,126,A,1.57,2.46,2017
+2018-03-31,Houston Rockets,Phoenix Suns,104,103,H,1.02,17.73,2017
+2018-03-31,Cleveland Cavaliers,New Orleans Pelicans,107,102,H,1.48,2.71,2017
+2018-03-31,Dallas Mavericks,Minnesota Timberwolves,92,93,A,3.07,1.39,2017
+2018-03-31,Utah Jazz,Memphis Grizzlies,107,97,H,1.04,12.55,2017
+2018-03-31,Portland Trail Blazers,Los Angeles Clippers,105,96,H,1.39,3.10,2017
+2018-03-31,Los Angeles Lakers,Milwaukee Bucks,122,124,A,1.96,1.87,2017
+2018-04-01,Washington Wizards,Charlotte Hornets,107,93,H,1.38,3.14,2017
+2018-04-01,New York Knicks,Detroit Pistons,109,115,A,2.63,1.50,2017
+2018-04-01,Boston Celtics,Toronto Raptors,110,99,H,2.63,1.51,2017
+2018-04-01,Miami Heat,Brooklyn Nets,109,110,A,1.24,4.09,2017
+2018-04-01,Sacramento Kings,Golden State Warriors,96,112,A,4.33,1.23,2017
+2018-04-02,Charlotte Hornets,Philadelphia 76ers,102,119,A,2.23,1.68,2017
+2018-04-02,San Antonio Spurs,Houston Rockets,100,83,H,1.93,1.89,2017
+2018-04-02,Los Angeles Clippers,Indiana Pacers,104,111,A,1.66,2.26,2017
+2018-04-02,Chicago Bulls,Washington Wizards,113,94,H,3.69,1.29,2017
+2018-04-02,New Orleans Pelicans,Oklahoma City Thunder,104,109,A,1.95,1.87,2017
+2018-04-02,Cleveland Cavaliers,Dallas Mavericks,98,87,H,1.14,5.91,2017
+2018-04-02,Brooklyn Nets,Detroit Pistons,96,108,A,1.92,1.90,2017
+2018-04-02,Atlanta Hawks,Orlando Magic,94,88,H,1.82,2.01,2017
+2018-04-02,Minnesota Timberwolves,Utah Jazz,97,121,A,2.23,1.68,2017
+2018-04-02,Denver Nuggets,Milwaukee Bucks,128,125,H,1.43,2.88,2017
+2018-04-02,Golden State Warriors,Phoenix Suns,117,107,H,1.04,11.92,2017
+2018-04-02,Portland Trail Blazers,Memphis Grizzlies,113,98,H,1.05,11.21,2017
+2018-04-02,Los Angeles Lakers,Sacramento Kings,83,84,A,1.30,3.63,2017
+2018-04-04,Philadelphia 76ers,Brooklyn Nets,121,95,H,1.24,4.18,2017
+2018-04-04,Cleveland Cavaliers,Toronto Raptors,112,106,H,1.80,2.03,2017
+2018-04-04,New York Knicks,Orlando Magic,73,97,A,1.86,1.96,2017
+2018-04-04,Miami Heat,Atlanta Hawks,101,98,H,1.08,8.63,2017
+2018-04-04,Oklahoma City Thunder,Golden State Warriors,107,111,A,1.58,2.46,2017
+2018-04-04,Milwaukee Bucks,Boston Celtics,106,102,H,1.52,2.60,2017
+2018-04-04,Houston Rockets,Washington Wizards,120,104,H,1.24,4.17,2017
+2018-04-04,Chicago Bulls,Charlotte Hornets,120,114,H,2.81,1.45,2017
+2018-04-04,Dallas Mavericks,Portland Trail Blazers,115,109,H,3.55,1.31,2017
+2018-04-04,Utah Jazz,Los Angeles Lakers,117,110,H,1.12,6.64,2017
+2018-04-04,Denver Nuggets,Indiana Pacers,107,104,H,1.53,2.58,2017
+2018-04-04,Phoenix Suns,Sacramento Kings,97,94,H,2.18,1.71,2017
+2018-04-04,Los Angeles Clippers,San Antonio Spurs,113,110,H,2.09,1.77,2017
+2018-04-05,Orlando Magic,Dallas Mavericks,105,100,H,1.75,2.10,2017
+2018-04-05,Detroit Pistons,Philadelphia 76ers,108,115,A,2.08,1.77,2017
+2018-04-05,Atlanta Hawks,Miami Heat,86,115,A,3.40,1.33,2017
+2018-04-05,Toronto Raptors,Boston Celtics,96,78,H,1.30,3.60,2017
+2018-04-05,New Orleans Pelicans,Memphis Grizzlies,123,95,H,1.07,9.14,2017
+2018-04-05,Los Angeles Lakers,San Antonio Spurs,122,112,H,3.20,1.37,2017
+2018-04-06,Indiana Pacers,Golden State Warriors,126,106,H,2.21,1.69,2017
+2018-04-06,Milwaukee Bucks,Brooklyn Nets,111,119,A,1.19,4.73,2017
+2018-04-06,Houston Rockets,Portland Trail Blazers,96,94,H,1.14,6.11,2017
+2018-04-06,Cleveland Cavaliers,Washington Wizards,119,115,H,1.41,2.95,2017
+2018-04-06,Utah Jazz,Los Angeles Clippers,117,95,H,1.29,3.66,2017
+2018-04-06,Denver Nuggets,Minnesota Timberwolves,100,96,H,1.51,2.63,2017
+2018-04-07,Washington Wizards,Atlanta Hawks,97,103,A,1.14,5.90,2017
+2018-04-07,Philadelphia 76ers,Cleveland Cavaliers,132,130,H,1.61,2.37,2017
+2018-04-07,Orlando Magic,Charlotte Hornets,100,137,A,3.55,1.31,2017
+2018-04-07,Detroit Pistons,Dallas Mavericks,113,106,H,1.33,3.40,2017
+2018-04-07,Toronto Raptors,Indiana Pacers,92,73,H,1.29,3.70,2017
+2018-04-07,New York Knicks,Miami Heat,122,98,H,4.39,1.22,2017
+2018-04-07,Boston Celtics,Chicago Bulls,111,104,H,1.34,3.33,2017
+2018-04-07,Memphis Grizzlies,Sacramento Kings,93,94,A,2.45,1.58,2017
+2018-04-07,Phoenix Suns,New Orleans Pelicans,103,122,A,7.33,1.10,2017
+2018-04-07,Los Angeles Lakers,Minnesota Timberwolves,96,113,A,2.75,1.47,2017
+2018-04-08,Los Angeles Clippers,Denver Nuggets,115,134,A,2.35,1.62,2017
+2018-04-08,New York Knicks,Milwaukee Bucks,102,115,A,4.09,1.25,2017
+2018-04-08,Chicago Bulls,Brooklyn Nets,96,124,A,3.04,1.40,2017
+2018-04-08,Houston Rockets,Oklahoma City Thunder,102,108,A,1.48,2.71,2017
+2018-04-08,Golden State Warriors,New Orleans Pelicans,120,126,A,1.37,3.16,2017
+2018-04-08,San Antonio Spurs,Portland Trail Blazers,116,105,H,1.45,2.80,2017
+2018-04-09,Philadelphia 76ers,Dallas Mavericks,109,97,H,1.07,9.31,2017
+2018-04-09,Charlotte Hornets,Indiana Pacers,117,123,A,1.97,1.85,2017
+2018-04-09,Boston Celtics,Atlanta Hawks,106,112,A,1.18,4.99,2017
+2018-04-09,Memphis Grizzlies,Detroit Pistons,130,117,H,3.09,1.39,2017
+2018-04-09,Toronto Raptors,Orlando Magic,112,101,H,1.13,6.24,2017
+2018-04-09,Los Angeles Lakers,Utah Jazz,97,112,A,4.84,1.19,2017
+2018-04-09,Phoenix Suns,Golden State Warriors,100,117,A,6.79,1.11,2017
+2018-04-10,Detroit Pistons,Toronto Raptors,98,108,A,3.00,1.41,2017
+2018-04-10,New York Knicks,Cleveland Cavaliers,109,123,A,7.52,1.10,2017
+2018-04-10,Miami Heat,Oklahoma City Thunder,93,115,A,2.63,1.51,2017
+2018-04-10,Brooklyn Nets,Chicago Bulls,114,105,H,1.33,3.42,2017
+2018-04-10,Minnesota Timberwolves,Memphis Grizzlies,113,94,H,1.04,12.77,2017
+2018-04-10,Milwaukee Bucks,Orlando Magic,102,86,H,1.17,5.26,2017
+2018-04-10,San Antonio Spurs,Sacramento Kings,98,85,H,1.06,10.19,2017
+2018-04-10,Denver Nuggets,Portland Trail Blazers,88,82,H,1.51,2.64,2017
+2018-04-10,Los Angeles Clippers,New Orleans Pelicans,100,113,A,4.54,1.21,2017
+2018-04-11,Indiana Pacers,Charlotte Hornets,93,119,A,1.78,2.08,2017
+2018-04-11,Atlanta Hawks,Philadelphia 76ers,113,121,A,5.31,1.17,2017
+2018-04-11,Washington Wizards,Boston Celtics,113,101,H,1.30,3.67,2017
+2018-04-11,Dallas Mavericks,Phoenix Suns,97,124,A,1.70,2.21,2017
+2018-04-11,Utah Jazz,Golden State Warriors,119,79,H,1.28,3.77,2017
+2018-04-11,Los Angeles Lakers,Houston Rockets,99,105,A,4.03,1.26,2017
+2018-04-12,Philadelphia 76ers,Milwaukee Bucks,130,95,H,1.37,3.21,2017
+2018-04-12,Orlando Magic,Washington Wizards,101,92,H,3.14,1.38,2017
+2018-04-12,Oklahoma City Thunder,Memphis Grizzlies,137,123,H,1.03,15.32,2017
+2018-04-12,New Orleans Pelicans,San Antonio Spurs,122,98,H,1.63,2.34,2017
+2018-04-12,Minnesota Timberwolves,Denver Nuggets,112,106,H,1.59,2.43,2017
+2018-04-12,Miami Heat,Toronto Raptors,116,109,H,1.70,2.21,2017
+2018-04-12,Cleveland Cavaliers,New York Knicks,98,110,A,1.25,4.06,2017
+2018-04-12,Chicago Bulls,Detroit Pistons,87,119,A,2.68,1.49,2017
+2018-04-12,Boston Celtics,Brooklyn Nets,110,97,H,2.52,1.56,2017
+2018-04-12,Sacramento Kings,Houston Rockets,96,83,H,1.74,2.14,2017
+2018-04-12,Portland Trail Blazers,Utah Jazz,102,93,H,1.76,2.11,2017
+2018-04-12,Los Angeles Clippers,Los Angeles Lakers,100,115,A,1.72,2.17,2017
+2018-04-15,Golden State Warriors,San Antonio Spurs,113,92,H,1.24,4.18,2017
+2018-04-15,Toronto Raptors,Washington Wizards,114,106,H,1.26,4.00,2017
+2018-04-15,Philadelphia 76ers,Miami Heat,130,103,H,1.40,3.03,2017
+2018-04-15,Portland Trail Blazers,New Orleans Pelicans,95,97,A,1.42,2.93,2017
+2018-04-16,Boston Celtics,Milwaukee Bucks,113,107,H,1.58,2.45,2017
+2018-04-16,Cleveland Cavaliers,Indiana Pacers,80,98,A,1.28,3.81,2017
+2018-04-16,Oklahoma City Thunder,Utah Jazz,116,108,H,1.50,2.67,2017
+2018-04-16,Houston Rockets,Minnesota Timberwolves,104,101,H,1.09,7.79,2017
+2018-04-17,Philadelphia 76ers,Miami Heat,103,113,A,1.33,3.41,2017
+2018-04-17,Golden State Warriors,San Antonio Spurs,116,101,H,1.17,5.34,2017
+2018-04-18,Toronto Raptors,Washington Wizards,130,119,H,1.33,3.46,2017
+2018-04-18,Boston Celtics,Milwaukee Bucks,120,106,H,1.87,1.95,2017
+2018-04-18,Portland Trail Blazers,New Orleans Pelicans,102,111,A,1.35,3.30,2017
+2018-04-19,Cleveland Cavaliers,Indiana Pacers,100,97,H,1.23,4.27,2017
+2018-04-19,Oklahoma City Thunder,Utah Jazz,95,102,A,1.59,2.43,2017
+2018-04-19,Houston Rockets,Minnesota Timberwolves,102,82,H,1.13,6.24,2017
+2018-04-20,Miami Heat,Philadelphia 76ers,108,128,A,2.22,1.69,2017
+2018-04-20,New Orleans Pelicans,Portland Trail Blazers,119,102,H,1.62,2.38,2017
+2018-04-20,San Antonio Spurs,Golden State Warriors,97,110,A,2.41,1.60,2017
+2018-04-21,Indiana Pacers,Cleveland Cavaliers,92,90,H,1.81,2.04,2017
+2018-04-21,Washington Wizards,Toronto Raptors,122,103,H,1.87,1.96,2017
+2018-04-21,Milwaukee Bucks,Boston Celtics,116,92,H,1.45,2.82,2017
+2018-04-22,Miami Heat,Philadelphia 76ers,102,106,A,2.46,1.58,2017
+2018-04-22,New Orleans Pelicans,Portland Trail Blazers,131,123,H,1.36,3.27,2017
+2018-04-22,Minnesota Timberwolves,Houston Rockets,121,105,H,3.05,1.40,2017
+2018-04-22,Utah Jazz,Oklahoma City Thunder,115,102,H,1.46,2.80,2017
+2018-04-23,Milwaukee Bucks,Boston Celtics,104,102,H,1.42,2.95,2017
+2018-04-23,San Antonio Spurs,Golden State Warriors,103,90,H,3.28,1.35,2017
+2018-04-23,Washington Wizards,Toronto Raptors,106,98,H,2.02,1.83,2017
+2018-04-23,Indiana Pacers,Cleveland Cavaliers,100,104,A,2.04,1.81,2017
+2018-04-24,Minnesota Timberwolves,Houston Rockets,100,119,A,3.05,1.40,2017
+2018-04-24,Utah Jazz,Oklahoma City Thunder,113,96,H,1.49,2.70,2017
+2018-04-25,Boston Celtics,Milwaukee Bucks,92,87,H,1.51,2.64,2017
+2018-04-25,Philadelphia 76ers,Miami Heat,104,91,H,1.16,5.52,2017
+2018-04-25,Golden State Warriors,San Antonio Spurs,99,91,H,1.12,6.83,2017
+2018-04-26,Toronto Raptors,Washington Wizards,108,98,H,1.32,3.52,2017
+2018-04-26,Cleveland Cavaliers,Indiana Pacers,98,95,H,1.34,3.38,2017
+2018-04-26,Oklahoma City Thunder,Utah Jazz,107,99,H,1.69,2.22,2017
+2018-04-26,Houston Rockets,Minnesota Timberwolves,122,104,H,1.09,7.80,2017
+2018-04-27,Milwaukee Bucks,Boston Celtics,97,86,H,1.49,2.69,2017
+2018-04-28,Washington Wizards,Toronto Raptors,92,102,A,2.10,1.76,2017
+2018-04-28,Indiana Pacers,Cleveland Cavaliers,121,87,H,1.77,2.09,2017
+2018-04-28,Utah Jazz,Oklahoma City Thunder,96,91,H,1.34,3.34,2017
+2018-04-29,Boston Celtics,Milwaukee Bucks,112,96,H,1.49,2.71,2017
+2018-04-29,Golden State Warriors,New Orleans Pelicans,123,101,H,1.29,3.74,2017
+2018-04-30,Cleveland Cavaliers,Indiana Pacers,105,101,H,1.40,3.07,2017
+2018-04-30,Houston Rockets,Utah Jazz,110,96,H,1.10,7.17,2017
+2018-05-01,Boston Celtics,Philadelphia 76ers,117,101,H,2.69,1.49,2017
+2018-05-02,Toronto Raptors,Cleveland Cavaliers,112,113,A,1.35,3.28,2017
+2018-05-02,Golden State Warriors,New Orleans Pelicans,121,116,H,1.12,6.50,2017
+2018-05-03,Houston Rockets,Utah Jazz,108,116,A,1.11,6.96,2017
+2018-05-04,Toronto Raptors,Cleveland Cavaliers,110,128,A,1.35,3.32,2017
+2018-05-04,Boston Celtics,Philadelphia 76ers,108,103,H,2.48,1.57,2017
+2018-05-05,New Orleans Pelicans,Golden State Warriors,119,100,H,2.78,1.46,2017
+2018-05-05,Utah Jazz,Houston Rockets,92,113,A,2.67,1.50,2017
+2018-05-06,Philadelphia 76ers,Boston Celtics,98,101,A,1.20,4.75,2017
+2018-05-06,Cleveland Cavaliers,Toronto Raptors,105,103,H,1.51,2.63,2017
+2018-05-07,New Orleans Pelicans,Golden State Warriors,92,118,A,3.08,1.39,2017
+2018-05-07,Utah Jazz,Houston Rockets,87,100,A,3.20,1.37,2017
+2018-05-08,Philadelphia 76ers,Boston Celtics,103,92,H,1.31,3.62,2017
+2018-05-08,Cleveland Cavaliers,Toronto Raptors,128,93,H,1.47,2.74,2017
+2018-05-09,Houston Rockets,Utah Jazz,112,102,H,1.10,7.31,2017
+2018-05-09,Golden State Warriors,New Orleans Pelicans,113,104,H,1.11,7.10,2017
+2018-05-10,Boston Celtics,Philadelphia 76ers,114,112,H,1.82,2.03,2017
+2018-05-14,Boston Celtics,Cleveland Cavaliers,108,83,H,1.97,1.87,2017
+2018-05-15,Houston Rockets,Golden State Warriors,106,119,A,1.76,2.11,2017
+2018-05-16,Boston Celtics,Cleveland Cavaliers,107,94,H,1.91,1.92,2017
+2018-05-17,Houston Rockets,Golden State Warriors,127,105,H,1.80,2.06,2017
+2018-05-20,Cleveland Cavaliers,Boston Celtics,116,86,H,1.33,3.41,2017
+2018-05-21,Golden State Warriors,Houston Rockets,126,85,H,1.28,3.80,2017
+2018-05-22,Cleveland Cavaliers,Boston Celtics,111,102,H,1.31,3.58,2017
+2018-05-23,Golden State Warriors,Houston Rockets,92,95,A,1.25,4.19,2017
+2018-05-24,Boston Celtics,Cleveland Cavaliers,96,83,H,1.81,2.03,2017
+2018-05-25,Houston Rockets,Golden State Warriors,98,94,H,1.93,1.89,2017
+2018-05-26,Cleveland Cavaliers,Boston Celtics,109,99,H,1.30,3.65,2017
+2018-05-27,Golden State Warriors,Houston Rockets,115,86,H,1.10,7.61,2017
+2018-05-28,Boston Celtics,Cleveland Cavaliers,79,87,A,1.68,2.23,2017
+2018-05-29,Houston Rockets,Golden State Warriors,92,101,A,3.25,1.36,2017
+2018-06-01,Golden State Warriors,Cleveland Cavaliers,124,114,H,1.11,7.07,2017
+2018-06-04,Golden State Warriors,Cleveland Cavaliers,122,103,H,1.18,5.21,2017
+2018-06-07,Cleveland Cavaliers,Golden State Warriors,102,110,A,2.29,1.66,2017
+2018-06-09,Cleveland Cavaliers,Golden State Warriors,85,108,A,2.43,1.60,2017

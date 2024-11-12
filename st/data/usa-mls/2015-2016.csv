@@ -1,0 +1,358 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2,Season
+2015-03-07,Los Angeles Galaxy,Chicago Fire,2,0,H,1.45,7.27,2015
+2015-03-08,DC United,CF Montreal,1,0,H,1.95,4.01,2015
+2015-03-08,Philadelphia Union,Colorado Rapids,0,0,D,1.86,4.33,2015
+2015-03-08,Vancouver Whitecaps,Toronto FC,1,3,A,2.09,3.55,2015
+2015-03-08,Houston Dynamo,Columbus Crew,1,0,H,2.3,3.16,2015
+2015-03-08,FC Dallas,San Jose Earthquakes,1,0,H,1.82,4.43,2015
+2015-03-08,Portland Timbers,Real Salt Lake,0,0,D,2.11,3.54,2015
+2015-03-09,Orlando City,New York City,1,1,D,2.06,3.72,2015
+2015-03-09,Sporting Kansas City,New York Red Bulls,1,1,D,2.04,3.66,2015
+2015-03-09,Seattle Sounders,New England Revolution,3,0,H,1.72,4.84,2015
+2015-03-14,Houston Dynamo,Orlando City,0,1,A,2.09,3.57,2015
+2015-03-15,Chicago Fire,Vancouver Whitecaps,0,1,A,2.38,3.05,2015
+2015-03-15,Columbus Crew,Toronto FC,2,0,H,2.14,3.33,2015
+2015-03-15,FC Dallas,Sporting Kansas City,3,1,H,2.15,3.43,2015
+2015-03-15,Real Salt Lake,Philadelphia Union,3,3,D,1.87,4.25,2015
+2015-03-15,Seattle Sounders,San Jose Earthquakes,2,3,A,1.48,7.19,2015
+2015-03-16,New York City,New England Revolution,2,0,H,2.12,3.48,2015
+2015-03-16,Portland Timbers,Los Angeles Galaxy,2,2,D,3.16,2.22,2015
+2015-03-22,New England Revolution,CF Montreal,0,0,D,1.78,4.68,2015
+2015-03-22,Philadelphia Union,FC Dallas,0,2,A,2.17,3.35,2015
+2015-03-22,Colorado Rapids,New York City,0,0,D,2.38,2.99,2015
+2015-03-22,Orlando City,Vancouver Whitecaps,0,1,A,2.19,3.4,2015
+2015-03-22,Sporting Kansas City,Portland Timbers,0,0,D,2.08,3.6,2015
+2015-03-22,Los Angeles Galaxy,Houston Dynamo,1,1,D,1.35,9.11,2015
+2015-03-23,New York Red Bulls,DC United,2,0,H,1.81,4.41,2015
+2015-03-23,San Jose Earthquakes,Chicago Fire,2,1,H,2.02,3.71,2015
+2015-03-29,New England Revolution,San Jose Earthquakes,2,1,H,1.82,4.53,2015
+2015-03-29,CF Montreal,Orlando City,2,2,D,1.91,4.23,2015
+2015-03-29,New York City,Sporting Kansas City,0,1,A,2.49,2.93,2015
+2015-03-29,DC United,Los Angeles Galaxy,1,0,H,2.8,2.56,2015
+2015-03-29,Columbus Crew,New York Red Bulls,1,2,A,1.97,3.91,2015
+2015-03-29,Vancouver Whitecaps,Portland Timbers,2,1,H,2.23,3.25,2015
+2015-03-29,Houston Dynamo,Colorado Rapids,0,0,D,2.06,3.67,2015
+2015-03-29,FC Dallas,Seattle Sounders,0,0,D,2.06,3.65,2015
+2015-03-30,Chicago Fire,Philadelphia Union,1,0,H,2.56,2.76,2015
+2015-03-30,Real Salt Lake,Toronto FC,2,1,H,1.88,4.13,2015
+2015-04-04,Orlando City,DC United,0,1,A,2.08,3.63,2015
+2015-04-05,Chicago Fire,Toronto FC,3,2,H,2.65,2.67,2015
+2015-04-05,Colorado Rapids,New England Revolution,0,2,A,2.44,2.97,2015
+2015-04-05,Vancouver Whitecaps,Los Angeles Galaxy,2,0,H,3.08,2.33,2015
+2015-04-05,Seattle Sounders,Houston Dynamo,1,0,H,1.48,7.22,2015
+2015-04-05,Portland Timbers,FC Dallas,3,1,H,1.92,3.97,2015
+2015-04-06,San Jose Earthquakes,Real Salt Lake,0,1,A,2.46,2.89,2015
+2015-04-06,Sporting Kansas City,Philadelphia Union,3,2,H,1.8,4.57,2015
+2015-04-09,Vancouver Whitecaps,Columbus Crew,2,2,D,1.95,3.97,2015
+2015-04-11,FC Dallas,Colorado Rapids,0,4,A,1.89,4.05,2015
+2015-04-12,New England Revolution,Columbus Crew,0,0,D,1.92,4.02,2015
+2015-04-12,Philadelphia Union,New York City,2,1,H,2.12,3.5,2015
+2015-04-12,DC United,New York Red Bulls,2,2,D,2.47,2.82,2015
+2015-04-12,Sporting Kansas City,Real Salt Lake,0,0,D,1.97,3.88,2015
+2015-04-12,Houston Dynamo,CF Montreal,3,0,H,2.06,3.69,2015
+2015-04-12,San Jose Earthquakes,Vancouver Whitecaps,1,0,H,2.91,2.5,2015
+2015-04-13,Portland Timbers,Orlando City,0,2,A,1.78,4.62,2015
+2015-04-13,Los Angeles Galaxy,Seattle Sounders,1,0,H,1.68,5.14,2015
+2015-04-17,New York City,Philadelphia Union,1,1,D,2.13,3.46,2015
+2015-04-18,New York Red Bulls,San Jose Earthquakes,2,0,H,1.69,5.17,2015
+2015-04-19,DC United,Houston Dynamo,1,1,D,2.22,3.3,2015
+2015-04-19,Columbus Crew,Orlando City,3,0,H,1.95,3.94,2015
+2015-04-19,FC Dallas,Toronto FC,3,2,H,1.94,4.0,2015
+2015-04-19,Colorado Rapids,Seattle Sounders,1,3,A,2.59,2.72,2015
+2015-04-19,Real Salt Lake,Vancouver Whitecaps,0,1,A,2.16,3.44,2015
+2015-04-19,Los Angeles Galaxy,Sporting Kansas City,2,1,H,1.93,3.96,2015
+2015-04-20,Philadelphia Union,New England Revolution,1,2,A,2.24,3.24,2015
+2015-04-20,New York City,Portland Timbers,0,1,A,2.61,2.73,2015
+2015-04-25,Chicago Fire,New York City,1,0,H,2.16,3.47,2015
+2015-04-25,Colorado Rapids,FC Dallas,1,1,D,2.29,3.1,2015
+2015-04-26,New England Revolution,Real Salt Lake,4,0,H,1.81,4.43,2015
+2015-04-26,Columbus Crew,Philadelphia Union,4,1,H,1.8,4.36,2015
+2015-04-26,Houston Dynamo,Sporting Kansas City,4,4,D,2.67,2.74,2015
+2015-04-26,Vancouver Whitecaps,DC United,1,2,A,1.65,5.4,2015
+2015-04-27,New York Red Bulls,Los Angeles Galaxy,1,1,D,2.23,3.23,2015
+2015-04-27,Orlando City,Toronto FC,0,2,A,2.12,3.47,2015
+2015-04-27,Seattle Sounders,Portland Timbers,1,0,H,2.14,3.36,2015
+2015-04-30,New York Red Bulls,Colorado Rapids,1,1,D,1.63,5.37,2015
+2015-05-02,Houston Dynamo,FC Dallas,1,4,A,2.48,2.89,2015
+2015-05-02,Real Salt Lake,San Jose Earthquakes,1,1,D,1.83,4.51,2015
+2015-05-03,Philadelphia Union,Toronto FC,0,1,A,2.32,3.06,2015
+2015-05-03,DC United,Columbus Crew,2,0,H,2.93,2.44,2015
+2015-05-03,New England Revolution,New York Red Bulls,2,1,H,2.02,3.71,2015
+2015-05-03,Portland Timbers,Vancouver Whitecaps,0,0,D,2.0,3.89,2015
+2015-05-03,Los Angeles Galaxy,Colorado Rapids,1,1,D,1.48,6.93,2015
+2015-05-04,Sporting Kansas City,Chicago Fire,1,0,H,1.67,5.04,2015
+2015-05-04,New York City,Seattle Sounders,1,3,A,3.42,2.18,2015
+2015-05-06,Houston Dynamo,San Jose Earthquakes,0,1,A,2.01,3.8,2015
+2015-05-07,Real Salt Lake,Los Angeles Galaxy,0,0,D,2.98,2.43,2015
+2015-05-09,Orlando City,New England Revolution,2,2,D,2.38,3.02,2015
+2015-05-09,Colorado Rapids,San Jose Earthquakes,1,1,D,1.96,4.1,2015
+2015-05-10,Chicago Fire,Real Salt Lake,1,2,A,1.82,4.46,2015
+2015-05-10,CF Montreal,Portland Timbers,1,2,A,2.65,2.69,2015
+2015-05-10,Vancouver Whitecaps,Philadelphia Union,3,0,H,1.6,5.68,2015
+2015-05-10,DC United,Sporting Kansas City,1,1,D,2.48,2.85,2015
+2015-05-10,Columbus Crew,Seattle Sounders,3,2,H,2.23,3.19,2015
+2015-05-10,FC Dallas,Los Angeles Galaxy,2,1,H,2.4,2.95,2015
+2015-05-11,Toronto FC,Houston Dynamo,1,2,A,1.75,4.63,2015
+2015-05-11,New York Red Bulls,New York City,2,1,H,1.62,5.65,2015
+2015-05-14,DC United,Orlando City,2,1,H,2.06,3.73,2015
+2015-05-16,New York City,Chicago Fire,2,2,D,2.25,3.18,2015
+2015-05-16,FC Dallas,New York Red Bulls,0,0,D,2.45,2.88,2015
+2015-05-17,CF Montreal,Real Salt Lake,4,1,H,2.04,3.7,2015
+2015-05-17,Vancouver Whitecaps,Seattle Sounders,0,2,A,2.24,3.19,2015
+2015-05-17,New England Revolution,Toronto FC,1,1,D,1.78,4.56,2015
+2015-05-17,Houston Dynamo,Portland Timbers,3,1,H,2.62,2.71,2015
+2015-05-17,San Jose Earthquakes,Columbus Crew,2,0,H,2.77,2.61,2015
+2015-05-18,Orlando City,Los Angeles Galaxy,4,0,H,2.72,2.61,2015
+2015-05-18,Philadelphia Union,DC United,1,0,H,2.36,3.02,2015
+2015-05-21,Sporting Kansas City,New England Revolution,4,2,H,1.85,4.21,2015
+2015-05-23,Columbus Crew,Chicago Fire,2,2,D,2.0,3.58,2015
+2015-05-23,Los Angeles Galaxy,Houston Dynamo,1,0,H,1.81,4.39,2015
+2015-05-24,Toronto FC,Portland Timbers,1,0,H,2.24,3.2,2015
+2015-05-24,New England Revolution,DC United,1,1,D,1.8,4.52,2015
+2015-05-24,CF Montreal,FC Dallas,2,1,H,2.29,3.14,2015
+2015-05-24,Colorado Rapids,Vancouver Whitecaps,1,0,H,2.28,3.21,2015
+2015-05-24,Seattle Sounders,Sporting Kansas City,0,0,D,2.01,3.76,2015
+2015-05-24,Real Salt Lake,New York City,2,0,H,1.9,4.25,2015
+2015-05-25,New York Red Bulls,Philadelphia Union,0,2,A,1.54,5.77,2015
+2015-05-25,San Jose Earthquakes,Orlando City,1,1,D,2.28,3.21,2015
+2015-05-28,Seattle Sounders,Colorado Rapids,1,0,H,1.83,4.41,2015
+2015-05-28,Portland Timbers,DC United,1,0,H,1.55,6.03,2015
+2015-05-28,Los Angeles Galaxy,Real Salt Lake,1,0,H,1.6,5.88,2015
+2015-05-30,Sporting Kansas City,FC Dallas,4,0,H,2.02,3.75,2015
+2015-05-31,Toronto FC,San Jose Earthquakes,3,1,H,1.76,4.75,2015
+2015-05-31,Vancouver Whitecaps,Real Salt Lake,2,1,H,1.65,5.69,2015
+2015-05-31,New York City,Houston Dynamo,1,1,D,2.44,2.97,2015
+2015-05-31,DC United,Philadelphia Union,2,1,H,2.16,3.46,2015
+2015-05-31,Orlando City,Columbus Crew,2,2,D,2.23,3.23,2015
+2015-05-31,Chicago Fire,CF Montreal,3,0,H,1.93,3.91,2015
+2015-05-31,Colorado Rapids,Portland Timbers,1,2,A,2.15,3.49,2015
+2015-06-01,Seattle Sounders,New York Red Bulls,2,1,H,1.99,3.77,2015
+2015-06-01,New England Revolution,Los Angeles Galaxy,2,2,D,2.12,3.49,2015
+2015-06-04,Philadelphia Union,Columbus Crew,3,0,H,2.4,2.91,2015
+2015-06-04,DC United,Chicago Fire,3,1,H,2.75,2.59,2015
+2015-06-04,CF Montreal,Vancouver Whitecaps,2,1,H,2.53,2.77,2015
+2015-06-06,Houston Dynamo,New York Red Bulls,4,2,H,2.35,3.02,2015
+2015-06-07,Philadelphia Union,New York City,1,2,A,1.92,3.99,2015
+2015-06-07,DC United,Toronto FC,1,2,A,2.21,3.25,2015
+2015-06-07,Columbus Crew,CF Montreal,1,2,A,1.62,5.08,2015
+2015-06-07,Sporting Kansas City,Seattle Sounders,1,0,H,2.01,3.83,2015
+2015-06-07,Chicago Fire,Orlando City,2,3,A,2.09,3.5,2015
+2015-06-07,Portland Timbers,New England Revolution,2,0,H,1.74,4.54,2015
+2015-06-07,Los Angeles Galaxy,Vancouver Whitecaps,0,1,A,2.05,3.71,2015
+2015-06-08,Real Salt Lake,Colorado Rapids,0,0,D,2.49,2.91,2015
+2015-06-08,San Jose Earthquakes,FC Dallas,0,0,D,2.29,3.18,2015
+2015-06-14,New York City,CF Montreal,3,1,H,2.13,3.45,2015
+2015-06-14,New England Revolution,Chicago Fire,2,0,H,1.9,4.01,2015
+2015-06-14,Columbus Crew,Los Angeles Galaxy,1,1,D,1.99,3.72,2015
+2015-06-14,Seattle Sounders,FC Dallas,3,0,H,1.81,4.46,2015
+2015-06-15,Orlando City,DC United,1,0,H,1.82,4.22,2015
+2015-06-20,Colorado Rapids,FC Dallas,1,1,D,2.24,3.22,2015
+2015-06-21,Seattle Sounders,San Jose Earthquakes,0,2,A,1.88,4.45,2015
+2015-06-21,Toronto FC,New York City,0,2,A,1.8,4.29,2015
+2015-06-21,New York Red Bulls,Vancouver Whitecaps,1,2,A,2.06,3.55,2015
+2015-06-21,CF Montreal,Orlando City,2,0,H,2.36,3.0,2015
+2015-06-21,Portland Timbers,Houston Dynamo,2,0,H,1.56,5.97,2015
+2015-06-21,Los Angeles Galaxy,Philadelphia Union,5,1,H,1.55,6.07,2015
+2015-06-22,DC United,New England Revolution,2,1,H,2.36,3.0,2015
+2015-06-22,Real Salt Lake,Sporting Kansas City,2,1,H,3.08,2.4,2015
+2015-06-25,Philadelphia Union,Seattle Sounders,1,0,H,1.95,3.94,2015
+2015-06-25,Orlando City,Colorado Rapids,2,0,H,2.0,3.81,2015
+2015-06-25,New York Red Bulls,Real Salt Lake,1,0,H,1.53,6.33,2015
+2015-06-25,Columbus Crew,New England Revolution,2,1,H,1.85,4.14,2015
+2015-06-25,Toronto FC,CF Montreal,3,1,H,1.82,4.25,2015
+2015-06-25,Chicago Fire,DC United,0,1,A,1.8,4.42,2015
+2015-06-25,Los Angeles Galaxy,Portland Timbers,5,0,H,2.23,3.21,2015
+2015-06-27,FC Dallas,Houston Dynamo,2,0,H,1.75,4.64,2015
+2015-06-28,Toronto FC,DC United,0,0,D,1.84,4.24,2015
+2015-06-28,Philadelphia Union,CF Montreal,2,2,D,2.0,3.76,2015
+2015-06-28,New England Revolution,Vancouver Whitecaps,1,2,A,2.29,3.17,2015
+2015-06-28,Sporting Kansas City,Colorado Rapids,2,0,H,1.64,5.64,2015
+2015-06-28,Real Salt Lake,Columbus Crew,2,2,D,2.54,2.75,2015
+2015-06-28,San Jose Earthquakes,Los Angeles Galaxy,3,1,H,3.01,2.37,2015
+2015-06-29,New York City,New York Red Bulls,1,3,A,2.78,2.47,2015
+2015-06-29,Portland Timbers,Seattle Sounders,4,1,H,1.86,4.32,2015
+2015-07-04,Houston Dynamo,Chicago Fire,1,1,D,2.03,3.71,2015
+2015-07-04,Seattle Sounders,DC United,1,0,H,2.08,3.71,2015
+2015-07-05,Columbus Crew,New York Red Bulls,2,1,H,2.17,3.13,2015
+2015-07-05,CF Montreal,New York City,1,2,A,1.87,3.95,2015
+2015-07-05,FC Dallas,New England Revolution,3,0,H,1.86,4.09,2015
+2015-07-05,Colorado Rapids,Vancouver Whitecaps,2,1,H,2.37,3.06,2015
+2015-07-05,Real Salt Lake,Orlando City,1,1,D,2.42,2.95,2015
+2015-07-05,Los Angeles Galaxy,Toronto FC,4,0,H,1.57,5.78,2015
+2015-07-06,Portland Timbers,San Jose Earthquakes,1,0,H,1.57,5.93,2015
+2015-07-11,San Jose Earthquakes,Houston Dynamo,0,2,A,1.97,4.01,2015
+2015-07-12,Philadelphia Union,Portland Timbers,3,0,H,2.22,3.19,2015
+2015-07-12,New York Red Bulls,New England Revolution,4,1,H,1.79,4.29,2015
+2015-07-12,Orlando City,FC Dallas,0,2,A,2.44,2.94,2015
+2015-07-12,CF Montreal,Columbus Crew,3,0,H,2.4,2.83,2015
+2015-07-12,Chicago Fire,Seattle Sounders,1,0,H,1.95,3.93,2015
+2015-07-12,Colorado Rapids,Real Salt Lake,3,1,H,1.82,4.44,2015
+2015-07-13,New York City,Toronto FC,4,4,D,2.08,3.46,2015
+2015-07-13,Vancouver Whitecaps,Sporting Kansas City,0,1,A,2.02,3.78,2015
+2015-07-16,Chicago Fire,Columbus Crew,0,1,A,2.28,3.06,2015
+2015-07-18,Los Angeles Galaxy,San Jose Earthquakes,5,2,H,1.67,5.1,2015
+2015-07-19,Toronto FC,Philadelphia Union,2,1,H,1.92,3.81,2015
+2015-07-19,Orlando City,New York Red Bulls,0,2,A,2.46,2.78,2015
+2015-07-19,New England Revolution,New York City,1,0,H,2.03,3.47,2015
+2015-07-19,Sporting Kansas City,CF Montreal,2,1,H,1.74,4.68,2015
+2015-07-19,FC Dallas,DC United,2,1,H,1.68,5.12,2015
+2015-07-19,Seattle Sounders,Colorado Rapids,0,1,A,2.12,3.57,2015
+2015-07-19,Real Salt Lake,Houston Dynamo,2,0,H,2.2,3.37,2015
+2015-07-19,Portland Timbers,Vancouver Whitecaps,1,1,D,1.96,3.95,2015
+2015-07-20,Columbus Crew,Chicago Fire,3,1,H,1.61,5.25,2015
+2015-07-25,Real Salt Lake,Sporting Kansas City,2,1,H,2.55,2.81,2015
+2015-07-26,Columbus Crew,Toronto FC,3,3,D,1.86,4.0,2015
+2015-07-26,CF Montreal,Seattle Sounders,1,0,H,1.99,3.8,2015
+2015-07-26,Chicago Fire,New England Revolution,2,2,D,2.02,3.73,2015
+2015-07-26,Houston Dynamo,Los Angeles Galaxy,3,0,H,2.76,2.56,2015
+2015-07-26,FC Dallas,Portland Timbers,4,1,H,2.08,3.53,2015
+2015-07-27,New York City,Orlando City,5,3,H,2.22,3.24,2015
+2015-07-27,DC United,Philadelphia Union,3,2,H,1.98,3.79,2015
+2015-07-27,Vancouver Whitecaps,San Jose Earthquakes,3,1,H,1.77,4.71,2015
+2015-08-02,New York City,CF Montreal,2,3,A,1.9,3.88,2015
+2015-08-02,Philadelphia Union,New York Red Bulls,1,3,A,2.67,2.52,2015
+2015-08-02,DC United,Real Salt Lake,6,4,H,1.93,3.96,2015
+2015-08-02,Orlando City,Columbus Crew,5,2,H,2.15,3.32,2015
+2015-08-02,New England Revolution,Toronto FC,3,1,H,2.01,3.56,2015
+2015-08-02,Sporting Kansas City,Houston Dynamo,1,1,D,1.66,5.37,2015
+2015-08-02,Colorado Rapids,Los Angeles Galaxy,1,3,A,2.4,2.91,2015
+2015-08-02,Seattle Sounders,Vancouver Whitecaps,0,3,A,2.15,3.51,2015
+2015-08-03,San Jose Earthquakes,Portland Timbers,0,0,D,2.45,2.85,2015
+2015-08-03,Chicago Fire,FC Dallas,2,0,H,2.38,2.96,2015
+2015-08-06,Toronto FC,Orlando City,4,1,H,1.94,3.74,2015
+2015-08-06,CF Montreal,New York Red Bulls,1,1,D,2.62,2.57,2015
+2015-08-08,Portland Timbers,Chicago Fire,1,0,H,1.76,4.54,2015
+2015-08-09,Toronto FC,Sporting Kansas City,1,3,A,2.03,3.62,2015
+2015-08-09,Orlando City,Philadelphia Union,0,0,D,1.9,3.88,2015
+2015-08-09,CF Montreal,DC United,0,1,A,2.11,3.42,2015
+2015-08-09,Houston Dynamo,San Jose Earthquakes,2,1,H,1.9,4.09,2015
+2015-08-09,Colorado Rapids,Columbus Crew,1,2,A,2.28,3.11,2015
+2015-08-09,Vancouver Whitecaps,Real Salt Lake,4,0,H,1.5,6.51,2015
+2015-08-10,Los Angeles Galaxy,Seattle Sounders,3,1,H,1.48,6.62,2015
+2015-08-10,New York Red Bulls,New York City,2,0,H,1.58,5.07,2015
+2015-08-14,New York City,DC United,3,1,H,1.98,3.55,2015
+2015-08-15,San Jose Earthquakes,Colorado Rapids,1,0,H,2.1,3.51,2015
+2015-08-16,New York Red Bulls,Toronto FC,3,0,H,1.7,4.58,2015
+2015-08-16,New England Revolution,Houston Dynamo,2,0,H,1.75,4.7,2015
+2015-08-16,Sporting Kansas City,Vancouver Whitecaps,4,3,H,2.0,3.76,2015
+2015-08-16,FC Dallas,Los Angeles Galaxy,1,2,A,2.52,2.73,2015
+2015-08-16,Real Salt Lake,Portland Timbers,0,1,A,2.44,2.86,2015
+2015-08-17,Seattle Sounders,Orlando City,4,0,H,1.92,3.99,2015
+2015-08-17,Philadelphia Union,Chicago Fire,3,3,D,2.0,3.7,2015
+2015-08-20,Columbus Crew,New York City,2,2,D,1.81,3.89,2015
+2015-08-20,Sporting Kansas City,San Jose Earthquakes,0,5,A,1.67,5.16,2015
+2015-08-22,Portland Timbers,Houston Dynamo,2,2,D,1.71,4.81,2015
+2015-08-23,Toronto FC,Orlando City,5,0,H,1.74,4.59,2015
+2015-08-23,DC United,San Jose Earthquakes,0,2,A,2.59,2.74,2015
+2015-08-23,Columbus Crew,Sporting Kansas City,3,2,H,1.75,4.48,2015
+2015-08-23,CF Montreal,Philadelphia Union,0,1,A,2.07,3.52,2015
+2015-08-23,Chicago Fire,Colorado Rapids,0,1,A,2.04,3.65,2015
+2015-08-23,Vancouver Whitecaps,FC Dallas,1,0,H,1.82,4.4,2015
+2015-08-23,Real Salt Lake,Seattle Sounders,2,0,H,2.25,3.17,2015
+2015-08-24,Los Angeles Galaxy,New York City,5,1,H,1.48,6.07,2015
+2015-08-27,Chicago Fire,New York Red Bulls,3,2,H,2.67,2.52,2015
+2015-08-27,Colorado Rapids,Houston Dynamo,2,1,H,1.97,3.89,2015
+2015-08-29,San Jose Earthquakes,Los Angeles Galaxy,1,0,H,3.34,2.13,2015
+2015-08-30,Toronto FC,CF Montreal,2,1,H,1.66,5.0,2015
+2015-08-30,New York City,Columbus Crew,1,2,A,2.2,2.96,2015
+2015-08-30,Philadelphia Union,New England Revolution,0,1,A,2.06,3.42,2015
+2015-08-30,Orlando City,Chicago Fire,1,1,D,2.22,3.2,2015
+2015-08-30,Houston Dynamo,Vancouver Whitecaps,2,0,H,2.23,3.24,2015
+2015-08-30,FC Dallas,Real Salt Lake,2,0,H,1.75,4.64,2015
+2015-08-30,Colorado Rapids,Sporting Kansas City,2,1,H,2.25,3.15,2015
+2015-08-31,Seattle Sounders,Portland Timbers,2,1,H,2.01,3.73,2015
+2015-08-31,New York Red Bulls,DC United,3,0,H,1.54,5.74,2015
+2015-09-06,New England Revolution,Orlando City,3,0,H,1.47,6.78,2015
+2015-09-06,CF Montreal,Chicago Fire,4,3,H,2.03,3.6,2015
+2015-09-06,Seattle Sounders,Toronto FC,2,1,H,1.59,5.57,2015
+2015-09-06,San Jose Earthquakes,Philadelphia Union,1,2,A,1.86,4.26,2015
+2015-09-07,Columbus Crew,FC Dallas,0,3,A,2.11,3.29,2015
+2015-09-10,Vancouver Whitecaps,Colorado Rapids,2,0,H,1.66,5.29,2015
+2015-09-10,Portland Timbers,Sporting Kansas City,0,0,D,1.91,3.93,2015
+2015-09-12,New York Red Bulls,Chicago Fire,3,2,H,1.51,5.87,2015
+2015-09-13,Philadelphia Union,Columbus Crew,1,2,A,2.11,3.25,2015
+2015-09-13,Houston Dynamo,Real Salt Lake,1,3,A,1.76,4.62,2015
+2015-09-13,FC Dallas,New York City,2,1,H,1.62,4.82,2015
+2015-09-13,Colorado Rapids,DC United,1,1,D,1.77,4.72,2015
+2015-09-13,San Jose Earthquakes,Seattle Sounders,1,1,D,2.3,3.14,2015
+2015-09-13,Los Angeles Galaxy,CF Montreal,0,0,D,1.47,6.44,2015
+2015-09-14,Toronto FC,New England Revolution,1,3,A,2.22,3.09,2015
+2015-09-14,Orlando City,Sporting Kansas City,3,1,H,2.63,2.61,2015
+2015-09-17,New York City,Toronto FC,2,0,H,2.43,2.62,2015
+2015-09-17,New England Revolution,New York Red Bulls,2,1,H,2.45,2.73,2015
+2015-09-17,San Jose Earthquakes,CF Montreal,1,1,D,1.74,4.66,2015
+2015-09-19,Sporting Kansas City,FC Dallas,3,1,H,2.07,3.43,2015
+2015-09-20,Toronto FC,Colorado Rapids,3,1,H,1.72,4.94,2015
+2015-09-20,Vancouver Whitecaps,Seattle Sounders,0,3,A,2.06,3.59,2015
+2015-09-20,New York City,San Jose Earthquakes,3,2,H,2.05,3.38,2015
+2015-09-20,DC United,Columbus Crew,1,2,A,2.53,2.65,2015
+2015-09-20,CF Montreal,New England Revolution,3,0,H,2.34,2.95,2015
+2015-09-20,Chicago Fire,Orlando City,0,1,A,1.65,5.12,2015
+2015-09-20,Real Salt Lake,Los Angeles Galaxy,3,0,H,3.28,2.13,2015
+2015-09-21,Portland Timbers,New York Red Bulls,0,2,A,1.89,3.84,2015
+2015-09-21,Philadelphia Union,Houston Dynamo,2,0,H,1.73,4.56,2015
+2015-09-24,CF Montreal,Chicago Fire,2,1,H,1.59,5.38,2015
+2015-09-24,Houston Dynamo,Sporting Kansas City,1,0,H,2.37,2.98,2015
+2015-09-26,New York Red Bulls,Orlando City,2,5,A,1.32,8.47,2015
+2015-09-27,Toronto FC,Chicago Fire,3,2,H,1.55,5.6,2015
+2015-09-27,CF Montreal,DC United,2,0,H,1.74,4.61,2015
+2015-09-27,New England Revolution,Philadelphia Union,1,1,D,1.45,7.09,2015
+2015-09-27,Columbus Crew,Portland Timbers,1,2,A,1.89,3.81,2015
+2015-09-27,Houston Dynamo,Colorado Rapids,3,2,H,1.99,3.85,2015
+2015-09-27,Vancouver Whitecaps,New York City,1,2,A,1.59,5.06,2015
+2015-09-28,Sporting Kansas City,Seattle Sounders,1,1,D,3.45,2.08,2015
+2015-09-28,San Jose Earthquakes,Real Salt Lake,1,0,H,1.91,3.9,2015
+2015-09-28,Los Angeles Galaxy,FC Dallas,3,2,H,1.61,5.06,2015
+2015-10-03,DC United,New York City,2,1,H,2.39,2.76,2015
+2015-10-04,Toronto FC,Philadelphia Union,3,1,H,1.52,5.84,2015
+2015-10-04,New York Red Bulls,Columbus Crew,2,1,H,1.8,3.98,2015
+2015-10-04,Orlando City,CF Montreal,2,1,H,2.13,3.26,2015
+2015-10-04,Chicago Fire,New England Revolution,3,1,H,3.22,2.15,2015
+2015-10-04,San Jose Earthquakes,Vancouver Whitecaps,1,1,D,2.27,3.14,2015
+2015-10-04,Portland Timbers,Sporting Kansas City,0,1,A,1.53,6.49,2015
+2015-10-05,FC Dallas,Houston Dynamo,4,1,H,1.71,4.68,2015
+2015-10-05,Colorado Rapids,Real Salt Lake,1,2,A,2.16,3.29,2015
+2015-10-05,Seattle Sounders,Los Angeles Galaxy,1,1,D,2.43,2.79,2015
+2015-10-08,New York Red Bulls,CF Montreal,2,1,H,1.62,5.05,2015
+2015-10-08,Vancouver Whitecaps,FC Dallas,0,0,D,1.99,3.68,2015
+2015-10-11,Colorado Rapids,CF Montreal,0,1,A,2.73,2.53,2015
+2015-10-15,Toronto FC,New York Red Bulls,2,1,H,2.68,2.49,2015
+2015-10-15,FC Dallas,Vancouver Whitecaps,2,0,H,1.74,4.73,2015
+2015-10-15,Real Salt Lake,Portland Timbers,0,1,A,2.07,3.44,2015
+2015-10-17,Orlando City,New York City,2,1,H,1.86,3.93,2015
+2015-10-17,San Jose Earthquakes,Sporting Kansas City,1,0,H,2.17,3.33,2015
+2015-10-18,Toronto FC,Columbus Crew,0,2,A,2.11,3.17,2015
+2015-10-18,New England Revolution,CF Montreal,0,1,A,1.84,4.18,2015
+2015-10-18,Real Salt Lake,FC Dallas,0,1,A,2.63,2.55,2015
+2015-10-19,DC United,Chicago Fire,4,0,H,1.86,3.91,2015
+2015-10-19,New York Red Bulls,Philadelphia Union,4,1,H,1.42,7.15,2015
+2015-10-19,Houston Dynamo,Seattle Sounders,1,1,D,2.63,2.62,2015
+2015-10-19,Los Angeles Galaxy,Portland Timbers,2,5,A,1.6,5.38,2015
+2015-10-22,Sporting Kansas City,Colorado Rapids,0,2,A,1.39,8.38,2015
+2015-10-26,Philadelphia Union,Orlando City,1,0,H,2.15,3.13,2015
+2015-10-26,New York City,New England Revolution,1,3,A,2.81,2.37,2015
+2015-10-26,Columbus Crew,DC United,5,0,H,1.78,4.27,2015
+2015-10-26,CF Montreal,Toronto FC,2,1,H,2.11,3.27,2015
+2015-10-26,Vancouver Whitecaps,Houston Dynamo,3,0,H,1.49,6.67,2015
+2015-10-26,Sporting Kansas City,Los Angeles Galaxy,2,1,H,2.48,2.75,2015
+2015-10-26,Seattle Sounders,Real Salt Lake,3,1,H,1.41,7.67,2015
+2015-10-26,Portland Timbers,Colorado Rapids,4,1,H,1.42,7.42,2015
+2015-10-26,FC Dallas,San Jose Earthquakes,2,1,H,1.94,3.81,2015
+2015-10-26,Chicago Fire,New York Red Bulls,1,2,A,4.23,1.75,2015
+2015-10-29,DC United,New England Revolution,2,1,H,2.93,2.39,2015
+2015-10-29,Seattle Sounders,Los Angeles Galaxy,3,2,H,2.17,3.28,2015
+2015-10-30,CF Montreal,Toronto FC,3,0,H,2.11,3.35,2015
+2015-10-30,Portland Timbers,Sporting Kansas City,3,2,H,1.75,4.79,2015
+2015-11-02,DC United,New York Red Bulls,0,1,A,3.43,2.06,2015
+2015-11-02,Portland Timbers,Vancouver Whitecaps,0,0,D,2.09,3.64,2015
+2015-11-02,CF Montreal,Columbus Crew,2,1,H,2.08,3.35,2015
+2015-11-02,Seattle Sounders,FC Dallas,2,1,H,2.01,3.75,2015
+2015-11-09,New York Red Bulls,DC United,1,0,H,1.35,8.21,2015
+2015-11-09,Columbus Crew,CF Montreal,3,1,H,1.91,3.79,2015
+2015-11-09,FC Dallas,Seattle Sounders,3,1,H,1.73,4.62,2015
+2015-11-09,Vancouver Whitecaps,Portland Timbers,0,2,A,2.13,3.43,2015
+2015-11-23,Columbus Crew,New York Red Bulls,2,0,H,2.3,3.0,2015
+2015-11-23,Portland Timbers,FC Dallas,3,1,H,2.05,3.74,2015
+2015-11-30,FC Dallas,Portland Timbers,2,2,D,1.8,4.36,2015
+2015-11-30,New York Red Bulls,Columbus Crew,1,0,H,1.61,5.01,2015
+2015-12-07,Columbus Crew,Portland Timbers,1,2,A,2.04,3.66,2015

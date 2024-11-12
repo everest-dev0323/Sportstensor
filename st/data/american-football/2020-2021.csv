@@ -1,0 +1,270 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2,Season
+2020-09-11,Kansas City Chiefs,Houston Texans,34,20,H,1.23,4.31,2020
+2020-09-14,Washington Commanders,Philadelphia Eagles,27,17,H,3.02,1.4,2020
+2020-09-14,New England Patriots,Miami Dolphins,21,11,H,1.29,3.73,2020
+2020-09-14,Minnesota Vikings,Green Bay Packers,34,43,A,1.82,2.01,2020
+2020-09-14,Jacksonville Jaguars,Indianapolis Colts,27,20,H,3.69,1.29,2020
+2020-09-14,Detroit Lions,Chicago Bears,23,27,A,1.76,2.09,2020
+2020-09-14,Carolina Panthers,Las Vegas Raiders,30,34,A,2.31,1.64,2020
+2020-09-14,Buffalo Bills,New York Jets,27,17,H,1.34,3.33,2020
+2020-09-14,Baltimore Ravens,Cleveland Browns,38,6,H,1.3,3.66,2020
+2020-09-14,Atlanta Falcons,Seattle Seahawks,25,38,A,1.88,1.94,2020
+2020-09-14,Cincinnati Bengals,Los Angeles Chargers,13,16,A,2.16,1.72,2020
+2020-09-14,San Francisco 49ers,Arizona Cardinals,20,24,A,1.34,3.36,2020
+2020-09-14,New Orleans Saints,Tampa Bay Buccaneers,34,23,H,1.52,2.59,2020
+2020-09-14,Los Angeles Rams,Dallas Cowboys,20,17,H,1.9,1.91,2020
+2020-09-15,New York Giants,Pittsburgh Steelers,16,26,A,3.14,1.38,2020
+2020-09-15,Denver Broncos,Tennessee Titans,14,16,A,2.55,1.54,2020
+2020-09-18,Cleveland Browns,Cincinnati Bengals,35,30,H,1.41,3.04,2020
+2020-09-21,Tampa Bay Buccaneers,Carolina Panthers,31,17,H,1.28,3.84,2020
+2020-09-21,Pittsburgh Steelers,Denver Broncos,26,21,H,1.36,3.28,2020
+2020-09-21,Tennessee Titans,Jacksonville Jaguars,33,30,H,1.33,3.47,2020
+2020-09-21,Philadelphia Eagles,Los Angeles Rams,19,37,A,1.79,2.05,2020
+2020-09-21,New York Jets,San Francisco 49ers,13,31,A,3.56,1.31,2020
+2020-09-21,Miami Dolphins,Buffalo Bills,28,31,A,2.99,1.41,2020
+2020-09-21,Indianapolis Colts,Minnesota Vikings,28,11,H,1.56,2.51,2020
+2020-09-21,Green Bay Packers,Detroit Lions,42,21,H,1.34,3.32,2020
+2020-09-21,Dallas Cowboys,Atlanta Falcons,40,39,H,1.62,2.4,2020
+2020-09-21,Chicago Bears,New York Giants,17,13,H,1.43,2.91,2020
+2020-09-21,Arizona Cardinals,Washington Commanders,30,15,H,1.3,3.63,2020
+2020-09-21,Los Angeles Chargers,Kansas City Chiefs,20,23,A,4.12,1.25,2020
+2020-09-21,Houston Texans,Baltimore Ravens,16,33,A,3.76,1.29,2020
+2020-09-21,Seattle Seahawks,New England Patriots,35,30,H,1.48,2.73,2020
+2020-09-22,Las Vegas Raiders,New Orleans Saints,34,24,H,2.76,1.47,2020
+2020-09-25,Jacksonville Jaguars,Miami Dolphins,13,31,A,1.68,2.23,2020
+2020-09-28,Pittsburgh Steelers,Houston Texans,28,21,H,1.5,2.67,2020
+2020-09-28,Philadelphia Eagles,Cincinnati Bengals,23,23,D,1.41,3.0,2020
+2020-09-28,New York Giants,San Francisco 49ers,9,36,A,2.35,1.62,2020
+2020-09-28,New England Patriots,Las Vegas Raiders,36,20,H,1.32,3.53,2020
+2020-09-28,Minnesota Vikings,Tennessee Titans,30,31,A,2.26,1.66,2020
+2020-09-28,Cleveland Browns,Washington Commanders,34,20,H,1.31,3.6,2020
+2020-09-28,Buffalo Bills,Los Angeles Rams,35,32,H,1.77,2.08,2020
+2020-09-28,Atlanta Falcons,Chicago Bears,26,30,A,1.73,2.15,2020
+2020-09-28,Los Angeles Chargers,Carolina Panthers,16,21,A,1.38,3.18,2020
+2020-09-28,Indianapolis Colts,New York Jets,36,7,H,1.15,5.76,2020
+2020-09-28,Seattle Seahawks,Dallas Cowboys,38,31,H,1.43,2.93,2020
+2020-09-28,Denver Broncos,Tampa Bay Buccaneers,10,28,A,3.18,1.38,2020
+2020-09-28,Arizona Cardinals,Detroit Lions,23,26,A,1.42,2.97,2020
+2020-09-28,New Orleans Saints,Green Bay Packers,30,37,A,1.57,2.48,2020
+2020-09-29,Baltimore Ravens,Kansas City Chiefs,20,34,A,1.55,2.53,2020
+2020-10-02,New York Jets,Denver Broncos,28,37,A,1.85,1.98,2020
+2020-10-05,Washington Commanders,Baltimore Ravens,17,31,A,7.78,1.09,2020
+2020-10-05,Tampa Bay Buccaneers,Los Angeles Chargers,38,31,H,1.28,3.84,2020
+2020-10-05,Miami Dolphins,Seattle Seahawks,23,31,A,2.9,1.43,2020
+2020-10-05,Houston Texans,Minnesota Vikings,23,31,A,1.56,2.49,2020
+2020-10-05,Detroit Lions,New Orleans Saints,29,35,A,2.35,1.63,2020
+2020-10-05,Dallas Cowboys,Cleveland Browns,38,49,A,1.55,2.53,2020
+2020-10-05,Cincinnati Bengals,Jacksonville Jaguars,33,25,H,1.83,2.0,2020
+2020-10-05,Carolina Panthers,Arizona Cardinals,31,21,H,2.38,1.61,2020
+2020-10-05,Los Angeles Rams,New York Giants,17,9,H,1.11,7.2,2020
+2020-10-05,Las Vegas Raiders,Buffalo Bills,23,30,A,2.49,1.57,2020
+2020-10-05,Chicago Bears,Indianapolis Colts,11,19,A,2.56,1.54,2020
+2020-10-05,San Francisco 49ers,Philadelphia Eagles,20,25,A,1.28,3.85,2020
+2020-10-06,Kansas City Chiefs,New England Patriots,26,10,H,1.16,5.56,2020
+2020-10-06,Green Bay Packers,Atlanta Falcons,30,16,H,1.41,3.01,2020
+2020-10-09,Chicago Bears,Tampa Bay Buccaneers,20,19,H,2.65,1.51,2020
+2020-10-12,Washington Commanders,Los Angeles Rams,10,30,A,3.77,1.29,2020
+2020-10-12,Pittsburgh Steelers,Philadelphia Eagles,38,29,H,1.27,3.91,2020
+2020-10-12,New York Jets,Arizona Cardinals,10,30,A,3.56,1.31,2020
+2020-10-12,Houston Texans,Jacksonville Jaguars,30,14,H,1.37,3.23,2020
+2020-10-12,Baltimore Ravens,Cincinnati Bengals,27,3,H,1.13,6.25,2020
+2020-10-12,Kansas City Chiefs,Las Vegas Raiders,32,40,A,1.2,4.84,2020
+2020-10-12,Atlanta Falcons,Carolina Panthers,16,23,A,1.7,2.21,2020
+2020-10-12,San Francisco 49ers,Miami Dolphins,17,43,A,1.26,4.02,2020
+2020-10-12,Dallas Cowboys,New York Giants,37,34,H,1.28,3.87,2020
+2020-10-12,Cleveland Browns,Indianapolis Colts,32,23,H,1.87,1.97,2020
+2020-10-12,Seattle Seahawks,Minnesota Vikings,27,26,H,1.33,3.42,2020
+2020-10-13,New Orleans Saints,Los Angeles Chargers,30,27,H,1.3,3.7,2020
+2020-10-14,Tennessee Titans,Buffalo Bills,42,16,H,2.41,1.6,2020
+2020-10-19,Tennessee Titans,Houston Texans,42,36,H,1.51,2.63,2020
+2020-10-19,Pittsburgh Steelers,Cleveland Browns,38,7,H,1.6,2.4,2020
+2020-10-19,Philadelphia Eagles,Baltimore Ravens,28,30,A,4.62,1.21,2020
+2020-10-19,New York Giants,Washington Commanders,20,19,H,1.78,2.06,2020
+2020-10-19,New England Patriots,Denver Broncos,12,18,A,1.29,3.74,2020
+2020-10-19,Minnesota Vikings,Atlanta Falcons,23,40,A,1.52,2.61,2020
+2020-10-19,Jacksonville Jaguars,Detroit Lions,16,34,A,2.38,1.61,2020
+2020-10-19,Indianapolis Colts,Cincinnati Bengals,31,27,H,1.28,3.82,2020
+2020-10-19,Carolina Panthers,Chicago Bears,16,23,A,1.79,2.05,2020
+2020-10-19,Miami Dolphins,New York Jets,24,0,H,1.24,4.18,2020
+2020-10-19,Tampa Bay Buccaneers,Green Bay Packers,38,10,H,2.26,1.67,2020
+2020-10-19,San Francisco 49ers,Los Angeles Rams,24,16,H,2.12,1.75,2020
+2020-10-20,Buffalo Bills,Kansas City Chiefs,17,26,A,2.99,1.41,2020
+2020-10-20,Dallas Cowboys,Arizona Cardinals,10,38,A,1.84,1.98,2020
+2020-10-23,Philadelphia Eagles,New York Giants,22,21,H,1.42,2.96,2020
+2020-10-26,Washington Commanders,Dallas Cowboys,25,3,H,1.92,1.88,2020
+2020-10-26,Tennessee Titans,Pittsburgh Steelers,24,27,A,1.85,1.96,2020
+2020-10-26,New York Jets,Buffalo Bills,10,18,A,4.35,1.22,2020
+2020-10-26,New Orleans Saints,Carolina Panthers,27,24,H,1.32,3.48,2020
+2020-10-26,Houston Texans,Green Bay Packers,20,35,A,2.28,1.65,2020
+2020-10-26,Cincinnati Bengals,Cleveland Browns,34,37,A,2.72,1.47,2020
+2020-10-26,Atlanta Falcons,Detroit Lions,22,23,A,1.84,1.97,2020
+2020-10-26,Las Vegas Raiders,Tampa Bay Buccaneers,20,45,A,2.65,1.5,2020
+2020-10-26,New England Patriots,San Francisco 49ers,6,33,A,1.61,2.35,2020
+2020-10-26,Los Angeles Chargers,Jacksonville Jaguars,39,29,H,1.26,3.94,2020
+2020-10-26,Denver Broncos,Kansas City Chiefs,16,43,A,3.59,1.3,2020
+2020-10-26,Arizona Cardinals,Seattle Seahawks,37,34,H,2.56,1.53,2020
+2020-10-27,Los Angeles Rams,Chicago Bears,24,10,H,1.34,3.34,2020
+2020-10-30,Carolina Panthers,Atlanta Falcons,17,25,A,1.81,2.03,2020
+2020-11-02,Miami Dolphins,Los Angeles Rams,28,17,H,2.53,1.56,2020
+2020-11-02,Kansas City Chiefs,New York Jets,35,9,H,1.04,13.19,2020
+2020-11-02,Green Bay Packers,Minnesota Vikings,22,28,A,1.4,3.09,2020
+2020-11-02,Detroit Lions,Indianapolis Colts,21,41,A,2.57,1.54,2020
+2020-11-02,Cleveland Browns,Las Vegas Raiders,6,16,A,1.84,2.01,2020
+2020-11-02,Cincinnati Bengals,Tennessee Titans,31,20,H,3.69,1.3,2020
+2020-11-02,Buffalo Bills,New England Patriots,24,21,H,1.49,2.72,2020
+2020-11-02,Baltimore Ravens,Pittsburgh Steelers,24,28,A,1.5,2.7,2020
+2020-11-02,Denver Broncos,Los Angeles Chargers,31,30,H,2.32,1.64,2020
+2020-11-02,Seattle Seahawks,San Francisco 49ers,37,27,H,1.85,2.0,2020
+2020-11-02,Chicago Bears,New Orleans Saints,23,26,A,2.98,1.42,2020
+2020-11-02,Philadelphia Eagles,Dallas Cowboys,23,9,H,1.23,4.36,2020
+2020-11-03,New York Giants,Tampa Bay Buccaneers,23,25,A,6.04,1.14,2020
+2020-11-06,San Francisco 49ers,Green Bay Packers,17,34,A,3.34,1.34,2020
+2020-11-09,Washington Commanders,New York Giants,20,23,A,1.62,2.35,2020
+2020-11-09,Tennessee Titans,Chicago Bears,24,17,H,1.36,3.24,2020
+2020-11-09,Minnesota Vikings,Detroit Lions,34,20,H,1.57,2.47,2020
+2020-11-09,Kansas City Chiefs,Carolina Panthers,33,31,H,1.21,4.67,2020
+2020-11-09,Jacksonville Jaguars,Houston Texans,25,27,A,3.43,1.33,2020
+2020-11-09,Indianapolis Colts,Baltimore Ravens,10,24,A,1.91,1.92,2020
+2020-11-09,Buffalo Bills,Seattle Seahawks,44,34,H,2.43,1.59,2020
+2020-11-09,Atlanta Falcons,Denver Broncos,34,27,H,1.45,2.81,2020
+2020-11-09,Los Angeles Chargers,Las Vegas Raiders,26,31,A,1.97,1.86,2020
+2020-11-09,Dallas Cowboys,Pittsburgh Steelers,19,24,A,6.95,1.12,2020
+2020-11-09,Arizona Cardinals,Miami Dolphins,31,34,A,1.39,3.07,2020
+2020-11-09,Tampa Bay Buccaneers,New Orleans Saints,3,38,A,1.56,2.51,2020
+2020-11-10,New York Jets,New England Patriots,27,30,A,4.3,1.24,2020
+2020-11-13,Tennessee Titans,Indianapolis Colts,17,34,A,1.99,1.84,2020
+2020-11-16,New York Giants,Philadelphia Eagles,27,17,H,2.85,1.45,2020
+2020-11-16,Green Bay Packers,Jacksonville Jaguars,24,20,H,1.1,7.53,2020
+2020-11-16,Detroit Lions,Washington Commanders,30,27,H,1.71,2.19,2020
+2020-11-16,Cleveland Browns,Houston Texans,10,7,H,1.44,2.86,2020
+2020-11-16,Carolina Panthers,Tampa Bay Buccaneers,23,46,A,3.16,1.38,2020
+2020-11-16,Miami Dolphins,Los Angeles Chargers,29,21,H,1.78,2.07,2020
+2020-11-16,Las Vegas Raiders,Denver Broncos,37,12,H,1.56,2.51,2020
+2020-11-16,Arizona Cardinals,Buffalo Bills,32,30,H,1.66,2.28,2020
+2020-11-16,Pittsburgh Steelers,Cincinnati Bengals,36,10,H,1.33,3.43,2020
+2020-11-16,New Orleans Saints,San Francisco 49ers,27,13,H,1.23,4.33,2020
+2020-11-16,Los Angeles Rams,Seattle Seahawks,23,16,H,1.66,2.28,2020
+2020-11-16,New England Patriots,Baltimore Ravens,23,17,H,3.5,1.32,2020
+2020-11-17,Chicago Bears,Minnesota Vikings,13,19,A,2.51,1.56,2020
+2020-11-20,Seattle Seahawks,Arizona Cardinals,28,21,H,1.6,2.42,2020
+2020-11-23,Washington Commanders,Cincinnati Bengals,20,9,H,1.81,2.03,2020
+2020-11-23,New Orleans Saints,Atlanta Falcons,24,9,H,1.51,2.63,2020
+2020-11-23,Jacksonville Jaguars,Pittsburgh Steelers,3,27,A,4.97,1.19,2020
+2020-11-23,Houston Texans,New England Patriots,27,20,H,2.24,1.68,2020
+2020-11-23,Cleveland Browns,Philadelphia Eagles,22,17,H,1.7,2.19,2020
+2020-11-23,Carolina Panthers,Detroit Lions,20,0,H,2.39,1.6,2020
+2020-11-23,Baltimore Ravens,Tennessee Titans,24,30,A,1.39,3.1,2020
+2020-11-23,Los Angeles Chargers,New York Jets,34,28,H,1.22,4.47,2020
+2020-11-23,Denver Broncos,Miami Dolphins,20,13,H,2.72,1.49,2020
+2020-11-23,Minnesota Vikings,Dallas Cowboys,28,31,A,1.32,3.53,2020
+2020-11-23,Indianapolis Colts,Green Bay Packers,34,31,H,1.8,2.04,2020
+2020-11-23,Las Vegas Raiders,Kansas City Chiefs,31,35,A,3.95,1.27,2020
+2020-11-24,Tampa Bay Buccaneers,Los Angeles Rams,24,27,A,1.48,2.75,2020
+2020-11-27,Detroit Lions,Houston Texans,25,41,A,2.4,1.61,2020
+2020-11-27,Dallas Cowboys,Washington Commanders,16,41,A,1.7,2.22,2020
+2020-11-30,New York Jets,Miami Dolphins,3,20,A,3.82,1.28,2020
+2020-11-30,New England Patriots,Arizona Cardinals,20,17,H,2.0,1.84,2020
+2020-11-30,Minnesota Vikings,Carolina Panthers,28,27,H,1.66,2.28,2020
+2020-11-30,Jacksonville Jaguars,Cleveland Browns,25,27,A,3.77,1.29,2020
+2020-11-30,Indianapolis Colts,Tennessee Titans,26,45,A,1.68,2.24,2020
+2020-11-30,Cincinnati Bengals,New York Giants,17,19,A,3.31,1.35,2020
+2020-11-30,Buffalo Bills,Los Angeles Chargers,27,17,H,1.46,2.8,2020
+2020-11-30,Atlanta Falcons,Las Vegas Raiders,43,6,H,2.54,1.55,2020
+2020-11-30,Los Angeles Rams,San Francisco 49ers,20,23,A,1.43,2.91,2020
+2020-11-30,Denver Broncos,New Orleans Saints,3,31,A,9.7,1.06,2020
+2020-11-30,Tampa Bay Buccaneers,Kansas City Chiefs,24,27,A,2.51,1.56,2020
+2020-11-30,Green Bay Packers,Chicago Bears,41,25,H,1.26,3.98,2020
+2020-12-01,Philadelphia Eagles,Seattle Seahawks,17,23,A,3.4,1.34,2020
+2020-12-03,Pittsburgh Steelers,Baltimore Ravens,19,14,H,1.18,5.09,2020
+2020-12-07,Tennessee Titans,Cleveland Browns,35,41,A,1.48,2.73,2020
+2020-12-07,New York Jets,Las Vegas Raiders,28,31,A,3.88,1.27,2020
+2020-12-07,Minnesota Vikings,Jacksonville Jaguars,27,24,H,1.2,4.7,2020
+2020-12-07,Miami Dolphins,Cincinnati Bengals,19,7,H,1.18,5.01,2020
+2020-12-07,Houston Texans,Indianapolis Colts,20,26,A,2.52,1.55,2020
+2020-12-07,Chicago Bears,Detroit Lions,30,34,A,1.63,2.32,2020
+2020-12-07,Atlanta Falcons,New Orleans Saints,16,21,A,2.26,1.67,2020
+2020-12-07,Seattle Seahawks,New York Giants,12,17,A,1.17,5.25,2020
+2020-12-07,Arizona Cardinals,Los Angeles Rams,28,38,A,2.25,1.67,2020
+2020-12-07,Los Angeles Chargers,New England Patriots,0,45,A,1.75,2.13,2020
+2020-12-07,Green Bay Packers,Philadelphia Eagles,30,16,H,1.25,4.17,2020
+2020-12-07,Kansas City Chiefs,Denver Broncos,22,16,H,1.12,6.79,2020
+2020-12-08,Pittsburgh Steelers,Washington Commanders,17,23,A,1.36,3.25,2020
+2020-12-08,San Francisco 49ers,Buffalo Bills,24,34,A,1.79,2.07,2020
+2020-12-09,Baltimore Ravens,Dallas Cowboys,34,17,H,1.23,4.32,2020
+2020-12-11,Los Angeles Rams,New England Patriots,24,3,H,1.44,2.89,2020
+2020-12-14,Tampa Bay Buccaneers,Minnesota Vikings,26,14,H,1.32,3.51,2020
+2020-12-14,New York Giants,Arizona Cardinals,7,26,A,2.31,1.65,2020
+2020-12-14,Miami Dolphins,Kansas City Chiefs,27,33,A,3.7,1.3,2020
+2020-12-14,Jacksonville Jaguars,Tennessee Titans,10,31,A,3.9,1.27,2020
+2020-12-14,Cincinnati Bengals,Dallas Cowboys,7,30,A,2.41,1.6,2020
+2020-12-14,Chicago Bears,Houston Texans,36,7,H,1.98,1.86,2020
+2020-12-14,Carolina Panthers,Denver Broncos,27,32,A,1.48,2.73,2020
+2020-12-14,Seattle Seahawks,New York Jets,40,3,H,1.09,8.26,2020
+2020-12-14,Las Vegas Raiders,Indianapolis Colts,27,44,A,2.18,1.72,2020
+2020-12-14,San Francisco 49ers,Washington Commanders,15,23,A,1.66,2.28,2020
+2020-12-14,Philadelphia Eagles,New Orleans Saints,24,21,H,3.93,1.27,2020
+2020-12-14,Los Angeles Chargers,Atlanta Falcons,20,17,H,1.84,2.0,2020
+2020-12-14,Detroit Lions,Green Bay Packers,24,31,A,4.14,1.25,2020
+2020-12-14,Buffalo Bills,Pittsburgh Steelers,26,15,H,1.77,2.11,2020
+2020-12-15,Cleveland Browns,Baltimore Ravens,42,47,A,2.49,1.57,2020
+2020-12-18,Las Vegas Raiders,Los Angeles Chargers,27,30,A,1.55,2.55,2020
+2020-12-20,Denver Broncos,Buffalo Bills,19,48,A,3.13,1.39,2020
+2020-12-20,Green Bay Packers,Carolina Panthers,24,16,H,1.23,4.4,2020
+2020-12-21,Washington Commanders,Seattle Seahawks,15,20,A,3.2,1.38,2020
+2020-12-21,Tennessee Titans,Detroit Lions,46,25,H,1.24,4.27,2020
+2020-12-21,Minnesota Vikings,Chicago Bears,27,33,A,1.66,2.3,2020
+2020-12-21,Miami Dolphins,New England Patriots,22,12,H,2.02,1.84,2020
+2020-12-21,Indianapolis Colts,Houston Texans,27,20,H,1.28,3.91,2020
+2020-12-21,Dallas Cowboys,San Francisco 49ers,41,33,H,2.64,1.52,2020
+2020-12-21,Baltimore Ravens,Jacksonville Jaguars,40,14,H,1.12,6.61,2020
+2020-12-21,Atlanta Falcons,Tampa Bay Buccaneers,27,31,A,3.24,1.37,2020
+2020-12-21,Los Angeles Rams,New York Jets,20,23,A,1.06,10.83,2020
+2020-12-21,Arizona Cardinals,Philadelphia Eagles,33,26,H,1.38,3.2,2020
+2020-12-21,New Orleans Saints,Kansas City Chiefs,29,32,A,2.24,1.69,2020
+2020-12-21,New York Giants,Cleveland Browns,6,20,A,3.3,1.36,2020
+2020-12-22,Cincinnati Bengals,Pittsburgh Steelers,27,17,H,7.77,1.1,2020
+2020-12-26,New Orleans Saints,Minnesota Vikings,52,33,H,1.33,3.48,2020
+2020-12-27,Detroit Lions,Tampa Bay Buccaneers,7,47,A,5.57,1.16,2020
+2020-12-27,Arizona Cardinals,San Francisco 49ers,12,20,A,1.37,3.25,2020
+2020-12-27,Las Vegas Raiders,Miami Dolphins,25,26,A,2.15,1.74,2020
+2020-12-28,Pittsburgh Steelers,Indianapolis Colts,28,24,H,1.95,1.89,2020
+2020-12-28,New York Jets,Cleveland Browns,23,16,H,3.43,1.34,2020
+2020-12-28,Kansas City Chiefs,Atlanta Falcons,17,14,H,1.18,5.14,2020
+2020-12-28,Jacksonville Jaguars,Chicago Bears,17,41,A,4.59,1.21,2020
+2020-12-28,Houston Texans,Cincinnati Bengals,31,37,A,1.29,3.74,2020
+2020-12-28,Baltimore Ravens,New York Giants,27,13,H,1.22,4.55,2020
+2020-12-28,Washington Commanders,Carolina Panthers,13,20,A,1.99,1.86,2020
+2020-12-28,Los Angeles Chargers,Denver Broncos,19,16,H,1.78,2.09,2020
+2020-12-28,Seattle Seahawks,Los Angeles Rams,20,9,H,1.8,2.07,2020
+2020-12-28,Dallas Cowboys,Philadelphia Eagles,37,17,H,2.47,1.58,2020
+2020-12-28,Green Bay Packers,Tennessee Titans,40,14,H,1.56,2.54,2020
+2020-12-29,New England Patriots,Buffalo Bills,9,38,A,3.79,1.29,2020
+2021-01-04,Tampa Bay Buccaneers,Atlanta Falcons,44,27,H,1.3,3.72,2020
+2021-01-04,New York Giants,Dallas Cowboys,23,19,H,2.08,1.8,2020
+2021-01-04,New England Patriots,New York Jets,28,14,H,1.62,2.4,2020
+2021-01-04,Detroit Lions,Minnesota Vikings,35,37,A,2.46,1.59,2020
+2021-01-04,Cleveland Browns,Pittsburgh Steelers,24,22,H,1.21,4.7,2020
+2021-01-04,Cincinnati Bengals,Baltimore Ravens,3,38,A,7.3,1.11,2020
+2021-01-04,Buffalo Bills,Miami Dolphins,56,26,H,2.47,1.59,2020
+2021-01-04,San Francisco 49ers,Seattle Seahawks,23,26,A,3.8,1.29,2020
+2021-01-04,Los Angeles Rams,Arizona Cardinals,18,7,H,1.85,2.02,2020
+2021-01-04,Kansas City Chiefs,Los Angeles Chargers,21,38,A,3.42,1.34,2020
+2021-01-04,Indianapolis Colts,Jacksonville Jaguars,28,14,H,1.08,8.81,2020
+2021-01-04,Houston Texans,Tennessee Titans,38,41,A,3.71,1.3,2020
+2021-01-04,Denver Broncos,Las Vegas Raiders,31,32,A,2.26,1.68,2020
+2021-01-04,Chicago Bears,Green Bay Packers,16,35,A,2.82,1.46,2020
+2021-01-04,Carolina Panthers,New Orleans Saints,7,33,A,3.14,1.39,2020
+2021-01-04,Philadelphia Eagles,Washington Commanders,14,20,A,3.4,1.35,2020
+2021-01-10,Buffalo Bills,Indianapolis Colts,27,24,H,1.3,3.64,2020
+2021-01-10,Seattle Seahawks,Los Angeles Rams,20,30,A,1.57,2.5,2020
+2021-01-10,Washington Commanders,Tampa Bay Buccaneers,23,31,A,4.68,1.21,2020
+2021-01-11,Tennessee Titans,Baltimore Ravens,13,20,A,2.58,1.54,2020
+2021-01-11,New Orleans Saints,Chicago Bears,21,9,H,1.16,5.43,2020
+2021-01-11,Pittsburgh Steelers,Cleveland Browns,37,48,A,1.41,3.01,2020
+2021-01-17,Green Bay Packers,Los Angeles Rams,32,18,H,1.29,3.8,2020
+2021-01-17,Buffalo Bills,Baltimore Ravens,17,3,H,1.74,2.17,2020
+2021-01-18,Kansas City Chiefs,Cleveland Browns,22,17,H,1.25,4.17,2020
+2021-01-18,New Orleans Saints,Tampa Bay Buccaneers,20,30,A,1.71,2.2,2020
+2021-01-25,Green Bay Packers,Tampa Bay Buccaneers,26,31,A,1.56,2.54,2020
+2021-01-25,Kansas City Chiefs,Buffalo Bills,38,24,H,1.62,2.38,2020
+2021-02-08,Tampa Bay Buccaneers,Kansas City Chiefs,31,9,H,2.25,1.77,2020

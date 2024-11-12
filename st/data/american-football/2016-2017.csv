@@ -1,0 +1,333 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2,Season
+2016-08-12,Philadelphia Eagles,Tampa Bay Buccaneers,17,9,H,1.59,2.42,2016
+2016-08-12,Atlanta Falcons,Washington Commanders,23,17,H,1.62,2.34,2016
+2016-08-12,New York Jets,Jacksonville Jaguars,17,13,H,1.56,2.48,2016
+2016-08-12,New England Patriots,New Orleans Saints,34,22,H,1.5,2.65,2016
+2016-08-12,Baltimore Ravens,Carolina Panthers,22,19,H,2.02,1.81,2016
+2016-08-12,Chicago Bears,Denver Broncos,0,22,A,1.83,2.0,2016
+2016-08-13,Pittsburgh Steelers,Detroit Lions,17,30,A,1.58,2.43,2016
+2016-08-13,New York Giants,Miami Dolphins,10,27,A,1.72,2.15,2016
+2016-08-13,Cincinnati Bengals,Minnesota Vikings,16,17,A,1.89,1.91,2016
+2016-08-13,Green Bay Packers,Cleveland Browns,17,11,H,2.02,1.81,2016
+2016-08-13,Arizona Cardinals,Las Vegas Raiders,10,31,A,1.64,2.3,2016
+2016-08-14,Kansas City Chiefs,Seattle Seahawks,16,17,A,1.53,2.57,2016
+2016-08-14,Buffalo Bills,Indianapolis Colts,18,19,A,1.74,2.13,2016
+2016-08-14,Tennessee Titans,Los Angeles Chargers,27,10,H,1.6,2.38,2016
+2016-08-14,Los Angeles Rams,Dallas Cowboys,28,24,H,1.4,3.05,2016
+2016-08-15,San Francisco 49ers,Houston Texans,13,24,A,1.67,2.24,2016
+2016-08-19,Pittsburgh Steelers,Philadelphia Eagles,0,17,A,1.72,2.15,2016
+2016-08-19,Detroit Lions,Cincinnati Bengals,14,30,A,1.79,2.04,2016
+2016-08-19,New England Patriots,Chicago Bears,23,22,H,1.55,2.5,2016
+2016-08-19,Green Bay Packers,Las Vegas Raiders,20,12,H,1.64,2.29,2016
+2016-08-19,Cleveland Browns,Atlanta Falcons,13,24,A,1.81,2.02,2016
+2016-08-19,Seattle Seahawks,Minnesota Vikings,11,18,A,1.71,2.17,2016
+2016-08-20,Washington Commanders,New York Jets,22,18,H,1.62,2.34,2016
+2016-08-20,Dallas Cowboys,Miami Dolphins,41,14,H,1.91,1.89,2016
+2016-08-20,Los Angeles Chargers,Arizona Cardinals,19,3,H,2.02,1.81,2016
+2016-08-21,Tennessee Titans,Carolina Panthers,16,26,A,2.07,1.77,2016
+2016-08-21,Buffalo Bills,New York Giants,21,0,H,1.6,2.39,2016
+2016-08-21,Indianapolis Colts,Baltimore Ravens,18,19,A,1.67,2.22,2016
+2016-08-21,Jacksonville Jaguars,Tampa Bay Buccaneers,21,27,A,1.59,2.41,2016
+2016-08-21,Houston Texans,New Orleans Saints,16,9,H,1.81,1.99,2016
+2016-08-21,Los Angeles Rams,Kansas City Chiefs,21,20,H,1.9,1.9,2016
+2016-08-21,Denver Broncos,San Francisco 49ers,24,31,A,1.35,3.25,2016
+2016-08-26,Miami Dolphins,Atlanta Falcons,17,6,H,1.85,1.96,2016
+2016-08-26,Seattle Seahawks,Dallas Cowboys,27,17,H,1.42,2.91,2016
+2016-08-27,Washington Commanders,Buffalo Bills,21,16,H,1.54,2.54,2016
+2016-08-27,Carolina Panthers,New England Patriots,17,19,A,1.59,2.41,2016
+2016-08-27,Tampa Bay Buccaneers,Cleveland Browns,30,13,H,1.56,2.48,2016
+2016-08-27,New Orleans Saints,Pittsburgh Steelers,14,27,A,1.56,2.48,2016
+2016-08-27,San Francisco 49ers,Green Bay Packers,10,21,A,1.63,2.31,2016
+2016-08-28,Chicago Bears,Kansas City Chiefs,7,23,A,2.2,1.69,2016
+2016-08-28,Indianapolis Colts,Philadelphia Eagles,23,33,A,1.8,2.01,2016
+2016-08-28,Baltimore Ravens,Detroit Lions,30,9,H,1.7,2.18,2016
+2016-08-28,New York Jets,New York Giants,20,21,A,1.99,1.82,2016
+2016-08-28,Las Vegas Raiders,Tennessee Titans,14,27,A,1.58,2.43,2016
+2016-08-28,Denver Broncos,Los Angeles Rams,17,9,H,1.41,3.0,2016
+2016-08-29,Minnesota Vikings,Los Angeles Chargers,23,10,H,1.35,3.28,2016
+2016-08-29,Houston Texans,Arizona Cardinals,34,24,H,1.84,1.98,2016
+2016-08-29,Jacksonville Jaguars,Cincinnati Bengals,26,21,H,1.69,2.2,2016
+2016-09-01,Tampa Bay Buccaneers,Washington Commanders,13,20,A,1.61,2.35,2016
+2016-09-02,Philadelphia Eagles,New York Jets,14,6,H,1.54,2.53,2016
+2016-09-02,New York Giants,New England Patriots,17,9,H,2.02,1.81,2016
+2016-09-02,Miami Dolphins,Tennessee Titans,10,21,A,1.67,2.25,2016
+2016-09-02,Atlanta Falcons,Jacksonville Jaguars,17,15,H,1.54,2.53,2016
+2016-09-02,Detroit Lions,Buffalo Bills,31,0,H,1.55,2.5,2016
+2016-09-02,Cincinnati Bengals,Indianapolis Colts,10,13,A,1.57,2.45,2016
+2016-09-02,Carolina Panthers,Pittsburgh Steelers,18,6,H,1.48,2.68,2016
+2016-09-02,New Orleans Saints,Baltimore Ravens,14,23,A,1.44,2.83,2016
+2016-09-02,Minnesota Vikings,Los Angeles Rams,27,25,H,1.91,1.92,2016
+2016-09-02,Kansas City Chiefs,Green Bay Packers,17,7,H,1.5,2.64,2016
+2016-09-02,Dallas Cowboys,Houston Texans,17,28,A,2.41,1.59,2016
+2016-09-02,Cleveland Browns,Chicago Bears,7,21,A,1.39,3.05,2016
+2016-09-02,Arizona Cardinals,Denver Broncos,38,17,H,1.49,2.67,2016
+2016-09-02,Los Angeles Chargers,San Francisco 49ers,21,31,A,1.89,1.92,2016
+2016-09-02,Las Vegas Raiders,Seattle Seahawks,21,23,A,1.77,2.06,2016
+2016-09-09,Denver Broncos,Carolina Panthers,21,20,H,2.26,1.67,2016
+2016-09-12,Tennessee Titans,Minnesota Vikings,16,25,A,2.12,1.74,2016
+2016-09-12,Philadelphia Eagles,Cleveland Browns,29,10,H,1.56,2.54,2016
+2016-09-12,New York Jets,Cincinnati Bengals,22,23,A,1.91,1.9,2016
+2016-09-12,New Orleans Saints,Las Vegas Raiders,34,35,A,1.69,2.23,2016
+2016-09-12,Kansas City Chiefs,Los Angeles Chargers,33,27,H,1.4,3.18,2016
+2016-09-12,Jacksonville Jaguars,Green Bay Packers,23,27,A,2.47,1.58,2016
+2016-09-12,Houston Texans,Chicago Bears,23,14,H,1.46,2.9,2016
+2016-09-12,Baltimore Ravens,Buffalo Bills,13,7,H,1.66,2.28,2016
+2016-09-12,Atlanta Falcons,Tampa Bay Buccaneers,24,31,A,1.74,2.12,2016
+2016-09-12,Seattle Seahawks,Miami Dolphins,12,10,H,1.27,4.46,2016
+2016-09-12,Indianapolis Colts,Detroit Lions,35,39,A,1.74,2.13,2016
+2016-09-12,Dallas Cowboys,New York Giants,19,20,A,1.9,1.91,2016
+2016-09-12,Arizona Cardinals,New England Patriots,21,23,A,1.31,3.9,2016
+2016-09-13,Washington Commanders,Pittsburgh Steelers,16,38,A,2.09,1.76,2016
+2016-09-13,San Francisco 49ers,Los Angeles Rams,28,0,H,2.14,1.73,2016
+2016-09-16,Buffalo Bills,New York Jets,31,37,A,1.85,1.98,2016
+2016-09-19,Washington Commanders,Dallas Cowboys,23,27,A,1.59,2.46,2016
+2016-09-19,Pittsburgh Steelers,Cincinnati Bengals,24,16,H,1.64,2.33,2016
+2016-09-19,New York Giants,New Orleans Saints,16,13,H,1.58,2.5,2016
+2016-09-19,New England Patriots,Miami Dolphins,31,24,H,1.47,2.84,2016
+2016-09-19,Houston Texans,Kansas City Chiefs,19,12,H,1.89,1.93,2016
+2016-09-19,Detroit Lions,Tennessee Titans,15,16,A,1.43,3.04,2016
+2016-09-19,Cleveland Browns,Baltimore Ravens,20,25,A,2.6,1.54,2016
+2016-09-19,Carolina Panthers,San Francisco 49ers,46,27,H,1.24,4.92,2016
+2016-09-19,Los Angeles Rams,Seattle Seahawks,9,3,H,2.83,1.47,2016
+2016-09-19,Arizona Cardinals,Tampa Bay Buccaneers,40,7,H,1.37,3.45,2016
+2016-09-19,Los Angeles Chargers,Jacksonville Jaguars,38,14,H,1.69,2.22,2016
+2016-09-19,Las Vegas Raiders,Atlanta Falcons,28,35,A,1.54,2.59,2016
+2016-09-19,Denver Broncos,Indianapolis Colts,34,20,H,1.45,2.96,2016
+2016-09-19,Minnesota Vikings,Green Bay Packers,17,14,H,2.03,1.81,2016
+2016-09-20,Chicago Bears,Philadelphia Eagles,14,29,A,1.65,2.31,2016
+2016-09-23,New England Patriots,Houston Texans,27,0,H,1.87,1.95,2016
+2016-09-26,Tennessee Titans,Las Vegas Raiders,10,17,A,2.04,1.8,2016
+2016-09-26,New York Giants,Washington Commanders,27,29,A,1.59,2.47,2016
+2016-09-26,Miami Dolphins,Cleveland Browns,30,24,H,1.29,4.11,2016
+2016-09-26,Jacksonville Jaguars,Baltimore Ravens,17,19,A,2.09,1.77,2016
+2016-09-26,Green Bay Packers,Detroit Lions,34,27,H,1.43,3.04,2016
+2016-09-26,Cincinnati Bengals,Denver Broncos,17,29,A,1.59,2.47,2016
+2016-09-26,Carolina Panthers,Minnesota Vikings,10,22,A,1.44,3.01,2016
+2016-09-26,Buffalo Bills,Arizona Cardinals,33,18,H,2.72,1.5,2016
+2016-09-26,Tampa Bay Buccaneers,Los Angeles Rams,32,37,A,1.59,2.45,2016
+2016-09-26,Seattle Seahawks,San Francisco 49ers,37,18,H,1.29,4.09,2016
+2016-09-26,Philadelphia Eagles,Pittsburgh Steelers,34,3,H,2.53,1.57,2016
+2016-09-26,Kansas City Chiefs,New York Jets,24,3,H,1.62,2.39,2016
+2016-09-26,Indianapolis Colts,Los Angeles Chargers,26,22,H,1.82,2.02,2016
+2016-09-26,Dallas Cowboys,Chicago Bears,31,17,H,1.43,3.02,2016
+2016-09-27,New Orleans Saints,Atlanta Falcons,32,45,A,1.67,2.27,2016
+2016-09-30,Cincinnati Bengals,Miami Dolphins,22,7,H,1.35,3.52,2016
+2016-10-02,Jacksonville Jaguars,Indianapolis Colts,30,27,H,1.95,1.87,2016
+2016-10-03,Washington Commanders,Cleveland Browns,31,20,H,1.36,3.44,2016
+2016-10-03,New York Jets,Seattle Seahawks,17,27,A,1.94,1.88,2016
+2016-10-03,New England Patriots,Buffalo Bills,0,16,A,1.58,2.48,2016
+2016-10-03,Houston Texans,Tennessee Titans,27,20,H,1.55,2.57,2016
+2016-10-03,Chicago Bears,Detroit Lions,17,14,H,2.45,1.59,2016
+2016-10-03,Baltimore Ravens,Las Vegas Raiders,27,28,A,1.6,2.44,2016
+2016-10-03,Atlanta Falcons,Carolina Panthers,48,33,H,2.23,1.69,2016
+2016-10-03,Tampa Bay Buccaneers,Denver Broncos,7,27,A,2.43,1.6,2016
+2016-10-03,San Francisco 49ers,Dallas Cowboys,17,24,A,2.03,1.81,2016
+2016-10-03,Los Angeles Chargers,New Orleans Saints,34,35,A,1.57,2.52,2016
+2016-10-03,Arizona Cardinals,Los Angeles Rams,13,17,A,1.3,4.04,2016
+2016-10-03,Pittsburgh Steelers,Kansas City Chiefs,43,14,H,1.59,2.47,2016
+2016-10-04,Minnesota Vikings,New York Giants,24,10,H,1.58,2.5,2016
+2016-10-07,San Francisco 49ers,Arizona Cardinals,21,33,A,2.54,1.55,2016
+2016-10-10,Pittsburgh Steelers,New York Jets,31,13,H,1.31,3.9,2016
+2016-10-10,Minnesota Vikings,Houston Texans,31,13,H,1.44,2.99,2016
+2016-10-10,Miami Dolphins,Tennessee Titans,17,30,A,1.74,2.13,2016
+2016-10-10,Indianapolis Colts,Chicago Bears,29,23,H,1.55,2.56,2016
+2016-10-10,Detroit Lions,Philadelphia Eagles,24,23,H,2.46,1.59,2016
+2016-10-10,Cleveland Browns,New England Patriots,13,33,A,4.29,1.28,2016
+2016-10-10,Baltimore Ravens,Washington Commanders,10,16,A,1.55,2.55,2016
+2016-10-10,Denver Broncos,Atlanta Falcons,16,23,A,1.55,2.55,2016
+2016-10-10,Los Angeles Rams,Buffalo Bills,19,30,A,2.1,1.76,2016
+2016-10-10,Las Vegas Raiders,Los Angeles Chargers,34,31,H,1.55,2.55,2016
+2016-10-10,Dallas Cowboys,Cincinnati Bengals,28,14,H,2.12,1.75,2016
+2016-10-10,Green Bay Packers,New York Giants,23,16,H,1.39,3.27,2016
+2016-10-11,Carolina Panthers,Tampa Bay Buccaneers,14,17,A,1.46,2.89,2016
+2016-10-14,Los Angeles Chargers,Denver Broncos,21,13,H,2.28,1.67,2016
+2016-10-17,Washington Commanders,Philadelphia Eagles,27,20,H,2.27,1.67,2016
+2016-10-17,Tennessee Titans,Cleveland Browns,28,26,H,1.36,3.46,2016
+2016-10-17,New York Giants,Baltimore Ravens,27,23,H,1.56,2.53,2016
+2016-10-17,New Orleans Saints,Carolina Panthers,41,38,H,2.18,1.71,2016
+2016-10-17,New England Patriots,Cincinnati Bengals,35,17,H,1.37,3.41,2016
+2016-10-17,Miami Dolphins,Pittsburgh Steelers,30,15,H,3.35,1.38,2016
+2016-10-17,Detroit Lions,Los Angeles Rams,31,28,H,1.7,2.2,2016
+2016-10-17,Chicago Bears,Jacksonville Jaguars,16,17,A,1.74,2.13,2016
+2016-10-17,Buffalo Bills,San Francisco 49ers,45,16,H,1.37,3.42,2016
+2016-10-17,Las Vegas Raiders,Kansas City Chiefs,10,26,A,2.05,1.79,2016
+2016-10-17,Seattle Seahawks,Atlanta Falcons,26,24,H,1.4,3.21,2016
+2016-10-17,Green Bay Packers,Dallas Cowboys,16,30,A,1.47,2.83,2016
+2016-10-17,Houston Texans,Indianapolis Colts,26,23,H,1.64,2.33,2016
+2016-10-18,Arizona Cardinals,New York Jets,28,3,H,1.37,3.43,2016
+2016-10-21,Green Bay Packers,Chicago Bears,26,10,H,1.37,3.44,2016
+2016-10-23,Los Angeles Rams,New York Giants,10,17,A,2.21,1.7,2016
+2016-10-24,Tennessee Titans,Indianapolis Colts,26,34,A,1.54,2.58,2016
+2016-10-24,Philadelphia Eagles,Minnesota Vikings,21,10,H,2.19,1.71,2016
+2016-10-24,New York Jets,Baltimore Ravens,24,16,H,1.77,2.09,2016
+2016-10-24,Miami Dolphins,Buffalo Bills,28,25,H,2.13,1.74,2016
+2016-10-24,Kansas City Chiefs,New Orleans Saints,27,21,H,1.43,3.04,2016
+2016-10-24,Jacksonville Jaguars,Las Vegas Raiders,16,33,A,1.79,2.05,2016
+2016-10-24,Detroit Lions,Washington Commanders,20,17,H,1.95,1.87,2016
+2016-10-24,Cincinnati Bengals,Cleveland Browns,31,17,H,1.25,4.85,2016
+2016-10-24,San Francisco 49ers,Tampa Bay Buccaneers,17,34,A,1.85,1.98,2016
+2016-10-24,Atlanta Falcons,Los Angeles Chargers,30,33,A,1.52,2.63,2016
+2016-10-24,Pittsburgh Steelers,New England Patriots,16,27,A,3.32,1.38,2016
+2016-10-24,Arizona Cardinals,Seattle Seahawks,6,6,D,1.77,2.08,2016
+2016-10-25,Denver Broncos,Houston Texans,27,9,H,1.31,3.88,2016
+2016-10-28,Tennessee Titans,Jacksonville Jaguars,36,22,H,1.67,2.26,2016
+2016-10-30,Cincinnati Bengals,Washington Commanders,27,27,D,1.64,2.33,2016
+2016-10-31,Tampa Bay Buccaneers,Las Vegas Raiders,24,30,A,1.88,1.95,2016
+2016-10-31,New Orleans Saints,Seattle Seahawks,25,20,H,1.94,1.89,2016
+2016-10-31,Indianapolis Colts,Kansas City Chiefs,14,30,A,2.26,1.67,2016
+2016-10-31,Houston Texans,Detroit Lions,20,13,H,1.82,2.03,2016
+2016-10-31,Cleveland Browns,New York Jets,28,31,A,2.15,1.73,2016
+2016-10-31,Carolina Panthers,Arizona Cardinals,30,20,H,1.72,2.18,2016
+2016-10-31,Buffalo Bills,New England Patriots,25,41,A,3.05,1.4,2016
+2016-10-31,Denver Broncos,Los Angeles Chargers,27,19,H,1.52,2.61,2016
+2016-10-31,Atlanta Falcons,Green Bay Packers,33,32,H,1.61,2.39,2016
+2016-10-31,Dallas Cowboys,Philadelphia Eagles,29,23,H,1.43,2.91,2016
+2016-11-01,Chicago Bears,Minnesota Vikings,20,10,H,2.93,1.43,2016
+2016-11-04,Tampa Bay Buccaneers,Atlanta Falcons,28,43,A,2.78,1.46,2016
+2016-11-07,New York Giants,Philadelphia Eagles,28,23,H,1.64,2.33,2016
+2016-11-07,Minnesota Vikings,Detroit Lions,16,22,A,1.41,3.01,2016
+2016-11-07,Miami Dolphins,New York Jets,27,23,H,1.51,2.65,2016
+2016-11-07,Kansas City Chiefs,Jacksonville Jaguars,19,14,H,1.31,3.62,2016
+2016-11-07,Cleveland Browns,Dallas Cowboys,10,35,A,3.5,1.32,2016
+2016-11-07,Baltimore Ravens,Pittsburgh Steelers,21,14,H,2.45,1.59,2016
+2016-11-07,San Francisco 49ers,New Orleans Saints,23,41,A,2.85,1.45,2016
+2016-11-07,Los Angeles Rams,Carolina Panthers,10,13,A,2.31,1.65,2016
+2016-11-07,Los Angeles Chargers,Tennessee Titans,43,35,H,1.53,2.6,2016
+2016-11-07,Green Bay Packers,Indianapolis Colts,26,31,A,1.28,3.75,2016
+2016-11-07,Las Vegas Raiders,Denver Broncos,30,20,H,1.89,1.94,2016
+2016-11-08,Seattle Seahawks,Buffalo Bills,31,25,H,1.41,3.02,2016
+2016-11-11,Baltimore Ravens,Cleveland Browns,28,7,H,1.27,3.88,2016
+2016-11-14,Washington Commanders,Minnesota Vikings,26,20,H,1.69,2.22,2016
+2016-11-14,Tennessee Titans,Green Bay Packers,47,25,H,2.31,1.65,2016
+2016-11-14,Tampa Bay Buccaneers,Chicago Bears,36,10,H,2.27,1.67,2016
+2016-11-14,Philadelphia Eagles,Atlanta Falcons,24,15,H,1.79,2.07,2016
+2016-11-14,New York Jets,Los Angeles Rams,6,9,A,2.0,1.84,2016
+2016-11-14,New Orleans Saints,Denver Broncos,23,25,A,1.65,2.29,2016
+2016-11-14,Jacksonville Jaguars,Houston Texans,21,24,A,1.65,2.3,2016
+2016-11-14,Carolina Panthers,Kansas City Chiefs,17,20,A,1.6,2.41,2016
+2016-11-14,Los Angeles Chargers,Miami Dolphins,24,31,A,1.49,2.69,2016
+2016-11-14,Pittsburgh Steelers,Dallas Cowboys,30,35,A,1.6,2.42,2016
+2016-11-14,Arizona Cardinals,San Francisco 49ers,23,20,H,1.11,7.06,2016
+2016-11-14,New England Patriots,Seattle Seahawks,24,31,A,1.3,3.68,2016
+2016-11-15,New York Giants,Cincinnati Bengals,21,20,H,1.94,1.89,2016
+2016-11-18,Carolina Panthers,New Orleans Saints,23,20,H,1.54,2.58,2016
+2016-11-21,New York Giants,Chicago Bears,22,16,H,1.33,3.41,2016
+2016-11-21,Minnesota Vikings,Arizona Cardinals,30,24,H,1.78,2.08,2016
+2016-11-21,Kansas City Chiefs,Tampa Bay Buccaneers,17,19,A,1.33,3.4,2016
+2016-11-21,Indianapolis Colts,Tennessee Titans,24,17,H,1.69,2.22,2016
+2016-11-21,Detroit Lions,Jacksonville Jaguars,26,19,H,1.41,2.99,2016
+2016-11-21,Dallas Cowboys,Baltimore Ravens,27,17,H,1.33,3.46,2016
+2016-11-21,Cleveland Browns,Pittsburgh Steelers,9,24,A,3.93,1.27,2016
+2016-11-21,Cincinnati Bengals,Buffalo Bills,12,16,A,1.72,2.18,2016
+2016-11-21,Los Angeles Rams,Miami Dolphins,10,14,A,1.89,1.94,2016
+2016-11-21,Seattle Seahawks,Philadelphia Eagles,26,15,H,1.36,3.27,2016
+2016-11-21,San Francisco 49ers,New England Patriots,17,30,A,4.99,1.19,2016
+2016-11-21,Washington Commanders,Green Bay Packers,42,24,H,1.68,2.24,2016
+2016-11-22,Las Vegas Raiders,Houston Texans,27,20,H,1.36,3.29,2016
+2016-11-25,Detroit Lions,Minnesota Vikings,16,13,H,1.8,2.06,2016
+2016-11-25,Dallas Cowboys,Washington Commanders,31,26,H,1.41,3.02,2016
+2016-11-25,Indianapolis Colts,Pittsburgh Steelers,7,28,A,4.2,1.24,2016
+2016-11-28,New Orleans Saints,Los Angeles Rams,49,21,H,1.27,3.92,2016
+2016-11-28,Miami Dolphins,San Francisco 49ers,31,24,H,1.3,3.67,2016
+2016-11-28,Houston Texans,Los Angeles Chargers,13,21,A,2.16,1.73,2016
+2016-11-28,Cleveland Browns,New York Giants,13,27,A,3.26,1.36,2016
+2016-11-28,Chicago Bears,Tennessee Titans,21,27,A,3.22,1.37,2016
+2016-11-28,Buffalo Bills,Jacksonville Jaguars,28,21,H,1.25,4.08,2016
+2016-11-28,Baltimore Ravens,Cincinnati Bengals,19,14,H,1.55,2.54,2016
+2016-11-28,Atlanta Falcons,Arizona Cardinals,38,19,H,1.51,2.64,2016
+2016-11-28,Tampa Bay Buccaneers,Seattle Seahawks,14,5,H,2.93,1.43,2016
+2016-11-28,New York Jets,New England Patriots,17,22,A,4.37,1.23,2016
+2016-11-28,Las Vegas Raiders,Carolina Panthers,35,32,H,1.55,2.54,2016
+2016-11-28,Denver Broncos,Kansas City Chiefs,27,30,A,1.53,2.59,2016
+2016-11-29,Philadelphia Eagles,Green Bay Packers,13,27,A,1.5,2.66,2016
+2016-12-02,Minnesota Vikings,Dallas Cowboys,15,17,A,2.31,1.65,2016
+2016-12-05,New Orleans Saints,Detroit Lions,13,28,A,1.35,3.37,2016
+2016-12-05,New England Patriots,Los Angeles Rams,26,10,H,1.12,6.61,2016
+2016-12-05,Jacksonville Jaguars,Denver Broncos,10,20,A,2.64,1.52,2016
+2016-12-05,Green Bay Packers,Houston Texans,21,13,H,1.32,3.53,2016
+2016-12-05,Cincinnati Bengals,Philadelphia Eagles,32,14,H,1.81,2.04,2016
+2016-12-05,Chicago Bears,San Francisco 49ers,26,6,H,1.96,1.87,2016
+2016-12-05,Baltimore Ravens,Miami Dolphins,38,6,H,1.54,2.58,2016
+2016-12-05,Atlanta Falcons,Kansas City Chiefs,28,29,A,1.46,2.81,2016
+2016-12-05,Las Vegas Raiders,Buffalo Bills,38,24,H,1.65,2.31,2016
+2016-12-05,Pittsburgh Steelers,New York Giants,24,14,H,1.34,3.4,2016
+2016-12-05,Los Angeles Chargers,Tampa Bay Buccaneers,21,28,A,1.57,2.51,2016
+2016-12-05,Arizona Cardinals,Washington Commanders,31,23,H,1.72,2.19,2016
+2016-12-05,Seattle Seahawks,Carolina Panthers,40,7,H,1.24,4.21,2016
+2016-12-06,New York Jets,Indianapolis Colts,10,41,A,1.82,2.04,2016
+2016-12-09,Kansas City Chiefs,Las Vegas Raiders,21,13,H,1.52,2.65,2016
+2016-12-12,Tennessee Titans,Denver Broncos,13,10,H,1.79,2.08,2016
+2016-12-12,Philadelphia Eagles,Washington Commanders,22,27,A,2.09,1.79,2016
+2016-12-12,Miami Dolphins,Arizona Cardinals,26,23,H,2.08,1.79,2016
+2016-12-12,Jacksonville Jaguars,Minnesota Vikings,16,25,A,2.53,1.56,2016
+2016-12-12,Indianapolis Colts,Houston Texans,17,22,A,1.36,3.32,2016
+2016-12-12,Detroit Lions,Chicago Bears,20,17,H,1.29,3.81,2016
+2016-12-12,Cleveland Browns,Cincinnati Bengals,10,23,A,2.76,1.48,2016
+2016-12-12,Carolina Panthers,Los Angeles Chargers,28,16,H,1.85,1.99,2016
+2016-12-12,Buffalo Bills,Pittsburgh Steelers,20,27,A,2.05,1.81,2016
+2016-12-12,San Francisco 49ers,New York Jets,17,23,A,1.7,2.22,2016
+2016-12-12,Tampa Bay Buccaneers,New Orleans Saints,16,11,H,1.76,2.11,2016
+2016-12-12,Los Angeles Rams,Atlanta Falcons,14,42,A,2.82,1.45,2016
+2016-12-12,Green Bay Packers,Seattle Seahawks,38,10,H,2.29,1.66,2016
+2016-12-12,New York Giants,Dallas Cowboys,10,7,H,2.64,1.52,2016
+2016-12-13,New England Patriots,Baltimore Ravens,30,23,H,1.37,3.24,2016
+2016-12-16,Seattle Seahawks,Los Angeles Rams,24,3,H,1.07,9.2,2016
+2016-12-18,New York Jets,Miami Dolphins,13,34,A,2.21,1.7,2016
+2016-12-19,New York Giants,Detroit Lions,17,6,H,1.5,2.7,2016
+2016-12-19,Minnesota Vikings,Indianapolis Colts,6,34,A,1.42,2.98,2016
+2016-12-19,Kansas City Chiefs,Tennessee Titans,17,19,A,1.38,3.16,2016
+2016-12-19,Houston Texans,Jacksonville Jaguars,21,20,H,1.52,2.64,2016
+2016-12-19,Cincinnati Bengals,Pittsburgh Steelers,20,24,A,2.39,1.62,2016
+2016-12-19,Chicago Bears,Green Bay Packers,27,30,A,2.86,1.45,2016
+2016-12-19,Buffalo Bills,Cleveland Browns,33,13,H,1.19,4.92,2016
+2016-12-19,Baltimore Ravens,Philadelphia Eagles,27,26,H,1.42,2.99,2016
+2016-12-19,Atlanta Falcons,San Francisco 49ers,41,13,H,1.11,7.43,2016
+2016-12-19,Arizona Cardinals,New Orleans Saints,41,48,A,1.63,2.36,2016
+2016-12-19,Los Angeles Chargers,Las Vegas Raiders,16,19,A,2.17,1.73,2016
+2016-12-19,Denver Broncos,New England Patriots,3,16,A,2.36,1.64,2016
+2016-12-19,Dallas Cowboys,Tampa Bay Buccaneers,26,20,H,1.34,3.41,2016
+2016-12-20,Washington Commanders,Carolina Panthers,15,26,A,1.33,3.48,2016
+2016-12-23,Philadelphia Eagles,New York Giants,24,19,H,1.83,2.03,2016
+2016-12-25,New England Patriots,New York Jets,41,3,H,1.06,10.66,2016
+2016-12-25,Jacksonville Jaguars,Tennessee Titans,38,17,H,2.76,1.47,2016
+2016-12-25,Green Bay Packers,Minnesota Vikings,38,25,H,1.35,3.33,2016
+2016-12-25,Cleveland Browns,Los Angeles Chargers,20,17,H,2.81,1.46,2016
+2016-12-25,Chicago Bears,Washington Commanders,21,41,A,2.3,1.66,2016
+2016-12-25,Carolina Panthers,Atlanta Falcons,16,33,A,2.35,1.64,2016
+2016-12-25,Buffalo Bills,Miami Dolphins,31,34,A,1.45,2.86,2016
+2016-12-25,Las Vegas Raiders,Indianapolis Colts,33,25,H,1.56,2.55,2016
+2016-12-25,Seattle Seahawks,Arizona Cardinals,31,34,A,1.24,4.28,2016
+2016-12-25,New Orleans Saints,Tampa Bay Buccaneers,31,24,H,1.57,2.5,2016
+2016-12-25,Los Angeles Rams,San Francisco 49ers,21,22,A,1.41,3.05,2016
+2016-12-25,Houston Texans,Cincinnati Bengals,12,10,H,1.62,2.38,2016
+2016-12-26,Pittsburgh Steelers,Baltimore Ravens,31,27,H,1.39,3.15,2016
+2016-12-26,Kansas City Chiefs,Denver Broncos,33,10,H,1.53,2.59,2016
+2016-12-27,Dallas Cowboys,Detroit Lions,42,21,H,1.37,3.29,2016
+2017-01-02,Tennessee Titans,Houston Texans,24,17,H,1.62,2.4,2016
+2017-01-02,Tampa Bay Buccaneers,Carolina Panthers,17,16,H,1.59,2.47,2016
+2017-01-02,Pittsburgh Steelers,Cleveland Browns,27,24,H,1.61,2.4,2016
+2017-01-02,Philadelphia Eagles,Dallas Cowboys,27,13,H,1.38,3.19,2016
+2017-01-02,New York Jets,Buffalo Bills,30,10,H,2.68,1.51,2016
+2017-01-02,Minnesota Vikings,Chicago Bears,38,10,H,1.37,3.23,2016
+2017-01-02,Miami Dolphins,New England Patriots,14,35,A,3.94,1.27,2016
+2017-01-02,Indianapolis Colts,Jacksonville Jaguars,24,20,H,1.4,3.11,2016
+2017-01-02,Cincinnati Bengals,Baltimore Ravens,27,10,H,2.09,1.78,2016
+2017-01-02,Washington Commanders,New York Giants,10,19,A,1.26,4.09,2016
+2017-01-02,San Francisco 49ers,Seattle Seahawks,23,25,A,5.51,1.17,2016
+2017-01-02,Los Angeles Rams,Arizona Cardinals,6,44,A,3.51,1.32,2016
+2017-01-02,Los Angeles Chargers,Kansas City Chiefs,27,37,A,2.98,1.42,2016
+2017-01-02,Denver Broncos,Las Vegas Raiders,24,6,H,1.87,1.98,2016
+2017-01-02,Atlanta Falcons,New Orleans Saints,38,32,H,1.28,3.88,2016
+2017-01-02,Detroit Lions,Green Bay Packers,24,31,A,2.6,1.54,2016
+2017-01-08,Houston Texans,Las Vegas Raiders,27,14,H,1.48,2.75,2016
+2017-01-08,Seattle Seahawks,Detroit Lions,26,6,H,1.24,4.37,2016
+2017-01-09,Pittsburgh Steelers,Miami Dolphins,30,12,H,1.17,5.4,2016
+2017-01-09,Green Bay Packers,New York Giants,38,13,H,1.45,2.87,2016
+2017-01-15,Atlanta Falcons,Seattle Seahawks,36,20,H,1.36,3.29,2016
+2017-01-15,New England Patriots,Houston Texans,34,16,H,1.07,9.69,2016
+2017-01-16,Dallas Cowboys,Green Bay Packers,31,34,A,1.43,2.92,2016
+2017-01-16,Kansas City Chiefs,Pittsburgh Steelers,16,18,A,1.73,2.16,2016
+2017-01-23,Atlanta Falcons,Green Bay Packers,44,21,H,1.42,2.97,2016
+2017-01-23,New England Patriots,Pittsburgh Steelers,36,17,H,1.41,3.02,2016
+2017-01-30,NFC,AFC,13,20,A,1.55,2.54,2016
+2017-02-06,Atlanta Falcons,New England Patriots,28,34,A,2.25,1.69,2016
