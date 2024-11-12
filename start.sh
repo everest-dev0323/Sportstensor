@@ -1,0 +1,1 @@
+python neurons/miner.py -name miner --netuid 172 --subtensor.network test --wallet.name test-coldkey --wallet.hotkey test-hotkey --logging.debug --blacklist.validator_min_stake 0

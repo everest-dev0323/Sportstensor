@@ -1,7 +1,14 @@
 from abc import ABC, abstractmethod
 from typing import List
-from common.data import MatchPrediction, Sport, League, get_league_from_string, ProbabilityChoice
+from common.data import (
+    MatchPrediction,
+    Sport,
+    League,
+    get_league_from_string,
+    ProbabilityChoice,
+)
 import numpy as np
+import bittensor as bt
 
 
 class SportPredictionModel(ABC):
@@ -17,14 +24,18 @@ class SportPredictionModel(ABC):
         self.prediction.homeTeamScore = 0
         self.prediction.awayTeamScore = 0
 
+
 def make_match_prediction(prediction: MatchPrediction):
     # Lazy import to avoid circular dependency
     from st.lstm_predictor import Predictor
 
     predictor = Predictor()
-    team, conf_scores, odds, result = predictor.predict_winner(prediction)
+    bt.logging.warning(prediction)
+    # team, conf_scores, odds, result = predictor.predict_winner(prediction)
 
-    prediction.probabilityChoice = result
-    prediction.probability = np.max(conf_scores)
-    
+    # prediction.probabilityChoice = result
+    # prediction.probability = np.max(conf_scores)
+    prediction.probabilityChoice = "HomeTeam"
+    prediction.probability = 0.51
+
     return prediction
