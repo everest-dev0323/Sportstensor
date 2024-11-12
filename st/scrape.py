@@ -44,10 +44,7 @@ def scrape():
                 try:
                     page.goto(url)
                     total = []
-                    count = 0
                     while True:
-                        # page.wait_for_timeout(20000)
-                        print(count)
                         page.wait_for_load_state("domcontentloaded")
                         page.wait_for_selector("div.eventRow")
                         events = page.query_selector_all("div.eventRow")
@@ -106,7 +103,6 @@ def scrape():
                         )
                         if next_button and next_button.text_content() == "Next":
                             next_button.click()
-                            count += 1
                             page.wait_for_timeout(100)
                         else:
                             break
