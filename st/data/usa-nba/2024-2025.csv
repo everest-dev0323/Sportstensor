@@ -1,0 +1,226 @@
+Date,Season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2
+2024-10-04,2024,Denver Nuggets,Boston Celtics,103,107,A,1.96,1.84
+2024-10-05,2024,Los Angeles Lakers,Minnesota Timberwolves,107,124,A,2.41,1.56
+2024-10-06,2024,Los Angeles Clippers,Golden State Warriors,90,91,A,2.76,1.45
+2024-10-06,2024,Boston Celtics,Denver Nuggets,130,104,H,1.69,2.17
+2024-10-06,2024,Charlotte Hornets,New York Knicks,109,111,A,2.32,1.61
+2024-10-07,2024,Toronto Raptors,Washington Wizards,125,98,H,2.28,1.62
+2024-10-07,2024,Detroit Pistons,Milwaukee Bucks,120,87,H,1.61,2.33
+2024-10-07,2024,Los Angeles Lakers,Phoenix Suns,114,118,A,1.60,2.34
+2024-10-07,2024,New Orleans Pelicans,Orlando Magic,106,104,H,1.93,1.86
+2024-10-08,2024,San Antonio Spurs,Oklahoma City Thunder,107,112,A,2.46,1.53
+2024-10-08,2024,Dallas Mavericks,Memphis Grizzlies,116,121,A,3.42,1.31
+2024-10-08,2024,Utah Jazz,Houston Rockets,122,113,H,2.49,1.54
+2024-10-09,2024,Detroit Pistons,Phoenix Suns,97,105,A,1.63,2.28
+2024-10-09,2024,Cleveland Cavaliers,Chicago Bulls,112,116,A,1.53,2.49
+2024-10-09,2024,Charlotte Hornets,Miami Heat,111,108,H,1.77,2.04
+2024-10-09,2024,Atlanta Hawks,Indiana Pacers,131,130,H,2.01,1.81
+2024-10-09,2024,Los Angeles Clippers,Brooklyn Nets,115,106,H,1.45,2.76
+2024-10-10,2024,New York Knicks,Washington Wizards,117,94,H,1.25,3.92
+2024-10-10,2024,San Antonio Spurs,Orlando Magic,107,97,H,1.90,1.88
+2024-10-10,2024,Oklahoma City Thunder,Houston Rockets,113,122,A,1.39,3.02
+2024-10-10,2024,Sacramento Kings,Golden State Warriors,112,122,A,1.61,2.31
+2024-10-11,2024,Cleveland Cavaliers,Indiana Pacers,117,129,A,2.69,1.47
+2024-10-11,2024,Milwaukee Bucks,Los Angeles Lakers,102,107,A,1.52,2.56
+2024-10-11,2024,Memphis Grizzlies,Charlotte Hornets,94,119,A,1.53,2.49
+2024-10-11,2024,Dallas Mavericks,Utah Jazz,102,107,A,1.51,2.58
+2024-10-12,2024,Washington Wizards,Toronto Raptors,113,95,H,1.81,1.97
+2024-10-12,2024,Minnesota Timberwolves,Philadelphia 76ers,121,111,H,1.62,2.31
+2024-10-12,2024,Phoenix Suns,Detroit Pistons,91,109,A,1.57,2.41
+2024-10-12,2024,Golden State Warriors,Sacramento Kings,109,106,H,2.04,1.78
+2024-10-12,2024,Los Angeles Clippers,Portland Trail Blazers,101,99,H,1.54,2.50
+2024-10-13,2024,San Antonio Spurs,Utah Jazz,126,120,H,1.70,2.15
+2024-10-13,2024,Chicago Bulls,Memphis Grizzlies,121,124,A,1.72,2.12
+2024-10-13,2024,Boston Celtics,Philadelphia 76ers,139,89,H,1.31,3.49
+2024-10-13,2024,Miami Heat,New Orleans Pelicans,101,99,H,1.72,2.14
+2024-10-14,2024,Sacramento Kings,Portland Trail Blazers,85,105,A,1.44,2.79
+2024-10-14,2024,New York Knicks,Minnesota Timberwolves,115,110,H,1.62,2.30
+2024-10-14,2024,Boston Celtics,Toronto Raptors,115,111,H,1.95,1.84
+2024-10-14,2024,Golden State Warriors,Detroit Pistons,111,93,H,1.83,1.97
+2024-10-14,2024,Denver Nuggets,Phoenix Suns,114,118,A,1.39,2.95
+2024-10-15,2024,Indiana Pacers,Memphis Grizzlies,116,120,A,1.51,2.57
+2024-10-15,2024,Brooklyn Nets,Washington Wizards,131,92,H,1.63,2.27
+2024-10-15,2024,Atlanta Hawks,Philadelphia 76ers,89,104,A,1.78,2.04
+2024-10-15,2024,Milwaukee Bucks,Chicago Bulls,111,107,H,1.40,2.94
+2024-10-15,2024,Los Angeles Clippers,Dallas Mavericks,110,96,H,1.48,2.64
+2024-10-16,2024,Toronto Raptors,Boston Celtics,119,118,H,4.04,1.24
+2024-10-16,2024,New York Knicks,Charlotte Hornets,111,105,H,2.22,1.66
+2024-10-16,2024,Miami Heat,San Antonio Spurs,120,117,H,1.48,2.64
+2024-10-16,2024,Houston Rockets,New Orleans Pelicans,118,98,H,1.60,2.35
+2024-10-16,2024,Utah Jazz,Sacramento Kings,117,114,H,2.25,1.63
+2024-10-16,2024,Denver Nuggets,Oklahoma City Thunder,94,124,A,2.80,1.43
+2024-10-16,2024,Los Angeles Lakers,Golden State Warriors,97,111,A,2.17,1.70
+2024-10-17,2024,Philadelphia 76ers,Brooklyn Nets,117,95,H,1.99,1.83
+2024-10-17,2024,Detroit Pistons,Cleveland Cavaliers,108,92,H,2.61,1.49
+2024-10-17,2024,Miami Heat,Atlanta Hawks,120,111,H,2.51,1.53
+2024-10-17,2024,Chicago Bulls,Minnesota Timberwolves,125,123,H,2.62,1.49
+2024-10-18,2024,Indiana Pacers,Charlotte Hornets,121,116,H,1.44,2.77
+2024-10-18,2024,Dallas Mavericks,Milwaukee Bucks,109,84,H,1.43,2.83
+2024-10-18,2024,Oklahoma City Thunder,Atlanta Hawks,104,99,H,1.28,3.68
+2024-10-18,2024,Minnesota Timberwolves,Denver Nuggets,126,132,A,3.38,1.31
+2024-10-18,2024,Houston Rockets,San Antonio Spurs,129,107,H,1.26,3.74
+2024-10-18,2024,Phoenix Suns,Los Angeles Lakers,122,128,A,1.36,3.10
+2024-10-18,2024,Los Angeles Clippers,Sacramento Kings,113,91,H,1.85,1.94
+2024-10-19,2024,Washington Wizards,New York Knicks,118,117,H,4.93,1.17
+2024-10-19,2024,Orlando Magic,Philadelphia 76ers,114,99,H,1.32,3.36
+2024-10-19,2024,Brooklyn Nets,Toronto Raptors,112,116,A,1.78,2.03
+2024-10-19,2024,Memphis Grizzlies,Miami Heat,109,114,A,1.25,3.90
+2024-10-19,2024,Chicago Bulls,Cleveland Cavaliers,139,137,H,2.66,1.47
+2024-10-19,2024,Portland Trail Blazers,Utah Jazz,124,86,H,1.81,2.00
+2024-10-19,2024,Golden State Warriors,Los Angeles Lakers,132,74,H,1.23,4.14
+2024-10-23,2024,Boston Celtics,New York Knicks,132,109,H,1.39,3.01
+2024-10-23,2024,Los Angeles Lakers,Minnesota Timberwolves,110,103,H,1.99,1.83
+2024-10-24,2024,Detroit Pistons,Indiana Pacers,109,115,A,2.82,1.43
+2024-10-24,2024,Toronto Raptors,Cleveland Cavaliers,106,136,A,3.07,1.38
+2024-10-24,2024,Philadelphia 76ers,Milwaukee Bucks,109,124,A,2.52,1.54
+2024-10-24,2024,Miami Heat,Orlando Magic,97,116,A,1.75,2.12
+2024-10-24,2024,Atlanta Hawks,Brooklyn Nets,120,116,H,1.34,3.30
+2024-10-24,2024,New Orleans Pelicans,Chicago Bulls,123,111,H,1.49,2.66
+2024-10-24,2024,Houston Rockets,Charlotte Hornets,105,110,A,1.29,3.68
+2024-10-24,2024,Utah Jazz,Memphis Grizzlies,124,126,A,2.15,1.70
+2024-10-24,2024,Portland Trail Blazers,Golden State Warriors,104,140,A,3.34,1.33
+2024-10-24,2024,Los Angeles Clippers,Phoenix Suns,113,116,A,2.64,1.48
+2024-10-25,2024,Washington Wizards,Boston Celtics,102,122,A,7.78,1.09
+2024-10-25,2024,Dallas Mavericks,San Antonio Spurs,120,109,H,1.25,3.97
+2024-10-25,2024,Sacramento Kings,Minnesota Timberwolves,115,117,A,1.92,1.89
+2024-10-25,2024,Denver Nuggets,Oklahoma City Thunder,87,102,A,1.74,2.13
+2024-10-26,2024,Toronto Raptors,Philadelphia 76ers,115,107,H,2.78,1.45
+2024-10-26,2024,Orlando Magic,Brooklyn Nets,116,101,H,1.15,5.49
+2024-10-26,2024,New York Knicks,Indiana Pacers,123,98,H,1.49,2.63
+2024-10-26,2024,Cleveland Cavaliers,Detroit Pistons,113,101,H,1.17,5.13
+2024-10-26,2024,Atlanta Hawks,Charlotte Hornets,125,120,H,1.42,2.88
+2024-10-26,2024,Milwaukee Bucks,Chicago Bulls,122,133,A,1.23,4.22
+2024-10-26,2024,Houston Rockets,Memphis Grizzlies,128,108,H,1.58,2.42
+2024-10-26,2024,Utah Jazz,Golden State Warriors,86,127,A,3.11,1.37
+2024-10-26,2024,Portland Trail Blazers,New Orleans Pelicans,103,105,A,3.10,1.38
+2024-10-26,2024,Los Angeles Lakers,Phoenix Suns,123,116,H,1.82,2.01
+2024-10-26,2024,Denver Nuggets,Los Angeles Clippers,104,109,A,1.29,3.65
+2024-10-27,2024,Washington Wizards,Cleveland Cavaliers,116,135,A,4.45,1.21
+2024-10-27,2024,Detroit Pistons,Boston Celtics,118,124,A,7.05,1.10
+2024-10-27,2024,Charlotte Hornets,Miami Heat,106,114,A,2.99,1.40
+2024-10-27,2024,Minnesota Timberwolves,Toronto Raptors,112,101,H,-,-
+2024-10-27,2024,Memphis Grizzlies,Orlando Magic,124,111,H,-,-
+2024-10-27,2024,Chicago Bulls,Oklahoma City Thunder,95,114,A,-,-
+2024-10-27,2024,San Antonio Spurs,Houston Rockets,109,106,H,2.04,1.80
+2024-10-27,2024,Phoenix Suns,Dallas Mavericks,114,102,H,2.43,1.57
+2024-10-27,2024,Los Angeles Lakers,Sacramento Kings,131,127,H,1.85,1.96
+2024-10-27,2024,Indiana Pacers,Philadelphia 76ers,114,118,A,1.28,3.75
+2024-10-27,2024,Portland Trail Blazers,New Orleans Pelicans,125,103,H,3.03,1.39
+2024-10-27,2024,Brooklyn Nets,Milwaukee Bucks,115,102,H,3.90,1.26
+2024-10-28,2024,Oklahoma City Thunder,Atlanta Hawks,128,104,H,1.18,4.97
+2024-10-28,2024,Golden State Warriors,Los Angeles Clippers,104,112,A,1.23,4.17
+2024-10-29,2024,Orlando Magic,Indiana Pacers,119,115,H,1.46,2.74
+2024-10-29,2024,Toronto Raptors,Denver Nuggets,125,127,A,3.81,1.27
+2024-10-29,2024,New York Knicks,Cleveland Cavaliers,104,110,A,1.68,2.21
+2024-10-29,2024,Miami Heat,Detroit Pistons,106,98,H,1.26,3.85
+2024-10-29,2024,Boston Celtics,Milwaukee Bucks,119,108,H,1.24,4.08
+2024-10-29,2024,Atlanta Hawks,Washington Wizards,119,121,A,1.32,3.39
+2024-10-29,2024,San Antonio Spurs,Houston Rockets,101,106,A,2.20,1.69
+2024-10-29,2024,Memphis Grizzlies,Chicago Bulls,123,126,A,1.47,2.72
+2024-10-29,2024,Dallas Mavericks,Utah Jazz,110,102,H,1.14,5.93
+2024-10-29,2024,Sacramento Kings,Portland Trail Blazers,111,98,H,1.12,6.44
+2024-10-29,2024,Phoenix Suns,Los Angeles Lakers,109,105,H,1.52,2.57
+2024-10-30,2024,Minnesota Timberwolves,Dallas Mavericks,114,120,A,1.54,2.51
+2024-10-30,2024,Brooklyn Nets,Denver Nuggets,139,144,A,2.77,1.45
+2024-10-30,2024,Utah Jazz,Sacramento Kings,96,113,A,3.12,1.37
+2024-10-30,2024,Golden State Warriors,New Orleans Pelicans,124,106,H,2.14,1.73
+2024-10-31,2024,Washington Wizards,Atlanta Hawks,133,120,H,2.70,1.48
+2024-10-31,2024,Philadelphia 76ers,Detroit Pistons,95,105,A,1.55,2.49
+2024-10-31,2024,Indiana Pacers,Boston Celtics,135,132,H,3.22,1.35
+2024-10-31,2024,Cleveland Cavaliers,Los Angeles Lakers,134,110,H,1.57,2.45
+2024-10-31,2024,Charlotte Hornets,Toronto Raptors,138,133,H,1.38,3.07
+2024-10-31,2024,Miami Heat,New York Knicks,107,116,A,2.05,1.79
+2024-10-31,2024,Memphis Grizzlies,Brooklyn Nets,106,119,A,1.14,5.93
+2024-10-31,2024,Chicago Bulls,Orlando Magic,102,99,H,2.85,1.43
+2024-10-31,2024,Oklahoma City Thunder,San Antonio Spurs,105,93,H,1.12,6.32
+2024-10-31,2024,Golden State Warriors,New Orleans Pelicans,104,89,H,1.61,2.35
+2024-10-31,2024,Los Angeles Clippers,Portland Trail Blazers,105,106,A,1.29,3.66
+2024-11-01,2024,Memphis Grizzlies,Milwaukee Bucks,122,99,H,3.02,1.39
+2024-11-01,2024,Dallas Mavericks,Houston Rockets,102,108,A,1.36,3.15
+2024-11-01,2024,Utah Jazz,San Antonio Spurs,88,106,A,2.16,1.71
+2024-11-01,2024,Los Angeles Clippers,Phoenix Suns,119,125,A,2.52,1.54
+2024-11-02,2024,Detroit Pistons,New York Knicks,98,128,A,3.13,1.37
+2024-11-02,2024,Cleveland Cavaliers,Orlando Magic,120,109,H,1.32,3.42
+2024-11-02,2024,Charlotte Hornets,Boston Celtics,109,124,A,4.86,1.19
+2024-11-02,2024,Toronto Raptors,Los Angeles Lakers,125,131,A,4.10,1.24
+2024-11-02,2024,Brooklyn Nets,Chicago Bulls,120,112,H,1.83,1.99
+2024-11-02,2024,Atlanta Hawks,Sacramento Kings,115,123,A,2.95,1.41
+2024-11-02,2024,New Orleans Pelicans,Indiana Pacers,125,118,H,2.56,1.53
+2024-11-02,2024,Minnesota Timberwolves,Denver Nuggets,119,116,H,1.59,2.39
+2024-11-02,2024,Portland Trail Blazers,Oklahoma City Thunder,114,137,A,5.46,1.16
+2024-11-02,2024,Charlotte Hornets,Boston Celtics,103,113,A,4.97,1.17
+2024-11-03,2024,Toronto Raptors,Sacramento Kings,131,128,H,4.16,1.24
+2024-11-03,2024,Philadelphia 76ers,Memphis Grizzlies,107,124,A,1.92,1.90
+2024-11-03,2024,San Antonio Spurs,Minnesota Timberwolves,113,103,H,2.42,1.58
+2024-11-03,2024,Milwaukee Bucks,Cleveland Cavaliers,113,114,A,1.75,2.10
+2024-11-03,2024,Houston Rockets,Golden State Warriors,121,127,A,1.51,2.61
+2024-11-03,2024,Washington Wizards,Miami Heat,98,118,A,4.48,1.21
+2024-11-03,2024,Phoenix Suns,Portland Trail Blazers,103,97,H,1.10,6.95
+2024-11-03,2024,Denver Nuggets,Utah Jazz,129,103,H,1.16,5.26
+2024-11-03,2024,Los Angeles Clippers,Oklahoma City Thunder,92,105,A,2.84,1.44
+2024-11-03,2024,Brooklyn Nets,Detroit Pistons,92,106,A,1.63,2.31
+2024-11-04,2024,New Orleans Pelicans,Atlanta Hawks,111,126,A,1.96,1.84
+2024-11-04,2024,Dallas Mavericks,Orlando Magic,108,85,H,1.35,3.25
+2024-11-05,2024,Cleveland Cavaliers,Milwaukee Bucks,116,114,H,1.26,3.79
+2024-11-05,2024,Washington Wizards,Golden State Warriors,112,125,A,5.11,1.17
+2024-11-05,2024,Detroit Pistons,Los Angeles Lakers,115,103,H,3.29,1.34
+2024-11-05,2024,Atlanta Hawks,Boston Celtics,93,123,A,4.74,1.19
+2024-11-05,2024,Brooklyn Nets,Memphis Grizzlies,106,104,H,2.52,1.54
+2024-11-05,2024,Miami Heat,Sacramento Kings,110,111,A,1.81,2.03
+2024-11-05,2024,Chicago Bulls,Utah Jazz,126,135,A,1.31,3.44
+2024-11-05,2024,Houston Rockets,New York Knicks,109,97,H,2.08,1.76
+2024-11-05,2024,Minnesota Timberwolves,Charlotte Hornets,114,93,H,1.18,5.03
+2024-11-05,2024,Oklahoma City Thunder,Orlando Magic,102,86,H,1.11,6.69
+2024-11-05,2024,New Orleans Pelicans,Portland Trail Blazers,100,118,A,1.88,1.93
+2024-11-05,2024,Dallas Mavericks,Indiana Pacers,127,134,A,1.51,2.59
+2024-11-05,2024,Denver Nuggets,Toronto Raptors,121,119,H,1.17,4.98
+2024-11-05,2024,Minnesota Timberwolves,Charlotte Hornets,114,93,H,1.18,5.03
+2024-11-05,2024,Oklahoma City Thunder,Orlando Magic,102,86,H,1.11,6.69
+2024-11-05,2024,New Orleans Pelicans,Portland Trail Blazers,100,118,A,1.88,1.93
+2024-11-05,2024,Dallas Mavericks,Indiana Pacers,127,134,A,1.51,2.59
+2024-11-05,2024,Denver Nuggets,Toronto Raptors,121,119,H,1.17,4.98
+2024-11-05,2024,Phoenix Suns,Philadelphia 76ers,118,116,H,1.31,3.54
+2024-11-05,2024,Los Angeles Clippers,San Antonio Spurs,113,104,H,1.55,2.49
+2024-11-07,2024,Indiana Pacers,Orlando Magic,118,111,H,1.44,2.85
+2024-11-07,2024,Charlotte Hornets,Detroit Pistons,108,107,H,1.95,1.86
+2024-11-07,2024,Boston Celtics,Golden State Warriors,112,118,A,1.36,3.16
+2024-11-07,2024,Atlanta Hawks,New York Knicks,121,116,H,3.27,1.34
+2024-11-07,2024,New Orleans Pelicans,Cleveland Cavaliers,122,131,A,3.13,1.37
+2024-11-07,2024,Memphis Grizzlies,Los Angeles Lakers,131,114,H,1.56,2.47
+2024-11-07,2024,Houston Rockets,San Antonio Spurs,127,100,H,1.35,3.20
+2024-11-07,2024,Dallas Mavericks,Chicago Bulls,119,99,H,1.19,4.73
+2024-11-07,2024,Phoenix Suns,Miami Heat,115,112,H,1.48,2.70
+2024-11-07,2024,Denver Nuggets,Oklahoma City Thunder,124,122,H,3.26,1.35
+2024-11-07,2024,Sacramento Kings,Toronto Raptors,122,107,H,1.15,5.61
+2024-11-07,2024,Los Angeles Clippers,Philadelphia 76ers,110,98,H,1.82,2.00
+2024-11-08,2024,San Antonio Spurs,Portland Trail Blazers,118,105,H,1.57,2.44
+2024-11-08,2024,Milwaukee Bucks,Utah Jazz,123,100,H,1.21,4.47
+2024-11-08,2024,Chicago Bulls,Minnesota Timberwolves,119,135,A,4.18,1.24
+2024-11-09,2024,Orlando Magic,New Orleans Pelicans,115,88,H,1.28,3.73
+2024-11-09,2024,Detroit Pistons,Atlanta Hawks,122,121,H,1.76,2.10
+2024-11-09,2024,Charlotte Hornets,Indiana Pacers,103,83,H,3.19,1.36
+2024-11-09,2024,New York Knicks,Milwaukee Bucks,116,94,H,1.39,3.04
+2024-11-09,2024,Dallas Mavericks,Phoenix Suns,113,114,A,1.69,2.21
+2024-11-09,2024,Cleveland Cavaliers,Golden State Warriors,136,117,H,1.61,2.37
+2024-11-09,2024,Boston Celtics,Brooklyn Nets,108,104,H,1.10,6.82
+2024-11-09,2024,Oklahoma City Thunder,Houston Rockets,126,107,H,1.29,3.66
+2024-11-09,2024,Memphis Grizzlies,Washington Wizards,128,104,H,1.32,3.39
+2024-11-09,2024,Minnesota Timberwolves,Portland Trail Blazers,127,102,H,1.13,6.14
+2024-11-09,2024,Denver Nuggets,Miami Heat,135,122,H,1.65,2.25
+2024-11-09,2024,Sacramento Kings,Los Angeles Clippers,98,107,A,1.39,3.03
+2024-11-09,2024,Los Angeles Lakers,Philadelphia 76ers,116,106,H,1.30,3.55
+2024-11-09,2024,San Antonio Spurs,Utah Jazz,110,111,A,1.38,3.11
+2024-11-10,2024,Cleveland Cavaliers,Brooklyn Nets,105,100,H,1.11,6.63
+2024-11-10,2024,Atlanta Hawks,Chicago Bulls,113,125,A,1.71,2.17
+2024-11-10,2024,Los Angeles Clippers,Toronto Raptors,105,103,H,1.38,3.06
+2024-11-10,2024,Detroit Pistons,Houston Rockets,99,101,A,2.48,1.55
+2024-11-10,2024,Milwaukee Bucks,Boston Celtics,107,113,A,2.63,1.50
+2024-11-10,2024,Indiana Pacers,New York Knicks,132,121,H,2.32,1.63
+2024-11-11,2024,Orlando Magic,Washington Wizards,121,94,H,1.16,5.44
+2024-11-11,2024,Philadelphia 76ers,Charlotte Hornets,107,105,H,1.50,2.62
+2024-11-11,2024,Oklahoma City Thunder,Golden State Warriors,116,127,A,1.38,3.08
+2024-11-11,2024,Minnesota Timberwolves,Miami Heat,94,95,A,1.34,3.30
+2024-11-11,2024,Phoenix Suns,Sacramento Kings,118,127,A,1.95,1.85
+2024-11-11,2024,Denver Nuggets,Dallas Mavericks,122,120,H,1.76,2.08
+2024-11-11,2024,Portland Trail Blazers,Memphis Grizzlies,89,134,A,1.94,1.87
+2024-11-11,2024,Los Angeles Lakers,Toronto Raptors,123,103,H,1.17,5.09

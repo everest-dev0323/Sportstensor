@@ -143,11 +143,7 @@ def scrape():
                             break
 
                     # Save results to CSV
-                    directory = f"data/{league_type}/{region}-{league}"
-                    if league == "jupiler-league":
-                        directory = f"data/{league_type}/{region}-jupiler-pro-league"
-                    if league == "primeira-liga":
-                        directory = f"data/{league_type}/{region}-liga-portugal"
+                    directory = f"data/{region}-{league}"
                     os.makedirs(directory, exist_ok=True)
                     file_path = f"{directory}/{year}-{year + 1}.csv"
                     with open(
