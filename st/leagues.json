@@ -6,16 +6,16 @@
         "folder_name": "usa-mls",
         "model_name": "usa_mls",
         "can_draw": true,
-        "is_active": false
+        "is_active": true
     },
     {
         "league_name": "MLB",
         "sport": "BASEBALL",
         "sport_type": 3,
-        "folder_name": "baseball",
-        "model_name": "baseball",
+        "folder_name": "usa-mlb",
+        "model_name": "usa_mlb",
         "can_draw": false,
-        "is_active": false
+        "is_active": true
     },
     {
         "league_name": "English Premier League",
@@ -24,14 +24,14 @@
         "folder_name": "england-premier-league",
         "model_name": "england_premier_league",
         "can_draw": true,
-        "is_active": false
+        "is_active": true
     },
     {
         "league_name": "NFL",
         "sport": "FOOTBALL",
         "sport_type": 2,
-        "folder_name": "american-football",
-        "model_name": "american_football",
+        "folder_name": "usa-nfl",
+        "model_name": "usa_nfl",
         "can_draw": false,
         "is_active": true
     },
@@ -39,9 +39,9 @@
         "league_name": "NBA",
         "sport": "BASKETBALL",
         "sport_type": 4,
-        "folder_name": "basketball",
-        "model_name": "basketball",
+        "folder_name": "usa-nba",
+        "model_name": "usa_nba",
         "can_draw": false,
-        "is_active": false
+        "is_active": true
     }
 ]

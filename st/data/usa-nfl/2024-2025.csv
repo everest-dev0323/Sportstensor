@@ -1,0 +1,202 @@
+Date,Season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,ODDS1,ODDS2
+2024-08-02,2024,Chicago Bears,Houston Texans,21,17,H,2.24,1.64
+2024-08-09,2024,New York Giants,Detroit Lions,14,3,H,1.56,2.54
+2024-08-09,2024,New England Patriots,Carolina Panthers,17,3,H,1.33,3.35
+2024-08-10,2024,Pittsburgh Steelers,Houston Texans,12,20,A,2.44,1.58
+2024-08-10,2024,Miami Dolphins,Atlanta Falcons,20,13,H,2.34,1.62
+2024-08-10,2024,Baltimore Ravens,Philadelphia Eagles,13,16,A,1.98,1.84
+2024-08-10,2024,New York Jets,Washington Commanders,20,17,H,2.34,1.62
+2024-08-10,2024,Buffalo Bills,Chicago Bears,6,33,A,-,-
+2024-08-10,2024,Minnesota Vikings,Las Vegas Raiders,24,23,H,2.42,1.58
+2024-08-10,2024,Cleveland Browns,Green Bay Packers,10,23,A,1.46,2.80
+2024-08-11,2024,Tennessee Titans,San Francisco 49ers,17,13,H,1.41,3.05
+2024-08-11,2024,Jacksonville Jaguars,Kansas City Chiefs,26,13,H,1.68,2.22
+2024-08-11,2024,Cincinnati Bengals,Tampa Bay Buccaneers,14,17,A,1.42,2.92
+2024-08-11,2024,Los Angeles Chargers,Seattle Seahawks,3,16,A,2.52,1.54
+2024-08-11,2024,Arizona Cardinals,New Orleans Saints,14,16,A,2.22,1.68
+2024-08-11,2024,Indianapolis Colts,Denver Broncos,30,34,A,1.78,2.08
+2024-08-11,2024,Los Angeles Rams,Dallas Cowboys,13,12,H,2.96,1.42
+2024-08-16,2024,New England Patriots,Philadelphia Eagles,13,14,A,1.62,2.38
+2024-08-17,2024,Baltimore Ravens,Atlanta Falcons,13,12,H,1.72,2.16
+2024-08-17,2024,Houston Texans,New York Giants,28,10,H,1.78,2.08
+2024-08-17,2024,Chicago Bears,Cincinnati Bengals,27,3,H,1.31,3.50
+2024-08-17,2024,Kansas City Chiefs,Detroit Lions,23,24,A,1.21,4.45
+2024-08-17,2024,Cleveland Browns,Minnesota Vikings,12,27,A,1.64,2.28
+2024-08-18,2024,Tennessee Titans,Seattle Seahawks,16,15,H,2.08,1.78
+2024-08-18,2024,Pittsburgh Steelers,Buffalo Bills,3,9,A,1.60,2.38
+2024-08-18,2024,Miami Dolphins,Washington Commanders,13,6,H,1.40,2.98
+2024-08-18,2024,Indianapolis Colts,Arizona Cardinals,21,13,H,2.12,1.76
+2024-08-18,2024,Carolina Panthers,New York Jets,12,15,A,1.74,2.16
+2024-08-18,2024,Los Angeles Chargers,Los Angeles Rams,9,13,A,1.52,2.56
+2024-08-18,2024,Jacksonville Jaguars,Tampa Bay Buccaneers,20,7,H,1.52,2.56
+2024-08-18,2024,Las Vegas Raiders,Dallas Cowboys,12,27,A,1.29,3.65
+2024-08-19,2024,San Francisco 49ers,New Orleans Saints,16,10,H,1.98,1.84
+2024-08-19,2024,Denver Broncos,Green Bay Packers,27,2,H,1.33,3.40
+2024-08-23,2024,Cincinnati Bengals,Indianapolis Colts,14,27,A,3.38,1.34
+2024-08-23,2024,Kansas City Chiefs,Chicago Bears,21,34,A,2.20,1.64
+2024-08-24,2024,Atlanta Falcons,Jacksonville Jaguars,0,31,A,3.63,1.30
+2024-08-24,2024,Tampa Bay Buccaneers,Miami Dolphins,24,14,H,1.57,2.48
+2024-08-24,2024,Las Vegas Raiders,San Francisco 49ers,24,24,D,4.13,1.25
+2024-08-24,2024,Philadelphia Eagles,Minnesota Vikings,3,26,A,1.69,2.25
+2024-08-24,2024,Houston Texans,Los Angeles Rams,17,15,H,1.52,2.60
+2024-08-24,2024,Green Bay Packers,Baltimore Ravens,30,7,H,1.66,2.28
+2024-08-24,2024,Detroit Lions,Pittsburgh Steelers,24,17,H,3.48,1.32
+2024-08-24,2024,Buffalo Bills,Carolina Panthers,26,31,A,2.86,1.45
+2024-08-24,2024,Dallas Cowboys,Los Angeles Chargers,19,26,A,1.54,2.57
+2024-08-25,2024,New York Jets,New York Giants,10,6,H,2.34,1.62
+2024-08-25,2024,Seattle Seahawks,Cleveland Browns,37,33,H,1.47,2.76
+2024-08-25,2024,New Orleans Saints,Tennessee Titans,27,30,A,3.03,1.40
+2024-08-25,2024,Denver Broncos,Arizona Cardinals,38,12,H,1.63,2.39
+2024-08-26,2024,Washington Commanders,New England Patriots,20,10,H,3.53,1.33
+2024-09-06,2024,Kansas City Chiefs,Baltimore Ravens,27,20,H,1.66,2.27
+2024-09-07,2024,Philadelphia Eagles,Green Bay Packers,34,29,H,1.81,2.05
+2024-09-08,2024,New York Giants,Minnesota Vikings,6,28,A,1.95,1.90
+2024-09-08,2024,New Orleans Saints,Carolina Panthers,47,10,H,1.53,2.60
+2024-09-08,2024,Miami Dolphins,Jacksonville Jaguars,20,17,H,1.53,2.57
+2024-09-08,2024,Indianapolis Colts,Houston Texans,27,29,A,2.35,1.62
+2024-09-08,2024,Cincinnati Bengals,New England Patriots,10,16,A,1.25,4.15
+2024-09-08,2024,Chicago Bears,Tennessee Titans,24,17,H,1.49,2.69
+2024-09-08,2024,Buffalo Bills,Arizona Cardinals,34,28,H,1.32,3.48
+2024-09-08,2024,Atlanta Falcons,Pittsburgh Steelers,10,18,A,1.50,2.66
+2024-09-08,2024,Seattle Seahawks,Denver Broncos,26,20,H,1.35,3.34
+2024-09-08,2024,Los Angeles Chargers,Las Vegas Raiders,22,10,H,1.65,2.30
+2024-09-08,2024,Tampa Bay Buccaneers,Washington Commanders,37,20,H,1.50,2.68
+2024-09-08,2024,Cleveland Browns,Dallas Cowboys,17,33,A,1.78,2.09
+2024-09-09,2024,Detroit Lions,Los Angeles Rams,26,20,H,1.43,2.93
+2024-09-10,2024,San Francisco 49ers,New York Jets,32,19,H,1.54,2.54
+2024-09-13,2024,Miami Dolphins,Buffalo Bills,10,31,A,1.70,2.20
+2024-09-15,2024,Washington Commanders,New York Giants,21,18,H,1.81,2.06
+2024-09-15,2024,Tennessee Titans,New York Jets,17,24,A,2.59,1.52
+2024-09-15,2024,New England Patriots,Seattle Seahawks,20,23,A,2.42,1.59
+2024-09-15,2024,Minnesota Vikings,San Francisco 49ers,23,17,H,2.76,1.47
+2024-09-15,2024,Jacksonville Jaguars,Cleveland Browns,13,18,A,1.60,2.40
+2024-09-15,2024,Green Bay Packers,Indianapolis Colts,16,10,H,2.16,1.73
+2024-09-15,2024,Detroit Lions,Tampa Bay Buccaneers,16,20,A,1.27,3.95
+2024-09-15,2024,Dallas Cowboys,New Orleans Saints,19,44,A,1.34,3.38
+2024-09-15,2024,Carolina Panthers,Los Angeles Chargers,3,26,A,2.85,1.44
+2024-09-15,2024,Baltimore Ravens,Las Vegas Raiders,23,26,A,1.22,4.45
+2024-09-15,2024,Arizona Cardinals,Los Angeles Rams,41,10,H,1.94,1.89
+2024-09-15,2024,Kansas City Chiefs,Cincinnati Bengals,26,25,H,1.34,3.40
+2024-09-15,2024,Denver Broncos,Pittsburgh Steelers,6,13,A,2.26,1.67
+2024-09-16,2024,Houston Texans,Chicago Bears,19,13,H,1.34,3.34
+2024-09-17,2024,Philadelphia Eagles,Atlanta Falcons,21,22,A,1.41,3.01
+2024-09-20,2024,New York Jets,New England Patriots,24,3,H,1.33,3.41
+2024-09-22,2024,Tennessee Titans,Green Bay Packers,14,30,A,1.64,2.33
+2024-09-22,2024,Tampa Bay Buccaneers,Denver Broncos,7,26,A,1.39,3.11
+2024-09-22,2024,Pittsburgh Steelers,Los Angeles Chargers,20,10,H,1.70,2.21
+2024-09-22,2024,New Orleans Saints,Philadelphia Eagles,12,15,A,1.72,2.17
+2024-09-22,2024,Minnesota Vikings,Houston Texans,34,7,H,2.07,1.79
+2024-09-22,2024,Indianapolis Colts,Chicago Bears,21,16,H,1.79,2.08
+2024-09-22,2024,Cleveland Browns,New York Giants,15,21,A,1.34,3.38
+2024-09-22,2024,Seattle Seahawks,Miami Dolphins,24,3,H,1.48,2.73
+2024-09-22,2024,Las Vegas Raiders,Carolina Panthers,22,36,A,1.39,3.06
+2024-09-22,2024,Los Angeles Rams,San Francisco 49ers,27,24,H,3.16,1.37
+2024-09-22,2024,Dallas Cowboys,Baltimore Ravens,25,28,A,2.03,1.82
+2024-09-22,2024,Arizona Cardinals,Detroit Lions,13,20,A,2.29,1.65
+2024-09-23,2024,Atlanta Falcons,Kansas City Chiefs,17,22,A,2.47,1.57
+2024-09-24,2024,Buffalo Bills,Jacksonville Jaguars,47,10,H,1.44,2.85
+2024-09-24,2024,Cincinnati Bengals,Washington Commanders,33,38,A,1.29,3.75
+2024-09-27,2024,New York Giants,Dallas Cowboys,15,20,A,3.04,1.40
+2024-09-29,2024,Tampa Bay Buccaneers,Philadelphia Eagles,33,16,H,1.97,1.86
+2024-09-29,2024,New York Jets,Denver Broncos,9,10,A,1.25,4.11
+2024-09-29,2024,Indianapolis Colts,Pittsburgh Steelers,27,24,H,2.18,1.71
+2024-09-29,2024,Houston Texans,Jacksonville Jaguars,24,20,H,1.41,3.00
+2024-09-29,2024,Green Bay Packers,Minnesota Vikings,29,31,A,1.71,2.18
+2024-09-29,2024,Chicago Bears,Los Angeles Rams,24,18,H,1.58,2.45
+2024-09-29,2024,Carolina Panthers,Cincinnati Bengals,24,34,A,2.91,1.42
+2024-09-29,2024,Atlanta Falcons,New Orleans Saints,26,24,H,1.67,2.25
+2024-09-29,2024,San Francisco 49ers,New England Patriots,30,13,H,1.17,5.28
+2024-09-29,2024,Arizona Cardinals,Washington Commanders,14,42,A,1.56,2.50
+2024-09-29,2024,Los Angeles Chargers,Kansas City Chiefs,10,17,A,3.65,1.30
+2024-09-29,2024,Las Vegas Raiders,Cleveland Browns,20,16,H,2.23,1.67
+2024-09-30,2024,Baltimore Ravens,Buffalo Bills,35,10,H,1.67,2.25
+2024-10-01,2024,Miami Dolphins,Tennessee Titans,12,31,A,1.64,2.29
+2024-10-01,2024,Detroit Lions,Seattle Seahawks,42,29,H,1.45,2.83
+2024-10-04,2024,Atlanta Falcons,Tampa Bay Buccaneers,36,30,H,1.71,2.18
+2024-10-06,2024,Minnesota Vikings,New York Jets,23,17,H,1.73,2.15
+2024-10-06,2024,Washington Commanders,Cleveland Browns,34,13,H,1.63,2.34
+2024-10-06,2024,New England Patriots,Miami Dolphins,10,15,A,2.08,1.78
+2024-10-06,2024,Jacksonville Jaguars,Indianapolis Colts,37,34,H,1.52,2.60
+2024-10-06,2024,Houston Texans,Buffalo Bills,23,20,H,1.83,2.01
+2024-10-06,2024,Cincinnati Bengals,Baltimore Ravens,38,41,A,2.20,1.70
+2024-10-06,2024,Chicago Bears,Carolina Panthers,36,10,H,1.50,2.64
+2024-10-06,2024,San Francisco 49ers,Arizona Cardinals,23,24,A,1.29,3.75
+2024-10-06,2024,Denver Broncos,Las Vegas Raiders,34,18,H,1.61,2.36
+2024-10-06,2024,Seattle Seahawks,New York Giants,20,29,A,1.31,3.54
+2024-10-06,2024,Los Angeles Rams,Green Bay Packers,19,24,A,2.31,1.63
+2024-10-07,2024,Pittsburgh Steelers,Dallas Cowboys,17,20,A,1.70,2.19
+2024-10-08,2024,Kansas City Chiefs,New Orleans Saints,26,13,H,1.43,2.93
+2024-10-11,2024,Seattle Seahawks,San Francisco 49ers,24,36,A,2.65,1.50
+2024-10-13,2024,Chicago Bears,Jacksonville Jaguars,35,16,H,2.02,1.82
+2024-10-13,2024,Tennessee Titans,Indianapolis Colts,17,20,A,1.72,2.16
+2024-10-13,2024,Philadelphia Eagles,Cleveland Browns,20,16,H,1.24,4.18
+2024-10-13,2024,New Orleans Saints,Tampa Bay Buccaneers,27,51,A,2.50,1.55
+2024-10-13,2024,New England Patriots,Houston Texans,21,41,A,3.36,1.33
+2024-10-13,2024,Green Bay Packers,Arizona Cardinals,34,13,H,1.39,3.02
+2024-10-13,2024,Baltimore Ravens,Washington Commanders,30,23,H,1.31,3.51
+2024-10-13,2024,Las Vegas Raiders,Pittsburgh Steelers,13,32,A,2.55,1.53
+2024-10-13,2024,Denver Broncos,Los Angeles Chargers,16,23,A,2.29,1.64
+2024-10-13,2024,Dallas Cowboys,Detroit Lions,9,47,A,2.61,1.51
+2024-10-13,2024,Carolina Panthers,Atlanta Falcons,20,38,A,3.16,1.37
+2024-10-14,2024,New York Giants,Cincinnati Bengals,7,17,A,2.82,1.45
+2024-10-15,2024,New York Jets,Buffalo Bills,20,23,A,1.97,1.85
+2024-10-18,2024,New Orleans Saints,Denver Broncos,10,33,A,2.23,1.67
+2024-10-20,2024,Jacksonville Jaguars,New England Patriots,32,16,H,1.30,3.60
+2024-10-20,2024,New York Giants,Philadelphia Eagles,3,28,A,2.41,1.59
+2024-10-20,2024,Minnesota Vikings,Detroit Lions,29,31,A,1.81,2.03
+2024-10-20,2024,Indianapolis Colts,Miami Dolphins,16,10,H,1.65,2.26
+2024-10-20,2024,Green Bay Packers,Houston Texans,24,22,H,1.56,2.45
+2024-10-20,2024,Cleveland Browns,Cincinnati Bengals,14,21,A,2.98,1.40
+2024-10-20,2024,Buffalo Bills,Tennessee Titans,34,10,H,1.19,4.79
+2024-10-20,2024,Atlanta Falcons,Seattle Seahawks,14,34,A,1.61,2.36
+2024-10-20,2024,Washington Commanders,Carolina Panthers,40,7,H,1.18,4.96
+2024-10-20,2024,Los Angeles Rams,Las Vegas Raiders,20,15,H,1.26,3.81
+2024-10-20,2024,San Francisco 49ers,Kansas City Chiefs,18,28,A,1.69,2.20
+2024-10-21,2024,Pittsburgh Steelers,New York Jets,37,15,H,2.30,1.64
+2024-10-22,2024,Tampa Bay Buccaneers,Baltimore Ravens,31,41,A,2.81,1.45
+2024-10-22,2024,Arizona Cardinals,Los Angeles Chargers,17,15,H,1.97,1.84
+2024-10-25,2024,Los Angeles Rams,Minnesota Vikings,30,20,H,2.23,1.67
+2024-10-27,2024,Tampa Bay Buccaneers,Atlanta Falcons,26,31,A,2.05,1.79
+2024-10-27,2024,New England Patriots,New York Jets,25,22,H,3.64,1.29
+2024-10-27,2024,Miami Dolphins,Arizona Cardinals,27,28,A,1.45,2.81
+2024-10-27,2024,Jacksonville Jaguars,Green Bay Packers,27,30,A,2.53,1.54
+2024-10-27,2024,Houston Texans,Indianapolis Colts,23,20,H,1.40,2.95
+2024-10-27,2024,Detroit Lions,Tennessee Titans,52,14,H,1.13,6.15
+2024-10-27,2024,Cleveland Browns,Baltimore Ravens,29,24,H,3.82,1.27
+2024-10-27,2024,Cincinnati Bengals,Philadelphia Eagles,17,37,A,1.65,2.26
+2024-10-27,2024,Seattle Seahawks,Buffalo Bills,10,31,A,2.37,1.60
+2024-10-27,2024,Los Angeles Chargers,New Orleans Saints,26,8,H,1.27,3.81
+2024-10-27,2024,Washington Commanders,Chicago Bears,18,15,H,1.80,2.03
+2024-10-27,2024,Las Vegas Raiders,Kansas City Chiefs,20,27,A,4.43,1.21
+2024-10-27,2024,Denver Broncos,Carolina Panthers,28,14,H,1.11,6.70
+2024-10-28,2024,San Francisco 49ers,Dallas Cowboys,30,24,H,1.38,3.07
+2024-10-29,2024,Pittsburgh Steelers,New York Giants,26,18,H,1.35,3.23
+2024-11-01,2024,New York Jets,Houston Texans,21,13,H,1.67,2.25
+2024-11-03,2024,Tennessee Titans,New England Patriots,20,17,H,1.56,2.45
+2024-11-03,2024,New York Giants,Washington Commanders,22,27,A,2.74,1.46
+2024-11-03,2024,Cleveland Browns,Los Angeles Chargers,10,27,A,2.09,1.77
+2024-11-03,2024,Cincinnati Bengals,Las Vegas Raiders,41,24,H,1.25,4.03
+2024-11-03,2024,Carolina Panthers,New Orleans Saints,23,22,H,3.74,1.28
+2024-11-03,2024,Buffalo Bills,Miami Dolphins,30,27,H,1.35,3.26
+2024-11-03,2024,Baltimore Ravens,Denver Broncos,41,10,H,1.22,4.46
+2024-11-03,2024,Atlanta Falcons,Dallas Cowboys,27,21,H,1.57,2.43
+2024-11-03,2024,Philadelphia Eagles,Jacksonville Jaguars,28,23,H,1.27,3.76
+2024-11-03,2024,Arizona Cardinals,Chicago Bears,29,9,H,1.80,2.05
+2024-11-03,2024,Seattle Seahawks,Los Angeles Rams,20,26,A,2.06,1.78
+2024-11-03,2024,Green Bay Packers,Detroit Lions,14,24,A,2.19,1.70
+2024-11-04,2024,Minnesota Vikings,Indianapolis Colts,21,13,H,1.36,3.21
+2024-11-05,2024,Kansas City Chiefs,Tampa Bay Buccaneers,30,24,H,1.23,4.29
+2024-11-08,2024,Baltimore Ravens,Cincinnati Bengals,35,34,H,1.36,3.23
+2024-11-10,2024,Carolina Panthers,New York Giants,20,17,H,3.41,1.32
+2024-11-10,2024,Washington Commanders,Pittsburgh Steelers,27,28,A,1.79,2.07
+2024-11-10,2024,Tampa Bay Buccaneers,San Francisco 49ers,20,23,A,3.34,1.34
+2024-11-10,2024,New Orleans Saints,Atlanta Falcons,20,17,H,2.62,1.50
+2024-11-10,2024,Kansas City Chiefs,Denver Broncos,16,14,H,1.27,3.82
+2024-11-10,2024,Jacksonville Jaguars,Minnesota Vikings,7,12,A,3.66,1.29
+2024-11-10,2024,Indianapolis Colts,Buffalo Bills,20,30,A,2.85,1.44
+2024-11-10,2024,Chicago Bears,New England Patriots,3,19,A,1.33,3.36
+2024-11-10,2024,Los Angeles Chargers,Tennessee Titans,27,17,H,1.23,4.28
+2024-11-10,2024,Dallas Cowboys,Philadelphia Eagles,6,34,A,3.76,1.27
+2024-11-10,2024,Arizona Cardinals,New York Jets,31,6,H,2.10,1.76
+2024-11-11,2024,Houston Texans,Detroit Lions,23,26,A,2.84,1.44
+2024-11-12,2024,2Q 14',Los Angeles Rams,3,10,A,Miami Dolphins,1.72

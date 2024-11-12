@@ -21,11 +21,36 @@ def format_date(date_str):
 def scrape():
     with sync_playwright() as p:
         leagues = [
-            {"type": "football", "region": "england", "league": "premier-league"},
-            {"type": "football", "region": "usa", "league": "mls"},
-            {"type": "basketball", "region": "usa", "league": "nba"},
-            {"type": "american-football", "region": "usa", "league": "nfl"},
-            {"type": "baseball", "region": "usa", "league": "mlb"},
+            {
+                "type": "football",
+                "region": "england",
+                "league": "premier-league",
+                "filename": "england_premier_league",
+            },
+            {
+                "type": "football",
+                "region": "usa",
+                "league": "mls",
+                "filename": "usa_mls",
+            },
+            {
+                "type": "basketball",
+                "region": "usa",
+                "league": "nba",
+                "filename": "basketball",
+            },
+            {
+                "type": "american-football",
+                "region": "usa",
+                "league": "nfl",
+                "filename": "american_football",
+            },
+            {
+                "type": "baseball",
+                "region": "usa",
+                "league": "mlb",
+                "filename": "baseball",
+            },
         ]
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -35,6 +60,7 @@ def scrape():
             league_type = league_info["type"]
             region = league_info["region"]
             league = league_info["league"]
+            filename = league_info["filename"]
             total = []
             try:
                 page.goto(f"https://www.oddsportal.com/{league_type}/{region}/{league}")
@@ -96,21 +122,21 @@ def scrape():
             except Exception as err:
                 print(f"Error on {league}")
 
-        file_path = f"{league}.csv"
-        with open(file_path, mode="w", newline="", encoding="utf-8") as file:
-            writer = csv.writer(file)
-            header = [
-                "Date",
-                "League",
-                "HomeTeam",
-                "AwayTeam",
-                "ODDS1",
-            ]
-            if league_type == "football":
-                header.append("ODDSX")
-            header.append("ODDS2")
-            writer.writerow(header)
-            writer.writerows(total)
+            file_path = f"./data/next_matches/{filename}.csv"
+            with open(file_path, mode="w", newline="", encoding="utf-8") as file:
+                writer = csv.writer(file)
+                header = [
+                    "Date",
+                    "League",
+                    "HomeTeam",
+                    "AwayTeam",
+                    "ODDS1",
+                ]
+                if league_type == "football":
+                    header.append("ODDSX")
+                header.append("ODDS2")
+                writer.writerow(header)
+                writer.writerows(total)
         print("Done!")
         browser.close()
 
