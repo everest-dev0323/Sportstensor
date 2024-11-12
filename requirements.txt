@@ -11,3 +11,4 @@ tabulate
 python-dotenv
 fuzzywuzzy
 tensorflow
+xgboost
