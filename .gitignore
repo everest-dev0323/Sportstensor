@@ -9,6 +9,7 @@ __pycache__/
 st/data/
 st/match_infos/
 st/models/
+st/logging/
 
 # Distribution / packaging
 .Python
