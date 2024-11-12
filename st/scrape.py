@@ -63,6 +63,8 @@ def scrape():
                                     )
 
                                 p_element = children[-1].query_selector_all("p")
+                                if len(p_element) == 6 and league_info != "football":
+                                    p_element.pop(1)
                                 if p_element[1].text_content() in [
                                     "postp.",
                                     "canc.",

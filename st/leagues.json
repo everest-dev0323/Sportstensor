@@ -33,7 +33,7 @@
         "folder_name": "usa-nfl",
         "model_name": "usa_nfl",
         "can_draw": false,
-        "is_active": true
+        "is_active": false
     },
     {
         "league_name": "NBA",
@@ -42,6 +42,6 @@
         "folder_name": "usa-nba",
         "model_name": "usa_nba",
         "can_draw": false,
-        "is_active": true
+        "is_active": false
     }
 ]

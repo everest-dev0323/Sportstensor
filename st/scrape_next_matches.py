@@ -21,36 +21,11 @@ def format_date(date_str):
 def scrape():
     with sync_playwright() as p:
         leagues = [
-            {
-                "type": "football",
-                "region": "england",
-                "league": "premier-league",
-                "filename": "england_premier_league",
-            },
-            {
-                "type": "football",
-                "region": "usa",
-                "league": "mls",
-                "filename": "usa_mls",
-            },
-            {
-                "type": "basketball",
-                "region": "usa",
-                "league": "nba",
-                "filename": "basketball",
-            },
-            {
-                "type": "american-football",
-                "region": "usa",
-                "league": "nfl",
-                "filename": "american_football",
-            },
-            {
-                "type": "baseball",
-                "region": "usa",
-                "league": "mlb",
-                "filename": "baseball",
-            },
+            {"type": "football", "region": "england", "league": "premier-league"},
+            {"type": "football", "region": "usa", "league": "mls"},
+            {"type": "basketball", "region": "usa", "league": "nba"},
+            {"type": "american-football", "region": "usa", "league": "nfl"},
+            {"type": "baseball", "region": "usa", "league": "mlb"},
         ]
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -60,7 +35,7 @@ def scrape():
             league_type = league_info["type"]
             region = league_info["region"]
             league = league_info["league"]
-            filename = league_info["filename"]
+            filename = f"{region}-{league}"
             total = []
             try:
                 page.goto(f"https://www.oddsportal.com/{league_type}/{region}/{league}")
@@ -80,6 +55,10 @@ def scrape():
                     if datetime.strptime(date_str, "%Y-%m-%d") > end_date:
                         break
                     p_element = children[-1].query_selector_all("p")
+
+                    if len(p_element) == 6 and league_info != "football":
+                        p_element.pop(1)
+
                     if p_element[1].text_content() in [
                         "canc.",
                         "award.",
@@ -113,7 +92,6 @@ def scrape():
                     total.append(
                         [
                             date_str,
-                            league,
                             home_team,
                             away_team,
                         ]
@@ -127,7 +105,6 @@ def scrape():
                 writer = csv.writer(file)
                 header = [
                     "Date",
-                    "League",
                     "HomeTeam",
                     "AwayTeam",
                     "ODDS1",
