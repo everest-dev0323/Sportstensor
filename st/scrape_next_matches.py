@@ -25,7 +25,7 @@ def scrape():
             {"type": "football", "region": "usa", "league": "mls"},
             {"type": "basketball", "region": "usa", "league": "nba"},
             {"type": "american-football", "region": "usa", "league": "nfl"},
-            {"type": "baseball", "region": "usa", "league": "mlb"},
+            # {"type": "baseball", "region": "usa", "league": "mlb"},
         ]
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -56,6 +56,11 @@ def scrape():
                     odds_element = children[-1].query_selector_all(
                         "p.default-odds-bg-bgcolor"
                     )
+                    goals_elements = children[-1].query_selector_all(
+                        "div:nth-child(1) a:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1) div:nth-child(1) > div:nth-child(2) div:nth-child(1) div"
+                    )
+                    if len(goals_elements) > 0:
+                        continue
                     if len(odds_element) == 0:
                         odds_element = children[-1].query_selector_all(
                             "span.default-odds-bg-bgcolor p"

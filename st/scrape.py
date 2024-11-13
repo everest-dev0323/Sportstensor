@@ -6,10 +6,10 @@ from datetime import datetime, timedelta
 start_year = 2024
 end_year = 2024
 leagues = [
-    # {"type": "football", "region": "england", "league": "premier-league"},
+    {"type": "football", "region": "england", "league": "premier-league"},
     {"type": "football", "region": "usa", "league": "mls", "season_type": 1},
-    # {"type": "basketball", "region": "usa", "league": "nba"},
-    # {"type": "american-football", "region": "usa", "league": "nfl"},
+    {"type": "basketball", "region": "usa", "league": "nba"},
+    {"type": "american-football", "region": "usa", "league": "nfl"},
     # {"type": "baseball", "region": "usa", "league": "mlb", "season_type": 1},
 ]
 
@@ -39,13 +39,13 @@ def scrape():
             season_type = league_info.get("season_type", None)
 
             for year in range(start_year, end_year + 1):
-                url = f"https://www.oddsportal.com/{league_type}/{region}/{league}{'-'+str(year) if season_type and year != 2024 else ''}{f'-{year}-{year + 1}' if year != 2024 and not season_type else ''}/results/#/page/1/"
+                url = f"https://www.oddsportal.com/{league_type}/{region}/{league}{'-'+str(year) if season_type and year != 2024 else ''}{f'-{year}-{year + 1}' if year != 2024 and not season_type else ''}/results/"
                 print(f"Scraping {url}")
                 try:
                     page.goto(url)
                     total = []
                     while True:
-                        page.wait_for_load_state("domcontentloaded")
+                        page.wait_for_timeout(2000)
                         page.wait_for_selector("div.eventRow")
                         events = page.query_selector_all("div.eventRow")
                         date_str = ""

@@ -73,8 +73,8 @@ def make_match_prediction(prediction: MatchPrediction):
                     "HomeTeam": [home_team],
                     "AwayTeam": [away_team],
                     "Prediction": [predict],
-                    "ProbHome": [conf_scores[1]],
-                    "ProbAway": [conf_scores[0]],
+                    "ProbHome": [conf_scores[0]],
+                    "ProbAway": [conf_scores[1]],
                     "ODDS1": [odds[0]],
                     "ODDS2": [odds[1]],
                 }
