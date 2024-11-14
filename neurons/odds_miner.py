@@ -28,7 +28,7 @@ from base.miner import BaseMinerNeuron
 from common import constants
 from common.data import League, get_league_from_string
 from common.protocol import GetLeagueCommitments, GetMatchPrediction
-from st.sport_prediction_ml import make_match_prediction
+from st.sport_prediction_odds import make_match_prediction
 
 # Define the path to the miner.env file
 MINER_ENV_PATH = os.path.join(os.path.dirname(__file__), "miner.env")

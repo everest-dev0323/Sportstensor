@@ -13,3 +13,4 @@ fuzzywuzzy
 tensorflow
 xgboost
 playwright
+schedule

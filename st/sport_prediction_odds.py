@@ -22,8 +22,9 @@ class SportPredictionModel(ABC):
 
 def make_match_prediction(prediction: MatchPrediction):
     # Lazy import to avoid circular dependency
-    from st.lstm_predictor import Predictor
+    from st.odds_predictor import Predictor
 
+    predictor = Predictor()
     bt.logging.warning(prediction)
     predictor = Predictor()
 
@@ -34,8 +35,8 @@ def make_match_prediction(prediction: MatchPrediction):
     home_team = prediction.homeTeamName
     away_team = prediction.awayTeamName
 
-    os.makedirs("./st/logging_lstm", exist_ok=True)
-    file_path = f"./st/logging_lstm/{league}.csv"
+    os.makedirs("./st/logging_odds", exist_ok=True)
+    file_path = f"./st/logging_odds/{league}.csv"
     pred_match = pd.DataFrame()
     match_date = prediction.matchDate.strftime("%Y-%m-%d")
     # Check if file exists and is non-empty
@@ -58,8 +59,8 @@ def make_match_prediction(prediction: MatchPrediction):
                     "AwayTeam": [away_team],
                     "Prediction": [predict],
                     "ProbHome": [conf_scores[0]],
-                    "ProbDraw": [conf_scores[2]],
-                    "ProbAway": [conf_scores[1]],
+                    "ProbDraw": [conf_scores[1]],
+                    "ProbAway": [conf_scores[2]],
                     "ODDS1": [odds[0]],
                     "ODDSX": [odds[1]],
                     "ODDS2": [odds[2]],

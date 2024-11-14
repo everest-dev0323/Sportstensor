@@ -11,6 +11,8 @@ st/match_infos/
 st/models/
 st/logging_lstm/
 st/logging_ml/
+st/logging_odds/
+st/logging/
 
 # Distribution / packaging
 .Python

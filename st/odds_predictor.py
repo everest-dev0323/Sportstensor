@@ -23,59 +23,6 @@ tf.get_logger().setLevel("ERROR")
 LEAGUES_PATH = "./st/leagues.json"
 UPCOMMING_MATCHES_PATH = "./st/data/next_matches"
 
-features1 = [
-    "HomeTeam",
-    "AwayTeam",
-    "HTeamEloScore",
-    "ATeamEloScore",
-    "HTdaysSinceLastMatch",
-    "ATdaysSinceLastMatch",
-    "HTW_rate",
-    "ATW_rate",
-    "ATD_rate",
-    "HTD_rate",
-    "7_HTW_rate",
-    "12_HTW_rate",
-    "7_ATW_rate",
-    "12_ATW_rate",
-    "7_HTD_rate",
-    "12_HTD_rate",
-    "7_ATD_rate",
-    "12_ATD_rate",
-    "7_HTL_rate",
-    "12_HTL_rate",
-    "7_ATL_rate",
-    "12_ATL_rate",
-    "5_HTHW_rate",
-    "5_ATAW_rate",
-    "ODDS1",
-    "ODDSX",
-    "ODDS2",
-]
-
-features2 = [
-    "HomeTeam",
-    "AwayTeam",
-    "HTeamEloScore",
-    "ATeamEloScore",
-    "HTdaysSinceLastMatch",
-    "ATdaysSinceLastMatch",
-    "HTW_rate",
-    "ATW_rate",
-    "7_HTW_rate",
-    "12_HTW_rate",
-    "7_ATW_rate",
-    "12_ATW_rate",
-    "7_HTL_rate",
-    "12_HTL_rate",
-    "7_ATL_rate",
-    "12_ATL_rate",
-    "5_HTHW_rate",
-    "5_ATAW_rate",
-    "ODDS1",
-    "ODDS2",
-]
-
 mismatch_teams = {
     "Washington Redskins": "Washington Commanders",
     "St. Louis Rams": "Los Angeles Rams",
@@ -90,124 +37,6 @@ class Predictor:
         # Load league information
         with open(LEAGUES_PATH, "r", encoding="utf-8") as file:
             self.leagues = json.load(file)
-
-    def get_match_features(
-        self, home_team, away_team, match_date, avg_team_df, can_draw
-    ):
-        def HTdaysBetweenDates(row):
-            if not (pd.isnull(row["HTLastMatchDate"])):
-                currDate = pd.to_datetime(row["Date"]).tz_localize(None)
-                prevDate = pd.to_datetime(row["HTLastMatchDate"]).tz_localize(None)
-                ndays = (currDate - prevDate).days
-                if ndays < 20:
-                    return ndays
-                else:
-                    return 0
-            else:
-                return 0
-
-        def ATdaysBetweenDates(row):
-            if not (pd.isnull(row["ATLastMatchDate"])):
-                currDate = pd.to_datetime(row["Date"]).tz_localize(None)
-                prevDate = pd.to_datetime(row["ATLastMatchDate"]).tz_localize(None)
-                ndays = (currDate - prevDate).days
-                if ndays < 20:
-                    return ndays
-                else:
-                    return 0
-            else:
-                return 0
-
-        df = pd.DataFrame(
-            {"HomeTeam": [home_team], "AwayTeam": [away_team], "Date": [match_date]}
-        )
-        if can_draw:
-            df = df.merge(
-                avg_team_df.rename(
-                    columns={
-                        "Team": "HomeTeam",
-                        "Elo_Score": "HTeamEloScore",
-                        "TW_rate": "HTW_rate",
-                        "TD_rate": "HTD_rate",
-                        "TW_rate_7": "7_HTW_rate",
-                        "TD_rate_7": "7_HTD_rate",
-                        "TL_rate_7": "7_HTL_rate",
-                        "TW_rate_12": "12_HTW_rate",
-                        "TD_rate_12": "12_HTD_rate",
-                        "TL_rate_12": "12_HTL_rate",
-                        "HTHW_rate_5": "5_HTHW_rate",
-                        "LastMatchDate": "HTLastMatchDate",
-                    }
-                ),
-                how="left",
-                left_on=["HomeTeam"],
-                right_on=["HomeTeam"],
-            )
-
-            df = df.merge(
-                avg_team_df.rename(
-                    columns={
-                        "Team": "AwayTeam",
-                        "Elo_Score": "ATeamEloScore",
-                        "TW_rate": "ATW_rate",
-                        "TD_rate": "ATD_rate",
-                        "TW_rate_7": "7_ATW_rate",
-                        "TD_rate_7": "7_ATD_rate",
-                        "TL_rate_7": "7_ATL_rate",
-                        "TW_rate_12": "12_ATW_rate",
-                        "TD_rate_12": "12_ATD_rate",
-                        "TL_rate_12": "12_ATL_rate",
-                        "ATAW_rate_5": "5_ATAW_rate",
-                        "LastMatchDate": "ATLastMatchDate",
-                    }
-                ),
-                how="left",
-                left_on=["AwayTeam"],
-                right_on=["AwayTeam"],
-            )
-        else:
-            df = df.merge(
-                avg_team_df.rename(
-                    columns={
-                        "Team": "HomeTeam",
-                        "Elo_Score": "HTeamEloScore",
-                        "TW_rate": "HTW_rate",
-                        "TW_rate_7": "7_HTW_rate",
-                        "TL_rate_7": "7_HTL_rate",
-                        "TW_rate_12": "12_HTW_rate",
-                        "TL_rate_12": "12_HTL_rate",
-                        "HTHW_rate_5": "5_HTHW_rate",
-                        "LastMatchDate": "HTLastMatchDate",
-                    }
-                ),
-                how="left",
-                left_on=["HomeTeam"],
-                right_on=["HomeTeam"],
-            )
-
-            df = df.merge(
-                avg_team_df.rename(
-                    columns={
-                        "Team": "AwayTeam",
-                        "Elo_Score": "ATeamEloScore",
-                        "TW_rate": "ATW_rate",
-                        "TW_rate_7": "7_ATW_rate",
-                        "TL_rate_7": "7_ATL_rate",
-                        "TW_rate_12": "12_ATW_rate",
-                        "TL_rate_12": "12_ATL_rate",
-                        "ATAW_rate_5": "5_ATAW_rate",
-                        "LastMatchDate": "ATLastMatchDate",
-                    }
-                ),
-                how="left",
-                left_on=["AwayTeam"],
-                right_on=["AwayTeam"],
-            )
-
-        df["HTdaysSinceLastMatch"] = df.apply(HTdaysBetweenDates, axis=1)
-        df["ATdaysSinceLastMatch"] = df.apply(ATdaysBetweenDates, axis=1)
-
-        return df
 
     def get_match_odds(self, home_team, away_team, league, can_draw):
         df = pd.read_csv(f"{UPCOMMING_MATCHES_PATH}/{league}.csv", encoding="utf-8")
@@ -311,8 +140,6 @@ class Predictor:
                 can_draw,
             )
         model_path = f"./st/models/{competition['folder_name']}"
-        data_path = f"./st/match_infos/{competition['folder_name']}"
-        fbmodel = joblib.load(f"{model_path}/ml_model.joblib")
         le = joblib.load(f"{model_path}/label_encoder.joblib")
         encoded_teams = set(le.classes_)
         home_match = self.get_best_match(home_team, encoded_teams)
@@ -338,12 +165,6 @@ class Predictor:
                 can_draw,
             )
 
-        avg_teams = pd.read_csv(f"{data_path}/avg_teams_info.csv", encoding="utf-8")
-
-        cur_match = self.get_match_features(
-            home_match, away_match, match_date, avg_teams, can_draw
-        )
-
         league = competition["folder_name"]
         odds = self.get_match_odds(home_match, away_match, league, can_draw)
         if odds is None:
@@ -355,40 +176,22 @@ class Predictor:
                 "mismatch",
                 can_draw,
             )
+        conf_scores = [1 / float(value) for value in odds]
+        y_pred = np.argmax(conf_scores)
         if can_draw:
-            cur_match.loc[:, ["ODDS1", "ODDSX", "ODDS2"]] = odds
-            cur_match = cur_match[features1]
-        else:
-            cur_match.loc[:, ["ODDS1", "ODDS2"]] = odds
-            cur_match = cur_match[features2]
-
-        result = pd.concat([cur_match], ignore_index=True)
-        result["HomeTeam"] = result["HomeTeam"].apply(
-            lambda x: le.transform([x])[0] if x in encoded_teams else None
-        )
-        result["AwayTeam"] = result["AwayTeam"].apply(
-            lambda x: le.transform([x])[0] if x in encoded_teams else None
-        )
-
-        imputer = SimpleImputer()
-        X = imputer.fit_transform(result)
-
-        y_pred = fbmodel.predict(X)
-        y_pred_proba = fbmodel.predict_proba(X)
-        if can_draw:
-            if y_pred == 2:
+            if y_pred == 0:
                 return (
                     home_team,
-                    y_pred_proba[0],
+                    conf_scores,
                     np.array(odds),
                     ProbabilityChoice.HOMETEAM,
                     league,
                     can_draw,
                 )
-            elif y_pred == 1:
+            elif y_pred == 2:
                 return (
                     away_team,
-                    y_pred_proba[0],
+                    conf_scores,
                     np.array(odds),
                     ProbabilityChoice.AWAYTEAM,
                     league,
@@ -397,17 +200,17 @@ class Predictor:
             else:
                 return (
                     "DRAW",
-                    y_pred_proba[0],
+                    conf_scores,
                     np.array(odds),
                     ProbabilityChoice.DRAW,
                     league,
                     can_draw,
                 )
         else:
-            if y_pred == 1:
+            if y_pred == 0:
                 return (
                     home_team,
-                    y_pred_proba[0],
+                    conf_scores,
                     np.array(odds),
                     ProbabilityChoice.HOMETEAM,
                     league,
@@ -416,7 +219,7 @@ class Predictor:
             else:
                 return (
                     away_team,
-                    y_pred_proba[0],
+                    conf_scores,
                     np.array(odds),
                     ProbabilityChoice.AWAYTEAM,
                     league,

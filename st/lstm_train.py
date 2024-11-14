@@ -128,7 +128,6 @@ for league in leagues:
     E0_data["AwayTeam"] = E0_data["AwayTeam"].apply(
         lambda x: le.transform([x])[0] if x in encoded_teams else None
     )
-    print(E0_data)
     if league["can_draw"]:
         E0_data = E0_data[
             (E0_data["ODDS1"] != "-")

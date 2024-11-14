@@ -323,7 +323,7 @@ class Predictor:
 
         can_draw = competition["can_draw"] if not competition is None else True
         conf_scores = [0.5, 0.5, 0.5] if can_draw else [0.5, 0.5]
-        odds = [0.5, 0.5, 0.5] if can_draw else [0.5, 0.5]
+        odds = [2, 2, 2] if can_draw else [2, 2]
         if competition is None:
             return (
                 home_team,
@@ -376,7 +376,7 @@ class Predictor:
             return (
                 home_team,
                 conf_scores,
-                [0.5, 0.5, 0.5] if can_draw else [0.5, 0.5],
+                [2, 2, 2] if can_draw else [2, 2],
                 ProbabilityChoice.HOMETEAM,
                 "mismatch",
                 can_draw,
