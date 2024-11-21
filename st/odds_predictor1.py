@@ -20,8 +20,8 @@ from common.data import ProbabilityChoice
 # Set TensorFlow logging to only show errors
 tf.get_logger().setLevel("ERROR")
 
-LEAGUES_PATH = "./st/leagues.json"
-UPCOMMING_MATCHES_PATH = "./st/data/next_matches"
+LEAGUES_PATH = "./leagues.json"
+UPCOMMING_MATCHES_PATH = "./data/next_matches"
 
 mismatch_teams = {
     "Washington Redskins": "Washington Commanders",
@@ -90,9 +90,7 @@ class Predictor:
         )
         if competition is None:
             if sport == 1:
-                le = joblib.load(
-                    "./st/models/england-premier-league/label_encoder.joblib"
-                )
+                le = joblib.load("./models/england-premier-league/label_encoder.joblib")
                 encoded_teams = set(le.classes_)
                 home_match = self.get_best_match(home_team, encoded_teams)
                 away_match = self.get_best_match(away_team, encoded_teams)
@@ -134,7 +132,7 @@ class Predictor:
                 ProbabilityChoice.HOMETEAM,
                 "mismatch",
             )
-        model_path = f"./st/models/{competition['folder_name']}"
+        model_path = f"./models/{competition['folder_name']}"
         le = joblib.load(f"{model_path}/label_encoder.joblib")
         encoded_teams = set(le.classes_)
         home_match = self.get_best_match(home_team, encoded_teams)

@@ -54,9 +54,9 @@ def apply_gaussian_filter(closing_odds, probability):
     return exp_component
 
 
-def make_match_prediction(prediction: MatchPrediction, hotkey=None):
+def make_match_prediction(prediction: MatchPrediction, hotkey):
     # Lazy import to avoid circular dependency
-    from st.odds_predictor import Predictor
+    from st.odds_predictor1 import Predictor
 
     predictor = Predictor()
     bt.logging.warning(prediction)
@@ -115,8 +115,8 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None):
     prediction.probabilityChoice = result
     prediction.probability = max_prob
     try:
-        os.makedirs("./st/logging_odds", exist_ok=True)
-        file_path = f"./st/logging_odds/{league}.csv"
+        os.makedirs("./logging_odds", exist_ok=True)
+        file_path = f"./logging_odds/{league}.csv"
         # Check if file exists and is non-empty
         if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
             df = pd.read_csv(file_path, encoding="utf-8")
@@ -144,3 +144,23 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None):
     except Exception as e:
         bt.logging.warning("To save the prediction logging for each validator.", e)
     return prediction
+
+
+prediction = MatchPrediction(
+    predictionId=None,
+    minerId=None,
+    hotkey=None,
+    matchId="b45314557329c2ec942453128ab100ec",
+    matchDate="2024-11-22 03:30:00",
+    sport=4,
+    league="NBA",
+    isScored=False,
+    scoredDate=None,
+    homeTeamName="Los Angeles Lakers",
+    awayTeamName="Orlando Magic",
+    probabilityChoice=None,
+    probability=None,
+)
+hotkey = "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v"
+result = make_match_prediction(prediction, hotkey)
+bt.logging.success(result)

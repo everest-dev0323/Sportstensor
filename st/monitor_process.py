@@ -47,7 +47,8 @@ def run_scripts_sequentially():
 
 
 # Schedule the sequential execution of scripts every 3 days
-schedule.every(1).hours.do(run_scripts_sequentially)
+print("Scraping process monitor is running now!")
+schedule.every(30).minutes.do(run_scripts_sequentially)
 
 # Keep the script running to check the schedule
 while True:

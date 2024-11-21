@@ -58,8 +58,8 @@ def make_match_prediction(prediction: MatchPrediction):
                     "HomeTeam": [home_team],
                     "AwayTeam": [away_team],
                     "Prediction": [predict],
-                    "ProbHome": [conf_scores[0]],
-                    "ProbDraw": [conf_scores[2]],
+                    "ProbHome": [conf_scores[2]],
+                    "ProbDraw": [conf_scores[0]],
                     "ProbAway": [conf_scores[1]],
                     "ODDS1": [odds[0]],
                     "ODDSX": [odds[1]],
@@ -84,5 +84,5 @@ def make_match_prediction(prediction: MatchPrediction):
 
     prediction.probabilityChoice = result
     prediction.probability = np.max(conf_scores)
-
+    bt.logging.warning(prediction)
     return prediction

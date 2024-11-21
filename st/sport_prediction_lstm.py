@@ -20,7 +20,7 @@ class SportPredictionModel(ABC):
         self.prediction.awayTeamScore = 0
 
 
-def make_match_prediction(prediction: MatchPrediction):
+def make_match_prediction(prediction: MatchPrediction, hotkey):
     # Lazy import to avoid circular dependency
     from st.lstm_predictor import Predictor
 

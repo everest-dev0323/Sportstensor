@@ -28,7 +28,7 @@ from base.miner import BaseMinerNeuron
 from common import constants
 from common.data import League, get_league_from_string
 from common.protocol import GetLeagueCommitments, GetMatchPrediction
-from st.sport_prediction_odds import make_match_prediction
+from st.sport_prediction_odds1 import make_match_prediction
 
 # Define the path to the miner.env file
 MINER_ENV_PATH = os.path.join(os.path.dirname(__file__), "miner.env")
@@ -89,9 +89,7 @@ class Miner(BaseMinerNeuron):
         )
 
         # Make the match prediction based on the requested MatchPrediction object
-        synapse.match_prediction = make_match_prediction(
-            synapse.match_prediction, synapse.dendrite.hotkey
-        )
+        synapse.match_prediction = make_match_prediction(synapse.match_prediction)
         synapse.version = constants.PROTOCOL_VERSION
 
         bt.logging.success(
