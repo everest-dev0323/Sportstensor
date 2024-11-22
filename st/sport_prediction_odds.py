@@ -67,7 +67,6 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None):
     home_team = prediction.homeTeamName
     away_team = prediction.awayTeamName
 
-    odds = list(map(float, odds))
     time_difference = 0
     current_datetime_utc = datetime.now(pytz.UTC)
     try:
@@ -86,8 +85,8 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None):
         )
 
     # Find the maximum
-    if time_difference < 40 and time_difference >= 5:
-        is_correct = random.randint(0, 10000) % 2 if np.max(odds) < 2.6 else 1
+    if time_difference < 15 and time_difference >= 5:
+        is_correct = random.randint(0, 10000) % 2 if abs(odds[0] - odds[1]) < 1 else 1
     else:
         is_correct = random.randint(0, 10000) % 2
     result = (

@@ -167,6 +167,8 @@ class Predictor:
                 ProbabilityChoice.HOMETEAM,
                 "mismatch",
             )
+        odds = list(map(float, odds))
+        odds = np.abs(odds)
         conf_scores = [1 / float(value) for value in odds]
         y_pred = np.argmax(conf_scores)
 
@@ -174,7 +176,7 @@ class Predictor:
             return (
                 home_team,
                 conf_scores,
-                np.array(odds),
+                odds,
                 ProbabilityChoice.AWAYTEAM,
                 league,
             )
@@ -182,7 +184,7 @@ class Predictor:
             return (
                 away_team,
                 conf_scores,
-                np.array(odds),
+                odds,
                 ProbabilityChoice.HOMETEAM,
                 league,
             )

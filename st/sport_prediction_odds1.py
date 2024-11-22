@@ -67,7 +67,6 @@ def make_match_prediction(prediction: MatchPrediction, hotkey):
     home_team = prediction.homeTeamName
     away_team = prediction.awayTeamName
 
-    odds = list(map(float, odds))
     time_difference = 0
     current_datetime_utc = datetime.now(pytz.UTC)
     try:
@@ -156,8 +155,8 @@ prediction = MatchPrediction(
     league="NBA",
     isScored=False,
     scoredDate=None,
-    homeTeamName="Los Angeles Lakers",
-    awayTeamName="Orlando Magic",
+    homeTeamName="Everton",
+    awayTeamName="Brentford",
     probabilityChoice=None,
     probability=None,
 )
