@@ -23,38 +23,7 @@ class SportPredictionModel(ABC):
         self.prediction.awayTeamScore = 0
 
 
-def calculate_edge(is_correct, prediction_prob, closing_odds):
-    reward_punishment = -1 if is_correct else 1
-
-    # check if closing_odd is available
-    if closing_odds is None or prediction_prob == 0:
-        return 0.0, 0
-
-    edge = closing_odds - (1 / prediction_prob)
-    return reward_punishment * edge
-
-
-def apply_gaussian_filter(closing_odds, probability):
-    t = 1.0  # Controls the spread/width of the Gaussian curve outside the plateau region. Larger t means slower decay in the exponential term
-    a = (
-        -2
-    )  # Controls the height of the plateau boundary. More negative a means lower plateau boundary
-    b = 0.3  # Controls how quickly the plateau boundary changes with odds. Larger b means faster exponential decay in plateau width
-    c = 3  # Minimum plateau width/boundary
-
-    w = a * np.exp(-b * (closing_odds - 1)) + c
-    diff = abs(closing_odds - 1 / probability)
-
-    # note that sigma^2 = odds now
-    # plateaued curve.
-    exp_component = (
-        1.0 if diff <= w else np.exp(-np.power(diff, 2) / (t * 2 * closing_odds))
-    )
-
-    return exp_component
-
-
-def make_match_prediction(prediction: MatchPrediction, hotkey):
+def make_match_prediction(prediction: MatchPrediction, hotkey=None, ss58_address=None):
     # Lazy import to avoid circular dependency
     from st.odds_predictor1 import Predictor
 
@@ -84,38 +53,29 @@ def make_match_prediction(prediction: MatchPrediction, hotkey):
             e,
         )
 
-    # Find the maximum
-    if time_difference < 40 and time_difference >= 5:
-        is_correct = random.randint(0, 10000) % 2 if np.max(odds) < 2.6 else 1
+    is_correct = 0 if abs(odds[0] - odds[1]) > 1.5 else 1
+
+    closing_odds = np.min(odds) if is_correct else np.max(odds)
+    idx = np.argmin(odds)
+    if is_correct == 1 and idx == 0:
+        result = ProbabilityChoice.HOMETEAM
+    elif is_correct == 1 and idx == 1:
+        result = ProbabilityChoice.AWAYTEAM
+    elif is_correct == 0 and idx == 0:
+        result = ProbabilityChoice.AWAYTEAM
     else:
-        is_correct = random.randint(0, 10000) % 2
-    result = (
-        ProbabilityChoice.AWAYTEAM
-        if is_correct == np.argmax(odds)
-        else ProbabilityChoice.HOMETEAM
-    )
+        result = ProbabilityChoice.HOMETEAM
 
-    max_score = float("-inf")
-    max_prob = None
-    closing_odds = np.max(odds) if is_correct else np.min(odds)
-    if is_correct:
-        range = np.arange(0.01, 0.5, 0.01)
-        for prob in range:
-            sigma = calculate_edge(is_correct, prob, closing_odds)
-
-            gfilter = apply_gaussian_filter(closing_odds, prob)
-
-            score = sigma * gfilter
-            if score > max_score:
-                max_score = score
-                max_prob = prob
-    else:
-        max_prob = 1 / closing_odds
+    min_prob = 1 / closing_odds
+    min_prob = min_prob if min_prob > 0.5 else 0.51
+    max_prob = 0.99
+    prob = random.uniform(min_prob, max_prob)
+    
     prediction.probabilityChoice = result
-    prediction.probability = max_prob
+    prediction.probability = prob
     try:
         os.makedirs("./logging_odds", exist_ok=True)
-        file_path = f"./logging_odds/{league}.csv"
+        file_path = f"./logging_odds/{league}_{ss58_address}.csv"
         # Check if file exists and is non-empty
         if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
             df = pd.read_csv(file_path, encoding="utf-8")
@@ -128,7 +88,7 @@ def make_match_prediction(prediction: MatchPrediction, hotkey):
                 "HomeTeam": [home_team],
                 "AwayTeam": [away_team],
                 "Prediction": [result.value],
-                "Probability": [max_prob],
+                "Probability": [prob],
                 "ProbHome": [conf_scores[0]],
                 "ProbAway": [conf_scores[1]],
                 "ODDS1": [odds[0]],
@@ -150,13 +110,13 @@ prediction = MatchPrediction(
     minerId=None,
     hotkey=None,
     matchId="b45314557329c2ec942453128ab100ec",
-    matchDate="2024-11-22 03:30:00",
+    matchDate="2024-12-06 01:00:00",
     sport=4,
     league="NBA",
     isScored=False,
     scoredDate=None,
-    homeTeamName="Everton",
-    awayTeamName="Brentford",
+    homeTeamName="Memphis Grizzlies",
+    awayTeamName="Sacramento Kings",
     probabilityChoice=None,
     probability=None,
 )

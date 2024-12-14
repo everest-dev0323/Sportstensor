@@ -2,7 +2,7 @@ python neurons/odds_miner.py \
     --netuid 41 \
     --subtensor.network finney \
     --wallet.name tao-coldkey \
-    --wallet.hotkey tao-hotkey2 \
+    --wallet.hotkey tao-hotkey1 \
     --axon.port 8103 \
     --blacklist.force_validator_permit \
     --logging.debug

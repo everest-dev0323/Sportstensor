@@ -22,7 +22,7 @@ def scrape():
     with sync_playwright() as p:
         leagues = [
             {"type": "football", "region": "england", "league": "premier-league"},
-            {"type": "football", "region": "usa", "league": "mls"},
+            # {"type": "football", "region": "usa", "league": "mls"},
             {"type": "basketball", "region": "usa", "league": "nba"},
             {"type": "american-football", "region": "usa", "league": "nfl"},
             # {"type": "baseball", "region": "usa", "league": "mlb"},
@@ -38,6 +38,7 @@ def scrape():
             total = []
             try:
                 page.goto(f"https://www.oddsportal.com/{league_type}/{region}/{league}")
+                page.wait_for_timeout(3000)
                 page.wait_for_selector("div.eventRow")
                 events = page.query_selector_all("div.eventRow")
 

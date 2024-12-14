@@ -90,7 +90,7 @@ class Miner(BaseMinerNeuron):
 
         # Make the match prediction based on the requested MatchPrediction object
         synapse.match_prediction = make_match_prediction(
-            synapse.match_prediction, synapse.dendrite.hotkey
+            synapse.match_prediction, synapse.dendrite.hotkey, self.wallet.hotkey.ss58_address
         )
         synapse.version = constants.PROTOCOL_VERSION
 

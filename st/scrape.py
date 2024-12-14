@@ -3,11 +3,11 @@ import os
 import csv
 from datetime import datetime, timedelta
 
-start_year = 2024
+start_year = 2015
 end_year = 2024
 leagues = [
     {"type": "football", "region": "england", "league": "premier-league"},
-    {"type": "football", "region": "usa", "league": "mls", "season_type": 1},
+    # {"type": "football", "region": "usa", "league": "mls", "season_type": 1},
     {"type": "basketball", "region": "usa", "league": "nba"},
     {"type": "american-football", "region": "usa", "league": "nfl"},
     # {"type": "baseball", "region": "usa", "league": "mlb", "season_type": 1},
@@ -45,7 +45,7 @@ def scrape():
                     page.goto(url)
                     total = []
                     while True:
-                        page.wait_for_timeout(2000)
+                        # page.wait_for_timeout(2000)
                         page.wait_for_selector("div.eventRow")
                         events = page.query_selector_all("div.eventRow")
                         date_str = ""
