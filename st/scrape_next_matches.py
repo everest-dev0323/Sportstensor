@@ -22,9 +22,9 @@ def scrape():
     with sync_playwright() as p:
         leagues = [
             {"type": "football", "region": "england", "league": "premier-league"},
-            # {"type": "football", "region": "usa", "league": "mls"},
             {"type": "basketball", "region": "usa", "league": "nba"},
             {"type": "american-football", "region": "usa", "league": "nfl"},
+            # {"type": "football", "region": "usa", "league": "mls"},
             # {"type": "baseball", "region": "usa", "league": "mlb"},
         ]
         browser = p.chromium.launch(headless=True)
@@ -38,7 +38,7 @@ def scrape():
             total = []
             try:
                 page.goto(f"https://www.oddsportal.com/{league_type}/{region}/{league}")
-                page.wait_for_timeout(3000)
+                page.wait_for_timeout(10000)
                 page.wait_for_selector("div.eventRow")
                 events = page.query_selector_all("div.eventRow")
 
@@ -74,23 +74,22 @@ def scrape():
                         ]
                         + [odds.text_content() for odds in odds_element]
                     )
+                file_path = f"./data/next_matches/{region}-{league}.csv"
+                with open(file_path, mode="w", newline="", encoding="utf-8") as file:
+                    writer = csv.writer(file)
+                    header = [
+                        "Date",
+                        "HomeTeam",
+                        "AwayTeam",
+                        "ODDS1",
+                    ]
+                    if league_type == "football":
+                        header.append("ODDSX")
+                    header.append("ODDS2")
+                    writer.writerow(header)
+                    writer.writerows(total)
             except Exception as err:
                 print(f"Error on {league}")
-
-            file_path = f"./data/next_matches/{region}-{league}.csv"
-            with open(file_path, mode="w", newline="", encoding="utf-8") as file:
-                writer = csv.writer(file)
-                header = [
-                    "Date",
-                    "HomeTeam",
-                    "AwayTeam",
-                    "ODDS1",
-                ]
-                if league_type == "football":
-                    header.append("ODDSX")
-                header.append("ODDS2")
-                writer.writerow(header)
-                writer.writerows(total)
         print("Done!")
         browser.close()
 

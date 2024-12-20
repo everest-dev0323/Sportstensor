@@ -30,6 +30,8 @@ def run_script(script_name):
         result = subprocess.run(
             [venv_python, script_path], capture_output=True, text=True
         )
+        
+        logging.info(result.stdout.replace('\n', '  @:@  '))
 
         # Log end time and output
         logging.info(f"Completed - {script_name}")
@@ -45,8 +47,8 @@ def run_scripts_sequentially():
     run_script("./scrape_next_matches.py")
     logging.info(f"\n")
 
-
 # Schedule the sequential execution of scripts every 3 days
+run_scripts_sequentially()
 print("Scraping process monitor is running now!")
 schedule.every(30).minutes.do(run_scripts_sequentially)
 
