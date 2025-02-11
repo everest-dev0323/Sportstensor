@@ -2,12 +2,14 @@ from abc import ABC, abstractmethod
 from common.data import MatchPrediction, ProbabilityChoice
 import pandas as pd
 import os
+import json
 import numpy as np
 import bittensor as bt
 import random
 from datetime import datetime, timezone
 import pytz
 
+HOTKEY_PATH = "./st/hotkeys.json"
 
 class SportPredictionModel(ABC):
     def __init__(self, prediction):
@@ -21,6 +23,12 @@ class SportPredictionModel(ABC):
     def set_default_scores(self):
         self.prediction.homeTeamScore = 0
         self.prediction.awayTeamScore = 0
+        
+def get_hotkeys():
+    hotkeys = None
+    with open(HOTKEY_PATH, "r", encoding="utf-8") as file:
+        hotkeys = json.load(file)
+    return hotkeys
 
 def make_match_prediction(prediction: MatchPrediction, hotkey=None, ss58_address=None):
     # Lazy import to avoid circular dependency
@@ -53,15 +61,31 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None, ss58_address
         )
 
     closing_odds = np.min(odds)
+    diff_odds = abs(odds[0] - odds[1])
     idx = np.argmin(odds)
     if idx == 0:
         result = ProbabilityChoice.HOMETEAM
     else:
         result = ProbabilityChoice.AWAYTEAM
-
-    min_prob = 1 / closing_odds
-    min_prob = min_prob if min_prob > 0.95 else 0.95
+    hotkeys = get_hotkeys()
+    min_prob = 0.95
     max_prob = 1
+    if hotkeys is None or not hotkeys or not ss58_address in hotkeys:
+        if diff_odds >= 1.3:
+            min_prob = 1 / closing_odds
+            min_prob = min_prob if min_prob > 0.95 else 0.95
+            max_prob = 1
+        else:
+            min_prob = 0.8
+            max_prob = 0.85
+            if idx == 0:
+                result = ProbabilityChoice.AWAYTEAM
+            else:
+                result = ProbabilityChoice.HOMETEAM
+    else:
+        min_prob = 1 / closing_odds
+        min_prob = min_prob if min_prob > 0.95 else 0.95
+        max_prob = 1
     prob = random.uniform(min_prob, max_prob)
     
     prediction.probabilityChoice = result

@@ -11,14 +11,10 @@ from common.data import MatchPrediction
 
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
-import tensorflow as tf
 import warnings
 
 warnings.filterwarnings("ignore")
 from common.data import ProbabilityChoice
-
-# Set TensorFlow logging to only show errors
-tf.get_logger().setLevel("ERROR")
 
 LEAGUES_PATH = "./leagues.json"
 UPCOMMING_MATCHES_PATH = "./data/next_matches"

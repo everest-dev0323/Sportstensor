@@ -2,13 +2,14 @@ from abc import ABC, abstractmethod
 from common.data import MatchPrediction, ProbabilityChoice
 import pandas as pd
 import os
+import json
 import numpy as np
 import bittensor as bt
 import random
 from datetime import datetime, timezone
 import pytz
 
-
+HOTKEY_PATH = "./hotkeys.json"
 class SportPredictionModel(ABC):
     def __init__(self, prediction):
         self.prediction = prediction
@@ -22,7 +23,11 @@ class SportPredictionModel(ABC):
         self.prediction.homeTeamScore = 0
         self.prediction.awayTeamScore = 0
 
-
+def get_hotkeys():
+    hotkeys = None
+    with open(HOTKEY_PATH, "r", encoding="utf-8") as file:
+        hotkeys = json.load(file)
+    return hotkeys
 def make_match_prediction(prediction: MatchPrediction, hotkey=None, ss58_address=None):
     # Lazy import to avoid circular dependency
     from st.odds_predictor1 import Predictor
@@ -53,55 +58,38 @@ def make_match_prediction(prediction: MatchPrediction, hotkey=None, ss58_address
             e,
         )
 
-    is_correct = 0 if abs(odds[0] - odds[1]) > 1.5 else 1
-
-    closing_odds = np.min(odds) if is_correct else np.max(odds)
+    closing_odds = np.min(odds)
+    diff_odds = abs(odds[0] - odds[1])
     idx = np.argmin(odds)
-    if is_correct == 1 and idx == 0:
+    if idx == 0:
         result = ProbabilityChoice.HOMETEAM
-    elif is_correct == 1 and idx == 1:
-        result = ProbabilityChoice.AWAYTEAM
-    elif is_correct == 0 and idx == 0:
-        result = ProbabilityChoice.AWAYTEAM
     else:
-        result = ProbabilityChoice.HOMETEAM
-
-    min_prob = 1 / closing_odds
-    min_prob = min_prob if min_prob > 0.5 else 0.51
-    max_prob = 0.99
+        result = ProbabilityChoice.AWAYTEAM
+    hotkeys = get_hotkeys()
+    print(hotkeys, ss58_address)
+    min_prob = 0.95
+    max_prob = 1
+    if hotkeys is None or not hotkeys or not ss58_address in hotkeys:
+        if diff_odds >= 1:
+            min_prob = 1 / closing_odds
+            min_prob = min_prob if min_prob > 0.95 else 0.95
+            max_prob = 1
+        else:
+            min_prob = 0.8
+            max_prob = 0.85
+            if idx == 0:
+                result = ProbabilityChoice.AWAYTEAM
+            else:
+                result = ProbabilityChoice.HOMETEAM
+    else:
+        min_prob = 1 / closing_odds
+        min_prob = min_prob if min_prob > 0.95 else 0.95
+        max_prob = 1
     prob = random.uniform(min_prob, max_prob)
     
     prediction.probabilityChoice = result
     prediction.probability = prob
-    try:
-        os.makedirs("./logging_odds", exist_ok=True)
-        file_path = f"./logging_odds/{league}_{ss58_address}.csv"
-        # Check if file exists and is non-empty
-        if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
-            df = pd.read_csv(file_path, encoding="utf-8")
-        else:
-            df = pd.DataFrame()
-
-        match = pd.DataFrame(
-            {
-                "Date": [match_datetime_utc.strftime("%Y-%m-%d %H:%M:%S")],
-                "HomeTeam": [home_team],
-                "AwayTeam": [away_team],
-                "Prediction": [result.value],
-                "Probability": [prob],
-                "ProbHome": [conf_scores[0]],
-                "ProbAway": [conf_scores[1]],
-                "ODDS1": [odds[0]],
-                "ODDS2": [odds[1]],
-                "UpdatedTime": [current_datetime_utc.strftime("%Y-%m-%d %H:%M:%S")],
-                "Hotkey": [hotkey],
-                "DiffTime": [time_difference],
-            }
-        )
-        matches = pd.concat([df, match], ignore_index=True)
-        matches.to_csv(file_path, index=False, encoding="utf-8")
-    except Exception as e:
-        bt.logging.warning("To save the prediction logging for each validator.", e)
+    
     return prediction
 
 
@@ -110,16 +98,16 @@ prediction = MatchPrediction(
     minerId=None,
     hotkey=None,
     matchId="b45314557329c2ec942453128ab100ec",
-    matchDate="2024-12-06 01:00:00",
+    matchDate="2025-02-11 01:00:00",
     sport=4,
     league="NBA",
     isScored=False,
     scoredDate=None,
-    homeTeamName="Memphis Grizzlies",
-    awayTeamName="Sacramento Kings",
+    homeTeamName="Phoenix Suns",
+    awayTeamName="Memphis Grizzlies",
     probabilityChoice=None,
     probability=None,
 )
-hotkey = "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v"
-result = make_match_prediction(prediction, hotkey)
+hotkey = "5C867hePvMYAkGXuScReRtNDG1yZNip9zAEZ5eAivaLiQPCF1"
+result = make_match_prediction(prediction, hotkey, hotkey)
 bt.logging.success(result)
